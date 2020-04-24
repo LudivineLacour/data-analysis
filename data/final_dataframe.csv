@@ -1,591 +1,591 @@
-,date,day,month,year,cases,deaths,country,country_code,countryterritoryCode,popData2018,coronavirus,related_queries,trends_title,trends_traffic
-0,2020-04-18,18,4,2020,36,4,Australia,AU,AUS,24992369.0,32,,"{0: 'Mitch Cronin', 1: 'One World: Together at Home', 2: 'Phantom of the Opera', 3: 'Lindsay Lohan', 4: 'Brisbane weather', 5: 'Fast and Furious', 6: 'iPhone SE 2020', 7: ""Salute Deadpool's pants"", 8: 'Who owns Virgin Australia', 9: 'Carl Williams', 10: 'The band', 11: 'Sergio', 12: 'The King: Eternal Monarch', 13: 'Tyson Stengle', 14: 'Doctor doctor', 15: 'Norman Hunter', 16: 'Sam Heughan', 17: 'Dr. Phil', 18: 'Leighton Meester'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '2K+', 17: '2K+', 18: '2K+'}"
-1,2020-04-17,17,4,2020,39,0,Australia,AU,AUS,24992369.0,41,,"{0: 'Brian Dennehy', 1: 'Cassie Sainsbury', 2: 'Lachie Hunter', 3: 'Too Hot To Handle cast', 4: 'Scott Morrison', 5: 'Remdesivir', 6: 'Howard Finkel', 7: 'China coronavirus', 8: 'Fiona Apple', 9: 'Fifty Shades of Grey', 10: 'Bindi Irwin', 11: 'Riverdale', 12: 'Ivanka Trump', 13: 'Keiji Fujiwara', 14: 'Peter Dutton', 15: 'Captain Tom Moore', 16: 'GTA 6', 17: 'Angelika Timanina', 18: 'Orlando Brown', 19: 'WA schools'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-2,2020-04-16,16,4,2020,42,2,Australia,AU,AUS,24992369.0,45,,"{0: 'iPhone SE', 1: 'Brandi Glanville', 2: 'Outer Banks', 3: 'Isabel Lucas', 4: 'WWE', 5: 'Malcolm Turnbull', 6: 'Virgin Australia news', 7: 'Cameron Diaz', 8: 'Al Capone', 9: 'Vince McMahon', 10: 'Jeff Bezos', 11: 'Chelsea Handler', 12: 'Michael Buble', 13: 'NSW schools', 14: 'The Last Dance', 15: 'Tedros Adhanom', 16: 'WWE releases', 17: 'AT1 ASX', 18: 'Rent relief Victoria'}","{0: '100K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '2K+'}"
-3,2020-04-15,15,4,2020,50,0,Australia,AU,AUS,24992369.0,46,,"{0: 'P.E Nation', 1: 'Joe Biden', 2: 'Amy Schumer son name', 3: ""Mother's Day 2020"", 4: 'Trump WHO', 5: 'Drakes Supermarkets', 6: 'Ricky Gervais', 7: 'Earthquake', 8: 'OnePlus 8', 9: 'Aussie Disposals', 10: 'Annika Smethurst', 11: 'Gita Gopinath', 12: 'Jimmy Webb', 13: 'Katerino', 14: 'Paige Spiranac', 15: 'IMF', 16: 'Kevin Rudd', 17: 'COVID-19 Western Australia', 18: 'Vacation', 19: 'Events'}","{0: '50K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-4,2020-04-14,14,4,2020,44,0,Australia,AU,AUS,24992369.0,47,,"{0: 'Compass', 1: 'Virgin Australia', 2: 'Google Meet', 3: 'Dune', 4: 'Chernobyl', 5: 'Rick May', 6: 'JobKeeper payment ATO', 7: 'Wet market', 8: 'Karl-Anthony Towns', 9: 'Fatberg', 10: 'Reynold Poernomo', 11: 'One Direction', 12: 'Johntravolta', 13: 'Tarvaris Jackson', 14: 'Kyle Larson', 15: 'Afterpay (ASX', 16: 'Singapore coronavirus', 17: 'Tamil New Year 2020', 18: 'Marina abramovic', 19: 'John Conway'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '2K+', 19: '2K+'}"
-5,2020-04-13,13,4,2020,33,4,Australia,AU,AUS,24992369.0,55,,"{0: 'MasterChef Australia 2020', 1: 'MasterChef', 2: 'Killing Eve', 3: 'Ben Ungermann', 4: 'Tasmania coronavirus', 5: 'The Secrets She Keeps', 6: 'Tom Hanks', 7: 'Fauci', 8: 'Craig Foster', 9: 'Billie Eilish bikini', 10: 'Pew pew iPhone', 11: 'John Anderson', 12: 'Jock Masterchef', 13: 'Qld schools', 14: 'Peter Bonetti', 15: 'Vaisakhi 2020', 16: 'Neymar mum'}","{0: '100K+', 1: '50K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+'}"
-6,2020-04-12,12,4,2020,51,3,Australia,AU,AUS,24992369.0,43,,"{0: 'Tim Brooke-Taylor', 1: 'Easter', 2: 'Happy Easter', 3: 'Stirling Moss', 4: 'Andrea Bocelli', 5: 'Happy Easter message', 6: 'Easter movies', 7: 'Joel McHale', 8: 'Might And Power', 9: 'Easter Monday', 10: 'Julian Assange', 11: 'Colby Cave', 12: 'Easter greetings', 13: 'Gary Jubelin', 14: 'Easter wishes', 15: 'Reese Witherspoon', 16: 'House Rules', 17: 'Tim Lafai', 18: 'Lego Masters', 19: 'Easter images'}","{0: '200K+', 1: '200K+', 2: '50K+', 3: '50K+', 4: '50K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '2K+', 19: '2K+'}"
-7,2020-04-11,11,4,2020,86,2,Australia,AU,AUS,24992369.0,38,,"{0: 'Georgia Groome', 1: 'Easter Bunny', 2: 'Krakatoa', 3: 'Cooped Up movie', 4: 'Code 8', 5: 'Kristen Bell', 6: 'Johnny Depp', 7: 'Prisoners', 8: 'AnnaSophia Robb', 9: 'Kenny Dalglish', 10: 'Dredd', 11: 'Moses', 12: 'Easter saturday'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '2K+', 11: '2K+', 12: '2K+'}"
-8,2020-04-10,10,4,2020,100,2,Australia,AU,AUS,24992369.0,51,,"{0: 'Good Friday Appeal 2020', 1: 'Good Friday 2020', 2: 'Love Wedding Repeat', 3: 'Fish and chips', 4: 'Pete Evans', 5: 'Daniel Craig', 6: 'Trolls World Tour', 7: 'Olivia Munn', 8: ""Royal Children's Hospital Good Friday Appeal"", 9: 'Hot cross buns', 10: 'Hart Island', 11: 'Easter movies', 12: 'UFC 249', 13: 'Jennifer Grey', 14: 'Jesus Christ Superstar', 15: 'Final Fantasy VII Remake', 16: 'Gwyneth Paltrow', 17: 'Good friday meaning', 18: ""Criniti's"", 19: 'What is Good Friday'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-9,2020-04-09,9,4,2020,96,5,Australia,AU,AUS,24992369.0,51,,"{0: 'Bernie Sanders', 1: 'Good Friday', 2: 'Snapchat', 3: 'Adidas', 4: 'Florence Pugh', 5: 'NRL', 6: 'Glenn Fredly', 7: 'Chynna', 8: 'Don Harwin', 9: 'Modern Family', 10: 'Hot cross buns recipe', 11: 'The hunt', 12: 'Amber Heard', 13: 'The good, the bad and the ugly', 14: 'ANU', 15: 'Ashley Harkleroad', 16: 'Nat Fyfe', 17: 'Bloom', 18: 'Maundy Thursday', 19: 'Linda Tripp'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-10,2020-04-08,8,4,2020,112,3,Australia,AU,AUS,24992369.0,54,,"{0: 'PS5 controller', 1: 'John Prine', 2: 'Valorant', 3: 'Jo Ferguson', 4: 'Job Keeper', 5: 'Happy Easter', 6: 'JobKeeper payment', 7: 'Quenton Leach', 8: 'Make me a drink', 9: 'Bruce Willis', 10: 'Passover', 11: 'Wuhan', 12: 'UK news', 13: 'Jack Dorsey', 14: 'Moon', 15: 'Xbox Series X', 16: 'Under Armour', 17: 'Extraction', 18: 'Pope Francis', 19: 'Battle of Britain'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-11,2020-04-07,7,4,2020,100,6,Australia,AU,AUS,24992369.0,58,,"{0: 'Pink Moon', 1: 'Honor Blackman', 2: 'Daniel Andrews', 3: 'UFC 249', 4: 'North West Island', 5: 'Toyota recall', 6: 'David Icke', 7: 'Zoom meetings', 8: 'Kyly Clarke', 9: 'Anzac Day', 10: 'Pep Guardiola', 11: 'The Big Show Show', 12: 'COVID symptoms', 13: 'Quibi', 14: 'Flu vaccination 2020', 15: 'RBA', 16: 'Jay Benedict', 17: 'Showbags', 18: 'Black The Ripper', 19: 'Breathe'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-12,2020-04-06,6,4,2020,57,2,Australia,AU,AUS,24992369.0,60,,"{0: 'Thank you coronavirus helpers', 1: 'Pell', 2: 'Boris Johnson', 3: 'Boris Johnson', 4: 'TAFE NSW', 5: 'JobKeeper', 6: 'Stacey Hampton', 7: 'Ezra Miller', 8: 'Full moon April 2020', 9: 'Vanuatu', 10: 'Adele', 11: 'Alexander Wang', 12: 'Em Rusciano', 13: 'Shane Fitzsimmons', 14: 'Zac Efron', 15: 'Swarovski', 16: 'Kyle Walker', 17: 'Duffy', 18: 'Idris Elba', 19: 'Good Friday'}","{0: '500K+', 1: '500K+', 2: '200K+', 3: '200K+', 4: '100K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '20K+', 9: '20K+', 10: '20K+', 11: '20K+', 12: '10K+', 13: '10K+', 14: '10K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-13,2020-04-05,5,4,2020,139,4,Australia,AU,AUS,24992369.0,63,,"{0: 'Ruby Princess', 1: 'Queen Elizabeth', 2: 'Carrie Symonds', 3: 'Palm Sunday', 4: 'Zendaya', 5: 'Adelaide time', 6: 'House Rules 2020', 7: 'Elton John', 8: 'Ivan and Aleks', 9: 'Fantastic Four', 10: 'CBD Hotel Newcastle', 11: 'Marianne Faithfull', 12: 'Paige Spiranac', 13: 'Madonna', 14: 'The game movie', 15: 'Furlough', 16: 'Doris Day', 17: 'Ged Kearney', 18: 'Louis C.K', 19: 'Kirk Douglas'}","{0: '100K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-14,2020-04-04,4,4,2020,324,7,Australia,AU,AUS,24992369.0,64,,"{0: 'Daylight savings', 1: 'Bill Withers', 2: 'Logan Williams', 3: 'WrestleMania 36', 4: 'Valorant', 5: 'Andrew Jack', 6: 'Pink', 7: 'Chris Hemsworth', 8: 'Katy Perry', 9: 'Keir Starmer', 10: 'Mark McGowan', 11: 'Coffee and Kareem', 12: 'Sergio Rossi', 13: 'Halle Berry', 14: 'Captain Crozier', 15: 'Money Heist season 5', 16: 'Playboi Carti', 17: 'Corona beer', 18: 'Tales from the Loop', 19: 'Bom radar Brisbane'}","{0: '100K+', 1: '100K+', 2: '50K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-15,2020-04-03,3,4,2020,248,2,Australia,AU,AUS,24992369.0,61,,"{0: 'Coronavirus', 1: 'Coronavirus Tips', 2: 'Ivermectin', 3: 'Money Heist', 4: 'LaMelo Ball', 5: 'Viraclean', 6: 'Denise Richards', 7: 'Aldi opening times', 8: 'Amber Heard', 9: 'Eddie Murphy', 10: 'Ruby Princess cruises', 11: 'Resident Evil 3', 12: 'Dolly Parton', 13: 'Bernie Ecclestone', 14: 'Zac Efron', 15: 'Eddie Large', 16: '5G', 17: 'Tracks', 18: 'HBO', 19: 'Bruce Dawe'}","{0: '1M+', 1: '100K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '2K+', 19: '2K+'}"
-16,2020-04-02,2,4,2020,269,1,Australia,AU,AUS,24992369.0,48,,"{0: 'Adam Schlesinger', 1: 'Free childcare', 2: 'Bunnings gym equipment', 3: 'Harry Potter at Home', 4: 'Jobs hub', 5: '6ix9ine', 6: 'COVID-19 news', 7: 'Leighton Meester', 8: 'Wimbledon', 9: 'KPMG', 10: 'CSIRO', 11: 'Peter Dutton', 12: 'Turkmenistan', 13: 'Humble Bundle', 14: 'Teri Hatcher', 15: 'Paige VanZant', 16: 'Josh Maja', 17: 'Pandemic leave', 18: 'Sunderland', 19: 'Samuel L. Jackson'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-17,2020-04-01,1,4,2020,150,1,Australia,AU,AUS,24992369.0,51,,"{0: 'Dame Jean Macnamara', 1: 'Club Penguin', 2: 'Taronga TV', 3: 'Zoom meetings', 4: 'Andrew Forrest', 5: 'AFL Evolution 2', 6: 'Bottle shop', 7: 'Eddie McGuire', 8: 'Bing', 9: 'Jeff Grosso', 10: 'Final Fantasy 7 Remake', 11: 'Chris Cuomo', 12: 'Philippines', 13: 'Andrew Jack Star Wars', 14: 'Vogue Shopping Night', 15: 'Community', 16: 'Tom cruise', 17: 'Nipsey Hussle', 18: 'What is a Virus', 19: 'FF7 Remake'}","{0: '1M+', 1: '50K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-18,2020-03-31,31,3,2020,464,3,Australia,AU,AUS,24992369.0,55,,"{0: 'April Fools pranks', 1: 'Jobseeker payment', 2: 'Stacey MAFS', 3: 'Houseparty hacked', 4: 'Survivor Australia', 5: 'Modern Warfare 2 Remastered', 6: 'Treasury', 7: 'John Van Lieshout', 8: 'Sole trader', 9: 'iPhone 12', 10: 'Steve Carell', 11: 'Backstreet Boys', 12: 'Van Gogh', 13: 'Furlough', 14: 'Jack Grealish', 15: 'David Geffen', 16: 'Chris Benoit', 17: 'Hand sanitizers', 18: 'Guardian news'}","{0: '100K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '2K+'}"
-19,2020-03-30,30,3,2020,284,2,Australia,AU,AUS,24992369.0,60,,"{0: 'ATO', 1: 'Job keeper', 2: 'Stage 3 restrictions Victoria', 3: 'David Genat', 4: 'Drake', 5: 'John Prine', 6: 'Joe Diffie', 7: 'Bannerlord', 8: 'Lara Worthington', 9: 'Woolworths Basic box', 10: 'Flu vaccination', 11: 'Norman Swan', 12: 'Steve MAFS', 13: 'Good Friday 2020', 14: 'Alan Merrill', 15: 'Belarus', 16: 'Brandon Park Coles', 17: 'Zoom meetings', 18: 'Ken Shimura', 19: 'German finance minister'}","{0: '200K+', 1: '100K+', 2: '50K+', 3: '50K+', 4: '50K+', 5: '20K+', 6: '20K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-20,2020-03-29,29,3,2020,431,1,Australia,AU,AUS,24992369.0,78,,"{0: 'WhatsApp', 1: 'Ben Cousins', 2: 'Coronavirus tips', 3: 'Moratorium', 4: 'Coronavirus Australia app', 5: 'Dancing With The Stars 2020', 6: 'Survivor Australia', 7: 'Coronavirus app download', 8: 'Ben Cousins documentary 2020', 9: 'Jigsaw puzzle', 10: 'Telehealth', 11: 'Weather radar', 12: 'Stacey MAFS', 13: 'Connie MAFS', 14: 'Fish', 15: 'Cow', 16: 'Shia LaBeouf', 17: 'Bird', 18: 'Whale', 19: 'Spider'}","{0: '100K+', 1: '100K+', 2: '100K+', 3: '100K+', 4: '50K+', 5: '50K+', 6: '20K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-21,2020-03-28,28,3,2020,212,0,Australia,AU,AUS,24992369.0,75,,"{0: 'Tiger', 1: 'Lion', 2: 'Myer', 3: 'Shark', 4: 'Dog', 5: 'Cat', 6: 'Bear', 7: 'Queen Elizabeth', 8: 'Elephant', 9: 'Earth Hour', 10: 'Horse', 11: '3D animals', 12: 'Queensland election 2020', 13: 'Wolf', 14: 'Duck', 15: 'Giraffe', 16: 'Local government election 2020', 17: 'Monkey', 18: 'QLD election results', 19: 'Election results'}","{0: '100K+', 1: '100K+', 2: '100K+', 3: '50K+', 4: '50K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '20K+', 9: '20K+', 10: '20K+', 11: '20K+', 12: '20K+', 13: '20K+', 14: '20K+', 15: '20K+', 16: '20K+', 17: '20K+', 18: '20K+', 19: '20K+'}"
-22,2020-03-27,27,3,2020,367,2,Australia,AU,AUS,24992369.0,72,,"{0: 'Boris Johnson', 1: 'COVID-19 Australia updates', 2: 'Woolworths jobs', 3: 'Mark Blum', 4: 'Ozark', 5: 'Jon Jones', 6: 'Paige Spiranac', 7: 'Footloose', 8: 'Once Upon a Time in Hollywood', 9: 'Scott Morrison press release', 10: 'Madonna', 11: 'Kathmandu', 12: 'Carole Baskin', 13: 'G20', 14: 'Until Tomorrow trend', 15: 'Voting Brisbane 2020', 16: 'Latest Australian news', 17: 'Pearl Jam: Gigaton', 18: 'COVID-19 Victoria Australia', 19: 'Matthew Broderick'}","{0: '200K+', 1: '50K+', 2: '50K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '20K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '10K+', 14: '10K+', 15: '10K+', 16: '10K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-23,2020-03-26,26,3,2020,376,3,Australia,AU,AUS,24992369.0,70,,"{0: 'Powerball tonight', 1: 'Powerball winner', 2: 'Qld school closures', 3: 'New Zealand news', 4: 'Stonnington', 5: 'Stage 3 lockdown Victoria', 6: 'Bugzy Malone', 7: 'Floyd Cardoz', 8: 'Qld schools', 9: 'Fight club', 10: 'Prince Harry', 11: 'Mark Zahra', 12: 'Smiggle', 13: 'Until tomorrow', 14: 'Hairdressers', 15: 'Hairdresser', 16: 'The post', 17: 'Stimulus payment', 18: 'SIA', 19: 'Iceland'}","{0: '20K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-24,2020-03-25,25,3,2020,600,1,Australia,AU,AUS,24992369.0,79,,,
-25,2020-03-24,24,3,2020,114,0,Australia,AU,AUS,24992369.0,81,,,
-26,2020-03-23,23,3,2020,611,0,Australia,AU,AUS,24992369.0,83,,,
-27,2020-03-22,22,3,2020,224,0,Australia,AU,AUS,24992369.0,100,"{0: 'nsw lockdown coronavirus', 1: 'access super coronavirus', 2: 'coronavirus supplements', 3: 'what are the symptoms of coronavirus', 4: 'coronavirus cases worldwide'}",,
-28,2020-03-21,21,3,2020,165,1,Australia,AU,AUS,24992369.0,74,,,
-29,2020-03-20,20,3,2020,144,0,Australia,AU,AUS,24992369.0,66,,,
-30,2020-03-19,19,3,2020,111,1,Australia,AU,AUS,24992369.0,65,,,
-31,2020-03-18,18,3,2020,79,0,Australia,AU,AUS,24992369.0,71,,,
-32,2020-03-17,17,3,2020,77,0,Australia,AU,AUS,24992369.0,80,,,
-33,2020-03-16,16,3,2020,49,2,Australia,AU,AUS,24992369.0,81,,,
-34,2020-03-15,15,3,2020,52,0,Australia,AU,AUS,24992369.0,79,,,
-35,2020-03-14,14,3,2020,41,0,Australia,AU,AUS,24992369.0,68,,,
-36,2020-03-13,13,3,2020,30,0,Australia,AU,AUS,24992369.0,73,,,
-37,2020-03-12,12,3,2020,14,0,Australia,AU,AUS,24992369.0,63,,,
-38,2020-03-11,11,3,2020,12,0,Australia,AU,AUS,24992369.0,38,,,
-39,2020-03-10,10,3,2020,20,0,Australia,AU,AUS,24992369.0,36,,,
-40,2020-03-09,9,3,2020,6,0,Australia,AU,AUS,24992369.0,30,,,
-41,2020-03-08,8,3,2020,11,1,Australia,AU,AUS,24992369.0,28,,,
-42,2020-03-07,7,3,2020,4,0,Australia,AU,AUS,24992369.0,25,,,
-43,2020-03-06,6,3,2020,7,0,Australia,AU,AUS,24992369.0,25,,,
-44,2020-03-05,5,3,2020,11,1,Australia,AU,AUS,24992369.0,28,,,
-45,2020-03-04,4,3,2020,8,0,Australia,AU,AUS,24992369.0,29,,,
-46,2020-03-03,3,3,2020,4,0,Australia,AU,AUS,24992369.0,26,,,
-47,2020-03-02,2,3,2020,3,0,Australia,AU,AUS,24992369.0,23,,,
-48,2020-03-01,1,3,2020,1,1,Australia,AU,AUS,24992369.0,19,,,
-49,2020-02-29,29,2,2020,2,0,Australia,AU,AUS,24992369.0,17,,,
-50,2020-02-28,28,2,2020,0,0,Australia,AU,AUS,24992369.0,17,,,
-51,2020-02-27,27,2,2020,1,0,Australia,AU,AUS,24992369.0,16,,,
-52,2020-02-26,26,2,2020,0,0,Australia,AU,AUS,24992369.0,15,,,
-53,2020-02-25,25,2,2020,0,0,Australia,AU,AUS,24992369.0,12,,,
-54,2020-02-24,24,2,2020,0,0,Australia,AU,AUS,24992369.0,11,,,
-55,2020-02-23,23,2,2020,1,0,Australia,AU,AUS,24992369.0,8,,,
-56,2020-02-22,22,2,2020,4,0,Australia,AU,AUS,24992369.0,6,,,
-57,2020-02-21,21,2,2020,2,0,Australia,AU,AUS,24992369.0,6,,,
-58,2020-02-20,20,2,2020,0,0,Australia,AU,AUS,24992369.0,5,,,
-59,2020-02-19,19,2,2020,0,0,Australia,AU,AUS,24992369.0,5,,,
-60,2020-02-18,18,2,2020,0,0,Australia,AU,AUS,24992369.0,6,,,
-61,2020-02-17,17,2,2020,0,0,Australia,AU,AUS,24992369.0,6,,,
-62,2020-02-16,16,2,2020,0,0,Australia,AU,AUS,24992369.0,7,,,
-63,2020-02-15,15,2,2020,0,0,Australia,AU,AUS,24992369.0,7,,,
-64,2020-02-14,14,2,2020,1,0,Australia,AU,AUS,24992369.0,8,,,
-65,2020-02-13,13,2,2020,0,0,Australia,AU,AUS,24992369.0,10,,,
-66,2020-02-12,12,2,2020,0,0,Australia,AU,AUS,24992369.0,8,,,
-67,2020-02-11,11,2,2020,0,0,Australia,AU,AUS,24992369.0,9,,,
-68,2020-02-10,10,2,2020,0,0,Australia,AU,AUS,24992369.0,10,,,
-69,2020-02-09,9,2,2020,0,0,Australia,AU,AUS,24992369.0,9,,,
-70,2020-02-08,8,2,2020,0,0,Australia,AU,AUS,24992369.0,11,,,
-71,2020-02-07,7,2,2020,1,0,Australia,AU,AUS,24992369.0,12,,,
-72,2020-02-06,6,2,2020,1,0,Australia,AU,AUS,24992369.0,11,,,
-73,2020-02-05,5,2,2020,1,0,Australia,AU,AUS,24992369.0,11,,,
-74,2020-02-04,4,2,2020,0,0,Australia,AU,AUS,24992369.0,11,,,
-75,2020-02-03,3,2,2020,0,0,Australia,AU,AUS,24992369.0,12,,,
-76,2020-02-02,2,2,2020,2,0,Australia,AU,AUS,24992369.0,14,,,
-77,2020-02-01,1,2,2020,2,0,Australia,AU,AUS,24992369.0,16,,,
-78,2020-01-31,31,1,2020,1,0,Australia,AU,AUS,24992369.0,19,,,
-79,2020-01-30,30,1,2020,2,0,Australia,AU,AUS,24992369.0,20,,,
-80,2020-01-29,29,1,2020,0,0,Australia,AU,AUS,24992369.0,20,,,
-81,2020-01-28,28,1,2020,0,0,Australia,AU,AUS,24992369.0,21,,,
-82,2020-01-27,27,1,2020,0,0,Australia,AU,AUS,24992369.0,19,,,
-83,2020-01-26,26,1,2020,3,0,Australia,AU,AUS,24992369.0,17,,,
-84,2020-01-25,25,1,2020,1,0,Australia,AU,AUS,24992369.0,20,,,
-85,2020-01-24,24,1,2020,0,0,Australia,AU,AUS,24992369.0,6,,,
-86,2020-01-23,23,1,2020,0,0,Australia,AU,AUS,24992369.0,4,,,
-87,2020-01-22,22,1,2020,0,0,Australia,AU,AUS,24992369.0,3,,,
-88,2020-01-21,21,1,2020,0,0,Australia,AU,AUS,24992369.0,4,,,
-89,2020-01-20,20,1,2020,0,0,Australia,AU,AUS,24992369.0,1,,,
-90,2020-01-19,19,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-91,2020-01-18,18,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-92,2020-01-17,17,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-93,2020-01-16,16,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-94,2020-01-15,15,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-95,2020-01-14,14,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-96,2020-01-13,13,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-97,2020-01-12,12,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-98,2020-01-11,11,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-99,2020-01-10,10,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-100,2020-01-09,9,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-101,2020-01-08,8,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-102,2020-01-07,7,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-103,2020-01-06,6,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-104,2020-01-05,5,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-105,2020-01-04,4,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-106,2020-01-03,3,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-107,2020-01-02,2,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-108,2020-01-01,1,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,
-109,2019-12-31,31,12,2019,0,0,Australia,AU,AUS,24992369.0,0,,,
-110,2020-04-18,18,4,2020,1791,116,Canada,CA,CAN,37058856.0,42,,,
-111,2020-04-17,17,4,2020,1717,183,Canada,CA,CAN,37058856.0,39,,,
-112,2020-04-16,16,4,2020,1318,107,Canada,CA,CAN,37058856.0,39,,,
-113,2020-04-15,15,4,2020,1383,123,Canada,CA,CAN,37058856.0,42,,,
-114,2020-04-14,14,4,2020,1298,63,Canada,CA,CAN,37058856.0,44,,,
-115,2020-04-13,13,4,2020,1064,64,Canada,CA,CAN,37058856.0,42,,,
-116,2020-04-12,12,4,2020,1168,84,Canada,CA,CAN,37058856.0,31,,,
-117,2020-04-11,11,4,2020,1385,60,Canada,CA,CAN,37058856.0,35,,,
-118,2020-04-10,10,4,2020,1474,74,Canada,CA,CAN,37058856.0,48,,,
-119,2020-04-09,9,4,2020,1391,55,Canada,CA,CAN,37058856.0,46,,,
-120,2020-04-08,8,4,2020,1230,57,Canada,CA,CAN,37058856.0,50,,,
-121,2020-04-07,7,4,2020,1157,43,Canada,CA,CAN,37058856.0,55,,,
-122,2020-04-06,6,4,2020,1614,49,Canada,CA,CAN,37058856.0,47,,,
-123,2020-04-05,5,4,2020,1363,44,Canada,CA,CAN,37058856.0,58,,,
-124,2020-04-04,4,4,2020,1251,49,Canada,CA,CAN,37058856.0,59,,,
-125,2020-04-03,3,4,2020,1673,29,Canada,CA,CAN,37058856.0,47,,,
-126,2020-04-02,2,4,2020,1059,13,Canada,CA,CAN,37058856.0,43,,,
-127,2020-04-01,1,4,2020,1112,7,Canada,CA,CAN,37058856.0,45,,,
-128,2020-03-31,31,3,2020,1169,28,Canada,CA,CAN,37058856.0,45,,,
-129,2020-03-30,30,3,2020,869,1,Canada,CA,CAN,37058856.0,47,,,
-130,2020-03-29,29,3,2020,711,7,Canada,CA,CAN,37058856.0,55,,,
-131,2020-03-28,28,3,2020,657,14,Canada,CA,CAN,37058856.0,56,,,
-132,2020-03-27,27,3,2020,633,4,Canada,CA,CAN,37058856.0,57,,,
-133,2020-03-26,26,3,2020,1426,8,Canada,CA,CAN,37058856.0,57,,,
-134,2020-03-25,25,3,2020,313,3,Canada,CA,CAN,37058856.0,60,,,
-135,2020-03-24,24,3,2020,216,4,Canada,CA,CAN,37058856.0,59,,,
-136,2020-03-23,23,3,2020,128,2,Canada,CA,CAN,37058856.0,65,,,
-137,2020-03-22,22,3,2020,331,6,Canada,CA,CAN,37058856.0,71,,,
-138,2020-03-21,21,3,2020,125,2,Canada,CA,CAN,37058856.0,69,,,
-139,2020-03-20,20,3,2020,156,1,Canada,CA,CAN,37058856.0,68,,,
-140,2020-03-19,19,3,2020,121,1,Canada,CA,CAN,37058856.0,74,,,
-141,2020-03-18,18,3,2020,145,4,Canada,CA,CAN,37058856.0,79,,,
-142,2020-03-17,17,3,2020,120,3,Canada,CA,CAN,37058856.0,80,,,
-143,2020-03-16,16,3,2020,60,0,Canada,CA,CAN,37058856.0,86,,,
-144,2020-03-15,15,3,2020,68,0,Canada,CA,CAN,37058856.0,81,,,
-145,2020-03-14,14,3,2020,38,0,Canada,CA,CAN,37058856.0,78,,,
-146,2020-03-13,13,3,2020,35,0,Canada,CA,CAN,37058856.0,99,"{0: 'lcbo closing coronavirus', 1: 'trudeau wife name', 2: 'coronavirus vaccine update', 3: 'uottawa coronavirus', 4: 'coronavirus newfoundland'}",,
-147,2020-03-12,12,3,2020,10,0,Canada,CA,CAN,37058856.0,100,"{0: 'tom hanks coronavirus', 1: 'sophie trudeau coronavirus', 2: 'nba player with coronavirus', 3: 'nba players coronavirus', 4: 'can dogs get coronavirus'}",,
-148,2020-03-11,11,3,2020,16,0,Canada,CA,CAN,37058856.0,48,,,
-149,2020-03-10,10,3,2020,15,1,Canada,CA,CAN,37058856.0,35,,,
-150,2020-03-09,9,3,2020,5,0,Canada,CA,CAN,37058856.0,31,,,
-151,2020-03-08,8,3,2020,6,0,Canada,CA,CAN,37058856.0,26,,,
-152,2020-03-07,7,3,2020,6,0,Canada,CA,CAN,37058856.0,26,,,
-153,2020-03-06,6,3,2020,12,0,Canada,CA,CAN,37058856.0,27,,,
-154,2020-03-05,5,3,2020,3,0,Canada,CA,CAN,37058856.0,23,,,
-155,2020-03-04,4,3,2020,3,0,Canada,CA,CAN,37058856.0,19,,,
-156,2020-03-03,3,3,2020,3,0,Canada,CA,CAN,37058856.0,19,,,
-157,2020-03-02,2,3,2020,4,0,Canada,CA,CAN,37058856.0,20,,,
-158,2020-03-01,1,3,2020,4,0,Canada,CA,CAN,37058856.0,17,,,
-159,2020-02-29,29,2,2020,2,0,Canada,CA,CAN,37058856.0,18,,,
-160,2020-02-28,28,2,2020,2,0,Canada,CA,CAN,37058856.0,18,,,
-161,2020-02-27,27,2,2020,1,0,Canada,CA,CAN,37058856.0,16,,,
-162,2020-02-26,26,2,2020,0,0,Canada,CA,CAN,37058856.0,15,,,
-163,2020-02-25,25,2,2020,2,0,Canada,CA,CAN,37058856.0,13,,,
-164,2020-02-24,24,2,2020,0,0,Canada,CA,CAN,37058856.0,11,,,
-165,2020-02-23,23,2,2020,0,0,Canada,CA,CAN,37058856.0,7,,,
-166,2020-02-22,22,2,2020,0,0,Canada,CA,CAN,37058856.0,6,,,
-167,2020-02-21,21,2,2020,1,0,Canada,CA,CAN,37058856.0,5,,,
-168,2020-02-20,20,2,2020,0,0,Canada,CA,CAN,37058856.0,5,,,
-169,2020-02-19,19,2,2020,0,0,Canada,CA,CAN,37058856.0,5,,,
-170,2020-02-18,18,2,2020,0,0,Canada,CA,CAN,37058856.0,5,,,
-171,2020-02-17,17,2,2020,0,0,Canada,CA,CAN,37058856.0,5,,,
-172,2020-02-16,16,2,2020,0,0,Canada,CA,CAN,37058856.0,6,,,
-173,2020-02-15,15,2,2020,1,0,Canada,CA,CAN,37058856.0,6,,,
-174,2020-02-14,14,2,2020,0,0,Canada,CA,CAN,37058856.0,6,,,
-175,2020-02-13,13,2,2020,0,0,Canada,CA,CAN,37058856.0,8,,,
-176,2020-02-12,12,2,2020,0,0,Canada,CA,CAN,37058856.0,7,,,
-177,2020-02-11,11,2,2020,0,0,Canada,CA,CAN,37058856.0,8,,,
-178,2020-02-10,10,2,2020,0,0,Canada,CA,CAN,37058856.0,9,,,
-179,2020-02-09,9,2,2020,0,0,Canada,CA,CAN,37058856.0,9,,,
-180,2020-02-08,8,2,2020,0,0,Canada,CA,CAN,37058856.0,10,,,
-181,2020-02-07,7,2,2020,2,0,Canada,CA,CAN,37058856.0,11,,,
-182,2020-02-06,6,2,2020,0,0,Canada,CA,CAN,37058856.0,10,,,
-183,2020-02-05,5,2,2020,1,0,Canada,CA,CAN,37058856.0,10,,,
-184,2020-02-04,4,2,2020,0,0,Canada,CA,CAN,37058856.0,10,,,
-185,2020-02-03,3,2,2020,0,0,Canada,CA,CAN,37058856.0,10,,,
-186,2020-02-02,2,2,2020,0,0,Canada,CA,CAN,37058856.0,11,,,
-187,2020-02-01,1,2,2020,1,0,Canada,CA,CAN,37058856.0,13,,,
-188,2020-01-31,31,1,2020,0,0,Canada,CA,CAN,37058856.0,19,,,
-189,2020-01-30,30,1,2020,0,0,Canada,CA,CAN,37058856.0,22,,,
-190,2020-01-29,29,1,2020,1,0,Canada,CA,CAN,37058856.0,22,,,
-191,2020-01-28,28,1,2020,1,0,Canada,CA,CAN,37058856.0,25,,,
-192,2020-01-27,27,1,2020,0,0,Canada,CA,CAN,37058856.0,21,,,
-193,2020-01-26,26,1,2020,1,0,Canada,CA,CAN,37058856.0,22,,,
-194,2020-01-25,25,1,2020,0,0,Canada,CA,CAN,37058856.0,15,,,
-195,2020-01-24,24,1,2020,0,0,Canada,CA,CAN,37058856.0,10,,,
-196,2020-01-23,23,1,2020,0,0,Canada,CA,CAN,37058856.0,7,,,
-197,2020-01-22,22,1,2020,0,0,Canada,CA,CAN,37058856.0,5,,,
-198,2020-01-21,21,1,2020,0,0,Canada,CA,CAN,37058856.0,3,,,
-199,2020-01-20,20,1,2020,0,0,Canada,CA,CAN,37058856.0,1,,,
-200,2020-01-19,19,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-201,2020-01-18,18,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-202,2020-01-17,17,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-203,2020-01-16,16,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-204,2020-01-15,15,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-205,2020-01-14,14,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-206,2020-01-13,13,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-207,2020-01-12,12,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-208,2020-01-11,11,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-209,2020-01-10,10,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-210,2020-01-09,9,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-211,2020-01-08,8,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-212,2020-01-07,7,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-213,2020-01-06,6,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-214,2020-01-05,5,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-215,2020-01-04,4,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-216,2020-01-03,3,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-217,2020-01-02,2,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-218,2020-01-01,1,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,
-219,2019-12-31,31,12,2019,0,0,Canada,CA,CAN,37058856.0,0,,,
-220,2020-04-18,18,4,2020,709,44,Ireland,IE,IRL,4853506.0,42,,"{0: 'Thank you coronavirus helpers', 1: 'Global Citizen Together At Home', 2: ""Paul O'Connell"", 3: 'Joel Dommett', 4: 'Too Hot to Handle cast', 5: 'iPhone SE 2020', 6: 'Marks and spencer online', 7: 'Sergio', 8: 'Dwayne Johnson', 9: 'Normal People', 10: 'EuroMillions', 11: 'Niall Horan', 12: 'Andrew Cuomo', 13: 'Laura Ashley', 14: 'Frank Sinatra', 15: 'Detroit', 16: 'Nicole Scherzinger', 17: 'Eamonn Holmes', 18: 'Dr. Phil', 19: 'Alicia Silverstone'}","{0: '200K+', 1: '20K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '2K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '1K+', 19: '1K+'}"
-221,2020-04-17,17,4,2020,724,42,Ireland,IE,IRL,4853506.0,38,,"{0: 'Tony Holohan', 1: 'One World: Together At Home', 2: 'Too Hot to Handle Netflix', 3: 'Ricky Gervais', 4: 'Norman Hunter', 5: 'Remdesivir', 6: ""Danny O'Reilly"", 7: 'China coronavirus', 8: 'Phantom of the Opera', 9: 'Gerry Cinnamon: The Bonny', 10: 'Gangs of London', 11: 'Late Late Show guests', 12: 'Wuhan', 13: 'Fiona Apple', 14: 'Sleepers', 15: 'Timothée Chalamet', 16: '98fm', 17: 'Riverdale'}","{0: '10K+', 1: '10K+', 2: '10K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '1K+'}"
-222,2020-04-16,16,4,2020,1068,38,Ireland,IE,IRL,4853506.0,45,,"{0: 'Keelings', 1: 'HSE Covid map', 2: 'Brian Dennehy', 3: 'VHI', 4: 'Darragh Ennis The Chase', 5: 'Captain Tom Moore', 6: 'Howard Finkel', 7: 'Irish Life Health', 8: 'Ballybough', 9: 'National Horny Day', 10: 'Banksy', 11: 'Al Capone', 12: 'WWE releases', 13: 'Michigan'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+', 9: '1K+', 10: '1K+', 11: '1K+', 12: '1K+', 13: '1K+'}"
-223,2020-04-15,15,4,2020,832,41,Ireland,IE,IRL,4853506.0,41,,"{0: 'iPhone SE', 1: 'WWE', 2: 'Matt Damon', 3: 'Operation Transformation', 4: 'John Waters', 5: 'Michael Buble', 6: 'Hugh Grosvenor', 7: 'Warehouse', 8: 'Clare FM', 9: 'Hillsborough', 10: 'Wage subsidy scheme', 11: 'Devs', 12: 'Jacinda Ardern', 13: 'Amy Schumer', 14: 'Trump who', 15: 'The Great Depression', 16: 'Major Charles Ingram'}","{0: '20K+', 1: '5K+', 2: '5K+', 3: '5K+', 4: '5K+', 5: '2K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '1K+', 13: '1K+', 14: '1K+', 15: '1K+', 16: '1K+'}"
-224,2020-04-14,14,4,2020,992,31,Ireland,IE,IRL,4853506.0,43,,"{0: 'Next', 1: 'NEXT Ireland online', 2: 'Oasis', 3: 'Mary Lou McDonald', 4: 'OnePlus', 5: 'EA servers', 6: 'Dune', 7: 'Graeme Souness', 8: 'Joe Biden', 9: 'Amanda Staveley', 10: 'Home of the Year 2020', 11: 'Prue Leith', 12: 'Next online', 13: 'Eamonn Holmes', 14: 'Gita Gopinath', 15: 'Rick May', 16: 'Andrew Cuomo', 17: 'Tamara Ecclestone', 18: 'Laura Whitmore', 19: 'Origin'}","{0: '10K+', 1: '10K+', 2: '10K+', 3: '10K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '1K+', 17: '1K+', 18: '1K+', 19: '1K+'}"
-225,2020-04-13,13,4,2020,727,14,Ireland,IE,IRL,4853506.0,45,,"{0: 'Coronavirus', 1: 'Michael Collins', 2: 'Dolly Parton', 3: 'Charles Ingram', 4: 'China coronavirus', 5: 'Simon Harris', 6: 'Chernobyl', 7: 'ASTI', 8: 'Julia Roberts', 9: 'Bono', 10: 'Tony Maudsley', 11: 'Rochelle Humes'}","{0: '200K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '5K+', 5: '2K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '1K+', 10: '1K+', 11: '1K+'}"
-226,2020-04-12,12,4,2020,839,33,Ireland,IE,IRL,4853506.0,33,,"{0: 'Andrea Bocelli', 1: 'Easter', 2: 'Happy Easter', 3: 'Matt Damon', 4: 'Tim Brooke-Taylor', 5: 'Stephen Hawking', 6: 'Passengers', 7: 'Lorraine Barry', 8: 'Stirling Moss', 9: 'Joel McHale', 10: 'Jeff Lowe nanny', 11: 'Easter parade', 12: 'Happy Easter images', 13: 'Peter Bonetti', 14: 'Easter Rising', 15: 'Killing Eve', 16: 'Happy Easter in Irish', 17: 'Neymar mother', 18: 'Chris Pratt', 19: 'Nicolas Roche'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-227,2020-04-11,11,4,2020,696,24,Ireland,IE,IRL,4853506.0,37,,"{0: 'Stephen Hawking', 1: 'Maya Jama', 2: 'Easter Bunny', 3: ""Sinead O'Connor"", 4: 'Aldi Easter opening hours', 5: 'Amanda Holden', 6: 'Krakatoa', 7: 'Priti Patel', 8: 'Code 8', 9: 'New York coronavirus', 10: 'Asymptomatic', 11: 'Shania Twain', 12: 'Jesus Christ Superstar'}","{0: '10K+', 1: '10K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '1K+', 12: '1K+'}"
-228,2020-04-10,10,4,2020,1169,28,Ireland,IE,IRL,4853506.0,50,,"{0: 'Shine a light Ireland', 1: 'Leo Varadkar', 2: 'Junior Cert 2020', 3: 'Brendan Gleeson', 4: 'Kenny Dalglish', 5: 'Glen Hansard', 6: 'Love Wedding Repeat', 7: 'Fergus Gleeson', 8: 'Georgia Groome', 9: 'Rte news now', 10: 'Andrea Bocelli', 11: 'Domhnall Gleeson', 12: 'UFC 249', 13: 'Amy Huberman', 14: 'COVID-19 news', 15: 'Hart Island', 16: 'Happy Easter Images', 17: 'Good Friday 2020', 18: 'Is Good Friday a bank holiday', 19: 'Demi Moore'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '2K+', 19: '2K+'}"
-229,2020-04-09,9,4,2020,515,25,Ireland,IE,IRL,4853506.0,48,,"{0: 'Debenhams', 1: 'Leaving Cert 2020', 2: 'Nike', 3: 'Good Friday', 4: 'Norah Gibbons', 5: 'Florence Pugh', 6: 'Happy Easter', 7: 'Lidl opening times', 8: 'Cavan General Hospital', 9: 'Google Stadia', 10: 'Chynna', 11: 'Linda Tripp', 12: 'Stephen Kenny', 13: 'Is there post on Good Friday', 14: 'The Great Depression', 15: 'Modern Family', 16: 'Jesy Nelson', 17: 'Rebecca Winckworth', 18: 'Dynamo', 19: 'AnnaSophia Robb'}","{0: '100K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '1K+', 18: '1K+', 19: '1K+'}"
-230,2020-04-08,8,4,2020,345,36,Ireland,IE,IRL,4853506.0,47,,"{0: 'John Prine', 1: 'Bernie Sanders', 2: 'The ACT', 3: 'Is snapchatdown', 4: 'Rachel Conway Sligo', 5: 'Alexandra Tolstoy', 6: 'Make me a drink', 7: 'Jack Dorsey', 8: 'Hatfield House', 9: 'Jimmy Greaves', 10: 'Fanacht', 11: 'Wuhan', 12: 'Garda', 13: 'Amber Heard', 14: 'Tofu', 15: 'Ronaldinho', 16: 'Spy Wednesday', 17: 'Hal Willner', 18: 'The Hatfield House'}","{0: '50K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '5K+', 5: '5K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '1K+', 16: '1K+', 17: '1K+', 18: '1K+'}"
-231,2020-04-07,7,4,2020,253,16,Ireland,IE,IRL,4853506.0,49,,"{0: 'Coronavirus', 1: ""Woodie's"", 2: 'Pink Moon 2020', 3: 'Ticketmaster', 4: 'PS5 controller', 5: 'The Script', 6: 'Carol Vorderman', 7: 'Transparent', 8: 'Valorant', 9: 'Kelly Brook', 10: 'David Icke', 11: 'Cardinal Pell', 12: 'James Drury', 13: ""Old Moore's Almanac"", 14: 'Easter Bunny', 15: 'Radomir Antic', 16: 'Michael Gove', 17: 'Quibi', 18: 'Maeve Kennedy', 19: 'Boris Johnson update'}","{0: '200K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '1K+', 16: '1K+', 17: '1K+', 18: '1K+', 19: '1K+'}"
-232,2020-04-06,6,4,2020,507,21,Ireland,IE,IRL,4853506.0,40,,"{0: 'Honor Blackman', 1: 'Pink Moon', 2: 'Jay Benedict', 3: 'Pep Guardiola', 4: 'Black The Ripper', 5: 'Duffy', 6: 'Adele', 7: 'Ezra Miller', 8: 'BCG', 9: 'Mary McPartlan', 10: 'Good Friday 2020', 11: 'UFC 249', 12: 'An Post Newspaper Delivery', 13: 'The Nest', 14: 'Maia Dunphy', 15: 'Tiger coronavirus', 16: 'Trolls 2'}","{0: '20K+', 1: '20K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '1K+', 16: '1K+'}"
-233,2020-04-05,5,4,2020,331,17,Ireland,IE,IRL,4853506.0,57,,"{0: 'Boris Johnson', 1: 'Leo Varadkar', 2: 'Queens speech', 3: 'Kyle Walker', 4: 'Carrie Symonds', 5: 'Contagion', 6: 'Palm Sunday', 7: 'Catherine Calderwood', 8: 'In the style', 9: 'Marianne Faithfull', 10: 'Lord Bath', 11: 'Hydroxychloroquine', 12: 'Kurt Cobain', 13: '2013 All-Ireland football final', 14: 'Prince Philip', 15: 'Reese Witherspoon', 16: 'Bee Gees', 17: 'The gift', 18: 'Charles Lieber', 19: 'Heath Ledger'}","{0: '200K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-234,2020-04-04,4,4,2020,424,22,Ireland,IE,IRL,4853506.0,55,,"{0: 'Coronavirus tips', 1: 'Robbie Lawlor', 2: 'WrestleMania 36', 3: 'Mick McCarthy', 4: 'Keir Starmer', 5: 'Paddy Power', 6: ""Fiona O'Carroll"", 7: 'Furlough', 8: 'Matt Lucas', 9: 'Jacqueline Wilson', 10: 'Kathleen Kennedy Townsend', 11: 'Transparent', 12: 'Ivermectin', 13: 'Coffee and Kareem', 14: 'Pink', 15: 'The Script', 16: 'Orlando Bloom', 17: 'Vitamin D supplements', 18: 'ITV', 19: 'Four Kids And It'}","{0: '200K+', 1: '50K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '5K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '1K+', 18: '1K+', 19: '1K+'}"
-235,2020-04-03,3,4,2020,402,13,Ireland,IE,IRL,4853506.0,50,,"{0: 'Coronavirus', 1: 'Bill Withers', 2: 'Virtual Grand National', 3: 'Ronan Keating', 4: 'Gavin James', 5: 'EuroMillions results', 6: 'BCG vaccine', 7: 'Vitamin D', 8: 'Logan Williams', 9: 'Laura Whitmore', 10: 'Money Heist', 11: 'Tim Robinson', 12: 'Valorant', 13: 'Elton John', 14: 'Alan Kelly', 15: 'Cameron Blair', 16: 'Niall Horan', 17: 'Captain Crozier', 18: 'Jason Momoa', 19: 'EuroMillions results'}","{0: '200K+', 1: '50K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-236,2020-04-02,2,4,2020,212,14,Ireland,IE,IRL,4853506.0,40,,"{0: 'Adam Schlesinger', 1: 'Eddie Large', 2: 'Bernie Ecclestone', 3: 'Leaving Cert', 4: 'World Autism Day 2020', 5: 'Michael D Higgins', 6: 'Junior Cert', 7: 'Brendan Gleeson', 8: 'Rachael Gorry', 9: 'Harry Potter at Home', 10: 'Carol Vorderman', 11: 'Aldi opening times', 12: 'Dr Mike Ryan', 13: 'UFC 249', 14: 'What is 5G', 15: 'SNA', 16: 'Maja'}","{0: '20K+', 1: '20K+', 2: '5K+', 3: '5K+', 4: '5K+', 5: '2K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '1K+', 14: '1K+', 15: '1K+', 16: '1K+'}"
-237,2020-04-01,1,4,2020,325,17,Ireland,IE,IRL,4853506.0,41,,"{0: 'Weather tomorrow', 1: 'Tony Holohan', 2: 'Pangolin', 3: 'Department of Education', 4: 'Josh Maja', 5: 'Sunderland', 6: 'International Space Station', 7: '5G', 8: 'Will Grigg', 9: 'Matt Damon', 10: 'The Act', 11: 'Wimbledon', 12: 'Ronan Mullen', 13: 'Zoom meetings', 14: ""Grey's Anatomy"", 15: 'Matt Baker', 16: 'Covid-19 news', 17: 'Johnson and Johnson', 18: 'Pape Diouf'}","{0: '20K+', 1: '20K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '1K+', 16: '1K+', 17: '1K+', 18: '1K+'}"
-238,2020-03-31,31,3,2020,295,8,Ireland,IE,IRL,4853506.0,46,,"{0: ""April Fool's pranks"", 1: 'EuroMillions results', 2: 'Andrew Jack', 3: 'Club Penguin', 4: 'Modern Warfare 2 remastered', 5: 'Fuel allowance', 6: 'Don Conroy', 7: 'Seanad elections', 8: ""Woodie's DIY"", 9: 'James Blunt', 10: 'Chris Cuomo', 11: 'Jim Bartley', 12: 'Joe Sugg', 13: 'David Rocastle', 14: 'Hungary', 15: 'Mike Denver', 16: 'Seoul'}","{0: '20K+', 1: '10K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '1K+', 16: '1K+'}"
-239,2020-03-30,30,3,2020,200,10,Ireland,IE,IRL,4853506.0,51,,"{0: 'How to delete Houseparty account', 1: 'John Prine', 2: 'Ryan Tubridy', 3: 'Covid-19 payment', 4: 'Sophie Brussaux', 5: 'Welfare', 6: 'Covid 19 payment form', 7: 'Luas crash', 8: 'Furlough', 9: 'Rte school', 10: 'Dominic Cummings', 11: 'International Space Station', 12: 'Joe Diffie', 13: 'German finance minister', 14: 'Joe Wicks workout', 15: 'Michael Jackson', 16: 'Tom Cruise', 17: 'RTE Home School Hub', 18: 'Bugzy Malone', 19: 'Batwoman'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}"
-240,2020-03-29,29,3,2020,294,14,Ireland,IE,IRL,4853506.0,55,,"{0: 'Jack Grealish', 1: 'Anne Doyle', 2: 'Shark', 3: 'What time is it in Ireland', 4: 'Ronan Keating', 5: 'Time', 6: 'Belarus', 7: 'Billy Joe Saunders', 8: 'Turtle', 9: 'Mass Online', 10: 'Eagle', 11: 'Adam Olden', 12: 'GOAT', 13: 'In the style', 14: 'Ozark cast', 15: 'Cards Against Humanity Online', 16: 'The journal ireland', 17: 'Gerard Butler', 18: 'Time ireland', 19: 'Rabbit'}","{0: '10K+', 1: '10K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '1K+', 18: '1K+', 19: '1K+'}"
-241,2020-03-28,28,3,2020,302,3,Ireland,IE,IRL,4853506.0,58,,"{0: 'Clocks change Ireland', 1: 'Tiger', 2: 'Lion', 3: 'Hozier', 4: '2km from home', 5: 'Tiger 3D', 6: 'Conor Connelly', 7: 'Covid-19 payment', 8: 'Dog', 9: 'NCT', 10: 'Elephant', 11: 'Nike', 12: 'Horse', 13: 'Panda', 14: 'Cat', 15: 'Wolf', 16: 'Bear', 17: 'Duck', 18: 'Monkey', 19: 'CIF'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-242,2020-03-27,27,3,2020,255,10,Ireland,IE,IRL,4853506.0,63,,"{0: 'Ireland lockdown', 1: 'List of essential services Ireland', 2: 'Boris Johnson', 3: 'Until Tomorrow', 4: 'HSE', 5: 'Ireland news', 6: 'Lockdown', 7: 'Houseparty app', 8: 'Ryan Tubridy', 9: 'Cocooning', 10: '2kmfromhome', 11: 'Emilia Fox', 12: 'Rte News Live', 13: 'Until Tomorrow Instagram caption', 14: 'Irish Cancer Society', 15: 'James McClean', 16: 'Shark', 17: 'Ozark', 18: 'Bingo Loco', 19: 'Giant panda'}","{0: '200K+', 1: '100K+', 2: '50K+', 3: '50K+', 4: '50K+', 5: '50K+', 6: '20K+', 7: '20K+', 8: '20K+', 9: '20K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '10K+', 14: '10K+', 15: '10K+', 16: '10K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-243,2020-03-26,26,3,2020,235,2,Ireland,IE,IRL,4853506.0,61,,"{0: 'Bugzy Malone', 1: 'Mark Blum', 2: 'Pentatonix', 3: 'Jon Jones', 4: 'Median age', 5: 'Feed the Heroes', 6: 'H&M', 7: 'Dalton Gomez', 8: 'Corona challenge', 9: 'Maudlin Street Kilkenny'}","{0: '20K+', 1: '20K+', 2: '10K+', 3: '5K+', 4: '2K+', 5: '2K+', 6: '2K+', 7: '1K+', 8: '1K+', 9: '1K+'}"
-244,2020-03-25,25,3,2020,204,1,Ireland,IE,IRL,4853506.0,59,,,
-245,2020-03-24,24,3,2020,219,2,Ireland,IE,IRL,4853506.0,63,,,
-246,2020-03-23,23,3,2020,121,1,Ireland,IE,IRL,4853506.0,59,,,
-247,2020-03-22,22,3,2020,102,0,Ireland,IE,IRL,4853506.0,66,,,
-248,2020-03-21,21,3,2020,126,0,Ireland,IE,IRL,4853506.0,65,,,
-249,2020-03-20,20,3,2020,191,1,Ireland,IE,IRL,4853506.0,58,,,
-250,2020-03-19,19,3,2020,74,0,Ireland,IE,IRL,4853506.0,60,,,
-251,2020-03-18,18,3,2020,69,0,Ireland,IE,IRL,4853506.0,72,,,
-252,2020-03-17,17,3,2020,54,0,Ireland,IE,IRL,4853506.0,74,,,
-253,2020-03-16,16,3,2020,40,0,Ireland,IE,IRL,4853506.0,86,,,
-254,2020-03-15,15,3,2020,38,1,Ireland,IE,IRL,4853506.0,96,"{0: 'coronavirus tracker', 1: 'coronavirus vaccine'}",,
-255,2020-03-14,14,3,2020,21,0,Ireland,IE,IRL,4853506.0,96,"{0: 'coronavirus live update', 1: 'coronavirus by country', 2: 'ireland coronavirus cases', 3: 'coronavirus france', 4: 'coronavirus ireland updates'}",,
-256,2020-03-13,13,3,2020,27,0,Ireland,IE,IRL,4853506.0,90,"{0: 'coronavirus memes', 1: 'coronavirus death toll', 2: 'coronavirus tracker', 3: 'coronavirus lanzarote', 4: 'coronavirus live update'}",,
-257,2020-03-12,12,3,2020,8,1,Ireland,IE,IRL,4853506.0,100,"{0: 'tom hanks coronavirus', 1: 'leo varadkar coronavirus', 2: 'cheltenham coronavirus', 3: 'coronavirus stats', 4: 'coronavirus northern ireland'}",,
-258,2020-03-11,11,3,2020,14,0,Ireland,IE,IRL,4853506.0,80,,,
-259,2020-03-09,9,3,2020,2,0,Ireland,IE,IRL,4853506.0,59,,,
-260,2020-03-08,8,3,2020,1,0,Ireland,IE,IRL,4853506.0,46,,,
-261,2020-03-07,7,3,2020,5,0,Ireland,IE,IRL,4853506.0,41,,,
-262,2020-03-06,6,3,2020,7,0,Ireland,IE,IRL,4853506.0,54,,,
-263,2020-03-05,5,3,2020,4,0,Ireland,IE,IRL,4853506.0,50,,,
-264,2020-03-04,4,3,2020,1,0,Ireland,IE,IRL,4853506.0,38,,,
-265,2020-03-02,2,3,2020,0,0,Ireland,IE,IRL,4853506.0,35,,,
-266,2020-03-01,1,3,2020,1,0,Ireland,IE,IRL,4853506.0,40,,,
-267,2020-02-29,29,2,2020,0,0,Ireland,IE,IRL,4853506.0,30,,,
-268,2020-02-28,28,2,2020,0,0,Ireland,IE,IRL,4853506.0,36,,,
-269,2020-02-27,27,2,2020,0,0,Ireland,IE,IRL,4853506.0,43,,,
-270,2020-02-26,26,2,2020,0,0,Ireland,IE,IRL,4853506.0,30,,,
-271,2020-02-25,25,2,2020,0,0,Ireland,IE,IRL,4853506.0,30,,,
-272,2020-02-24,24,2,2020,0,0,Ireland,IE,IRL,4853506.0,13,,,
-273,2020-02-23,23,2,2020,0,0,Ireland,IE,IRL,4853506.0,9,,,
-274,2020-02-22,22,2,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,
-275,2020-02-21,21,2,2020,0,0,Ireland,IE,IRL,4853506.0,3,,,
-276,2020-02-20,20,2,2020,0,0,Ireland,IE,IRL,4853506.0,3,,,
-277,2020-02-19,19,2,2020,0,0,Ireland,IE,IRL,4853506.0,3,,,
-278,2020-02-18,18,2,2020,0,0,Ireland,IE,IRL,4853506.0,4,,,
-279,2020-02-17,17,2,2020,0,0,Ireland,IE,IRL,4853506.0,3,,,
-280,2020-02-16,16,2,2020,0,0,Ireland,IE,IRL,4853506.0,3,,,
-281,2020-02-15,15,2,2020,0,0,Ireland,IE,IRL,4853506.0,4,,,
-282,2020-02-14,14,2,2020,0,0,Ireland,IE,IRL,4853506.0,4,,,
-283,2020-02-13,13,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,
-284,2020-02-12,12,2,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,
-285,2020-02-11,11,2,2020,0,0,Ireland,IE,IRL,4853506.0,6,,,
-286,2020-02-10,10,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,
-287,2020-02-09,9,2,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,
-288,2020-02-08,8,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,
-289,2020-02-07,7,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,
-290,2020-02-06,6,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,
-291,2020-02-05,5,2,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,
-292,2020-02-04,4,2,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,
-293,2020-02-03,3,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,
-294,2020-02-02,2,2,2020,0,0,Ireland,IE,IRL,4853506.0,10,,,
-295,2020-02-01,1,2,2020,0,0,Ireland,IE,IRL,4853506.0,9,,,
-296,2020-01-31,31,1,2020,0,0,Ireland,IE,IRL,4853506.0,14,,,
-297,2020-01-30,30,1,2020,0,0,Ireland,IE,IRL,4853506.0,15,,,
-298,2020-01-29,29,1,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,
-299,2020-01-28,28,1,2020,0,0,Ireland,IE,IRL,4853506.0,8,,,
-300,2020-01-27,27,1,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,
-301,2020-01-26,26,1,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,
-302,2020-01-25,25,1,2020,0,0,Ireland,IE,IRL,4853506.0,6,,,
-303,2020-01-24,24,1,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,
-304,2020-01-23,23,1,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,
-305,2020-01-22,22,1,2020,0,0,Ireland,IE,IRL,4853506.0,2,,,
-306,2020-01-21,21,1,2020,0,0,Ireland,IE,IRL,4853506.0,1,,,
-307,2020-01-20,20,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-308,2020-01-19,19,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-309,2020-01-18,18,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-310,2020-01-17,17,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-311,2020-01-16,16,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-312,2020-01-15,15,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-313,2020-01-14,14,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-314,2020-01-13,13,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-315,2020-01-12,12,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-316,2020-01-11,11,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-317,2020-01-10,10,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-318,2020-01-09,9,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-319,2020-01-08,8,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-320,2020-01-07,7,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-321,2020-01-06,6,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-322,2020-01-05,5,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-323,2020-01-04,4,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-324,2020-01-03,3,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-325,2020-01-02,2,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-326,2020-01-01,1,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,
-327,2019-12-31,31,12,2019,0,0,Ireland,IE,IRL,4853506.0,0,,,
-328,2020-04-18,18,4,2020,178,2,South_Africa,ZA,ZAF,57779622.0,68,,"{0: 'Global Citizen Together At Home', 1: 'Sotho Man With Some Power', 2: 'SAA', 3: 'Sho Madjozi', 4: 'Ramaphosa', 5: 'Global Citizen Together At Home', 6: 'Emtee', 7: 'Too Hot to Handle, Netflix', 8: 'Jameela Jamil', 9: 'The Killers', 10: 'Charlie Puth'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+'}"
-329,2020-04-17,17,4,2020,99,14,South_Africa,ZA,ZAF,57779622.0,60,,"{0: 'Thank you coronavirus helpers', 1: 'School reopen South Africa', 2: 'DVSN A Muse In Her Feelings', 3: 'China coronavirus', 4: 'BizPortal', 5: 'Kenya Barris', 6: 'Jennifer Lopez', 7: 'Brian Dennehy', 8: 'DaBaby', 9: 'TNS', 10: 'Steve Jobs', 11: 'Remdesivir', 12: 'Roddy Ricch', 13: 'Playboi Carti'}","{0: '500K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '5K+', 12: '5K+', 13: '5K+'}"
-330,2020-04-16,16,4,2020,91,7,South_Africa,ZA,ZAF,57779622.0,47,,"{0: 'COVID-19 update South Africa', 1: 'Tiger Brands', 2: 'DispatchLIVE', 3: 'Nkosazana Dlamini-Zuma'}","{0: '50K+', 1: '20K+', 2: '10K+', 3: '5K+'}"
-331,2020-04-15,15,4,2020,143,0,South_Africa,ZA,ZAF,57779622.0,64,,"{0: 'Thank you coronavirus helpers', 1: 'iPhone SE', 2: 'Capitec Bank', 3: 'Kingsway Hospital', 4: 'SAA'}","{0: '500K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '10K+'}"
-332,2020-04-14,14,4,2020,99,2,South_Africa,ZA,ZAF,57779622.0,43,,"{0: 'Repo rate', 1: 'Sophie Ndaba', 2: 'Somizi Mhlongo', 3: 'UIF', 4: 'Alcohol ban South Africa', 5: 'Zoom app meeting', 6: 'Joe Biden', 7: 'UIF during lockdown', 8: 'Tamil New Year 2020', 9: 'Google Meet', 10: 'Interest rate', 11: 'Repo rate, meaning', 12: 'George Calombaris', 13: 'Dr Zweli Mkhize'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '10K+', 6: '10K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+', 13: '2K+'}"
-333,2020-04-13,13,4,2020,145,0,South_Africa,ZA,ZAF,57779622.0,48,,"{0: 'Prof Karim', 1: 'Covid-19 stats South Africa', 2: 'N95 mask', 3: 'Zweli Mkhize', 4: 'Julius Malema', 5: 'Jaden Smith', 6: 'Ntsiki Mazwai', 7: 'Easter Monday', 8: 'Neymar mother'}","{0: '20K+', 1: '10K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '2K+'}"
-334,2020-04-12,12,4,2020,25,1,South_Africa,ZA,ZAF,57779622.0,50,,"{0: 'Andrea Bocelli', 1: 'Easter Sunday', 2: 'Happy Easter', 3: 'Dwayne Johnson', 4: 'Bheki Cele', 5: 'Easter', 6: 'Happy Easter images', 7: 'Liquor stores to open', 8: 'Jacob Zuma', 9: 'Stirling Moss', 10: 'Easter Bunny', 11: 'Alcohol South Africa', 12: 'Resurrection Sunday'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+'}"
-335,2020-04-11,11,4,2020,69,6,South_Africa,ZA,ZAF,57779622.0,51,,"{0: 'Shimza', 1: 'Krakatoa', 2: 'DJ Shimza', 3: 'Code 8', 4: 'Department of Education', 5: 'Kenny Dalglish', 6: 'Ellis Park disaster', 7: 'Georgia Groome'}","{0: '10K+', 1: '5K+', 2: '5K+', 3: '2K+', 4: '2K+', 5: '2K+', 6: '2K+', 7: '2K+'}"
-336,2020-04-10,10,4,2020,89,0,South_Africa,ZA,ZAF,57779622.0,46,,"{0: 'Somizi', 1: 'Angie Motshekga', 2: 'Good Friday quotes', 3: 'Good Friday message', 4: 'Chris Hani', 5: 'Easter 2020', 6: 'Minister of Education', 7: 'Love Wedding Repeat', 8: 'HAPPY GOOD FRIDAY', 9: 'Lockdown South Africa Twitter', 10: 'When is Easter', 11: 'Passion of Christ', 12: 'Homemade alcohol', 13: 'Botswana', 14: 'Food parcels south africa'}","{0: '20K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+', 13: '2K+', 14: '2K+'}"
-337,2020-04-09,9,4,2020,96,5,South_Africa,ZA,ZAF,57779622.0,52,,"{0: 'Cyril Ramaphosa', 1: 'Charles Maja', 2: 'Good Friday 2020', 3: 'Good Friday', 4: 'William Booth', 5: 'Happy Easter', 6: 'News24 South Africa', 7: 'Hot cross buns recipe', 8: 'Enca Live', 9: 'Force majeure', 10: 'President', 11: 'Chynna', 12: 'Maundy Thursday', 13: 'Breaking news', 14: 'Avonwood', 15: 'Thando Thabethe', 16: 'Dr. Tedros Adhanom Ghebreyesus', 17: 'Holy Thursday'}","{0: '200K+', 1: '100K+', 2: '50K+', 3: '50K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+'}"
-338,2020-04-08,8,4,2020,63,1,South_Africa,ZA,ZAF,57779622.0,73,,"{0: 'Thank you coronavirus helpers', 1: 'St Augustine hospital', 2: 'PS5', 3: 'Bernie Sanders', 4: 'BCG vaccine', 5: 'Passover 2020', 6: 'PS5 controller', 7: 'Ronaldinho', 8: 'Gretel and Hansel', 9: 'Zoom app meeting', 10: 'Shab-e-Barat', 11: 'Tory Lanez', 12: 'John Prine', 13: 'Madam and Mercy'}","{0: '500K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '2K+'}"
-339,2020-04-07,7,4,2020,31,1,South_Africa,ZA,ZAF,57779622.0,48,,"{0: 'Stella Ndabeni-Abrahams', 1: 'Full moon April 2020', 2: 'Bheki Cele', 3: 'Hanuman Jayanti', 4: 'News24 today', 5: 'Sasol', 6: 'News24 South Africa', 7: 'Transparent', 8: 'David Icke', 9: 'Valorant', 10: 'Honor Blackman', 11: 'Ezra Miller', 12: 'Stephen Birch'}","{0: '100K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+'}"
-340,2020-04-06,6,4,2020,70,2,South_Africa,ZA,ZAF,57779622.0,52,,"{0: 'Vinolia Mashego', 1: 'Boris Johnson', 2: 'Pep Guardiola', 3: 'Bushiri', 4: 'SARS virus', 5: 'Adele', 6: 'Uber Eats', 7: 'Elaine', 8: 'What is 5G and how does it work', 9: 'Zoom meetings', 10: 'Tops', 11: 'Business Partners'}","{0: '200K+', 1: '100K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+'}"
-341,2020-04-05,5,4,2020,80,2,South_Africa,ZA,ZAF,57779622.0,62,,"{0: 'Contagion', 1: 'Ramaphosa', 2: 'Lockdown South Africa', 3: 'Bill Gates', 4: 'Brock Lesnar', 5: 'Venom', 6: 'Covid-19 news', 7: 'Jennifer Lopez', 8: 'The Undertaker', 9: 'Roman Reigns', 10: 'Angelina Jolie', 11: 'Hydroxychloroquine', 12: 'Letoya Makhene', 13: 'Contagious', 14: 'Matt Damon', 15: 'Furlough', 16: 'Dr #CharlesLieber', 17: 'Vavi Zwelinzima', 18: 'Palm Sunday pictures', 19: 'Lockdown extension'}","{0: '200K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '10K+', 14: '10K+', 15: '10K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}"
-342,2020-04-04,4,4,2020,43,2,South_Africa,ZA,ZAF,57779622.0,62,,"{0: 'Palm Sunday', 1: 'WrestleMania 2020', 2: 'Lockdown house party', 3: 'What is 5G', 4: 'BCG) vaccine', 5: 'Logan Williams', 6: 'News24 today latest', 7: 'DJ Fresh', 8: 'Coffee and Kareem', 9: 'Pink', 10: 'Valorant', 11: 'Money Heist Season 5', 12: 'Transparent'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '5K+', 11: '5K+', 12: '5K+'}"
-343,2020-04-03,3,4,2020,82,0,South_Africa,ZA,ZAF,57779622.0,55,,"{0: 'Bill Withers', 1: 'Money Heist season 4', 2: 'Constand Viljoen', 3: 'St Augustine hospital', 4: 'Ronald Lamola', 5: 'Autism', 6: 'Adam Housley', 7: 'Coronavirus South Africa cigarette', 8: 'Glenwood'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+'}"
-344,2020-04-02,2,4,2020,27,0,South_Africa,ZA,ZAF,57779622.0,92,"{0: 'coronavirus tips', 1: 'coronavirus live update', 2: 'coronavirus cure'}","{0: 'Coronavirus tips', 1: 'Zwelinzima Vavi', 2: 'Barack Obama', 3: 'Covid-19 news', 4: 'Cassper Nyovest Amademoni', 5: 'Premier League', 6: 'Coronavirus treatments', 7: 'Ram Navami', 8: 'Zoom meetings', 9: 'Adam Schlesinger'}","{0: '1M+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '5K+'}"
-345,2020-04-01,1,4,2020,27,2,South_Africa,ZA,ZAF,57779622.0,61,,"{0: 'Doctor Khumalo', 1: 'Mary Oppenheimer', 2: 'Fikile Mbalula', 3: 'UCT', 4: 'Ignatius Jacobs', 5: 'Nipsey Hussle', 6: 'Chris Cuomo', 7: 'Andrew Jack', 8: 'April'}","{0: '20K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '2K+'}"
-346,2020-03-31,31,3,2020,46,1,South_Africa,ZA,ZAF,57779622.0,59,,"{0: ""April Fool's pranks"", 1: 'Gita Ramjee', 2: 'Coronavirus deaths in South Africa', 3: 'Petrol price April 2020', 4: 'Bill Gates', 5: 'FNB bank', 6: 'Prince Charles', 7: 'Naledi Pandor', 8: 'Harry Potter', 9: 'Jack Ma', 10: 'Sa lockdown extended', 11: 'Louis Wilsenach'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '10K+', 8: '10K+', 9: '5K+', 10: '5K+', 11: '5K+'}"
-347,2020-03-30,30,3,2020,93,0,South_Africa,ZA,ZAF,57779622.0,70,,"{0: 'Drake', 1: 'Coronavirus tips', 2: 'Cyril Ramaphosa news', 3: 'Naspers', 4: 'Zoom download', 5: 'Alibaba', 6: 'Little Fires Everywhere', 7: 'Durag', 8: 'Ramaphosa news Today'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+'}"
-348,2020-03-29,29,3,2020,17,0,South_Africa,ZA,ZAF,57779622.0,83,,"{0: 'Ntsiki Mazwai', 1: 'Covid-19 news', 2: 'Khayelitsha', 3: 'Queen Elizabeth', 4: 'Lion King', 5: 'Covid-19 news', 6: 'John Callahan', 7: 'Pablo Escobar', 8: 'Hola Bon Renaissance', 9: 'What is 5G', 10: 'Spider', 11: 'Donald Glover', 12: 'Bird'}","{0: '20K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+'}"
-349,2020-03-28,28,3,2020,243,0,South_Africa,ZA,ZAF,57779622.0,93,"{0: 'live coronavirus updates', 1: 'latest on coronavirus in south africa', 2: 'how many cases of coronavirus in south africa', 3: 'confirmed cases of coronavirus in south africa', 4: 'coronavirus tracker'}","{0: 'Lion', 1: 'Tiger', 2: 'Patrice Motsepe', 3: 'Shark', 4: 'Tiger View in 3D', 5: 'Dog', 6: 'Elephant', 7: 'Snake', 8: 'Horse', 9: 'Cat', 10: 'Wolf', 11: 'Bear', 12: ""Moody's South Africa"", 13: 'Panda', 14: 'Woolworths online shopping', 15: '5G', 16: 'Duck', 17: 'Hedgehog', 18: 'Giraffe', 19: 'Monkey'}","{0: '100K+', 1: '100K+', 2: '50K+', 3: '50K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '20K+', 9: '20K+', 10: '20K+', 11: '20K+', 12: '20K+', 13: '10K+', 14: '10K+', 15: '10K+', 16: '10K+', 17: '10K+', 18: '10K+', 19: '10K+'}"
-350,2020-03-27,27,3,2020,218,2,South_Africa,ZA,ZAF,57779622.0,96,"{0: 'update on coronavirus in south africa', 1: 'is coronavirus airborne', 2: 'coronavirus airborne', 3: 'world meter coronavirus', 4: 'latest coronavirus stats'}","{0: 'Boris Johnson', 1: 'Italy lockdown', 2: 'Kenneth Meshoe', 3: 'TB Joshua', 4: 'Contagion', 5: 'Is coronavirus airborne', 6: 'Madeleine van Wyk', 7: 'Huawei P40', 8: 'Joyner Lucas ADHD', 9: 'PartyNextDoor', 10: ""Moody's South Africa"", 11: 'Mark Blum', 12: 'Usa coronavirus', 13: 'Ozark', 14: 'Abdelhak Nouri', 15: 'Coronavirus airborne', 16: 'Is COVID-19, airborne'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+'}"
-351,2020-03-26,26,3,2020,152,0,South_Africa,ZA,ZAF,57779622.0,100,"{0: 'latest news on coronavirus in south africa', 1: 'coronavirus tips', 2: 'latest coronavirus stats', 3: 'coronavirus tracker', 4: 'coronavirus vaccine'}","{0: 'South Africa coronavirus Update', 1: 'Nasty C', 2: 'Angus Buchan', 3: 'Bizportal', 4: ""McDonald's"", 5: 'Edcon', 6: 'My Secret Terrius', 7: 'Burger King', 8: 'Www.bizportal.gov.za', 9: 'Coronavirus stats South Africa', 10: 'Prince Harry'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '2K+'}"
-352,2020-03-25,25,3,2020,155,0,South_Africa,ZA,ZAF,57779622.0,86,,,
-353,2020-03-24,24,3,2020,128,0,South_Africa,ZA,ZAF,57779622.0,70,,,
-354,2020-03-23,23,3,2020,34,0,South_Africa,ZA,ZAF,57779622.0,84,,,
-355,2020-03-22,22,3,2020,35,0,South_Africa,ZA,ZAF,57779622.0,79,,,
-356,2020-03-21,21,3,2020,55,0,South_Africa,ZA,ZAF,57779622.0,71,,,
-357,2020-03-20,20,3,2020,34,0,South_Africa,ZA,ZAF,57779622.0,64,,,
-358,2020-03-19,19,3,2020,31,0,South_Africa,ZA,ZAF,57779622.0,73,,,
-359,2020-03-18,18,3,2020,23,0,South_Africa,ZA,ZAF,57779622.0,72,,,
-360,2020-03-17,17,3,2020,11,0,South_Africa,ZA,ZAF,57779622.0,75,,,
-361,2020-03-16,16,3,2020,27,0,South_Africa,ZA,ZAF,57779622.0,86,,,
-362,2020-03-15,15,3,2020,0,0,South_Africa,ZA,ZAF,57779622.0,73,,,
-363,2020-03-14,14,3,2020,7,0,South_Africa,ZA,ZAF,57779622.0,42,,,
-364,2020-03-13,13,3,2020,4,0,South_Africa,ZA,ZAF,57779622.0,39,,,
-365,2020-03-12,12,3,2020,6,0,South_Africa,ZA,ZAF,57779622.0,40,,,
-366,2020-03-10,10,3,2020,4,0,South_Africa,ZA,ZAF,57779622.0,25,,,
-367,2020-03-09,9,3,2020,1,0,South_Africa,ZA,ZAF,57779622.0,30,,,
-368,2020-03-08,8,3,2020,1,0,South_Africa,ZA,ZAF,57779622.0,23,,,
-369,2020-03-06,6,3,2020,1,0,South_Africa,ZA,ZAF,57779622.0,32,,,
-370,2020-04-18,18,4,2020,5599,847,United_Kingdom,UK,GBR,66488991.0,30,,,
-371,2020-04-17,17,4,2020,4617,861,United_Kingdom,UK,GBR,66488991.0,41,,,
-372,2020-04-16,16,4,2020,4603,761,United_Kingdom,UK,GBR,66488991.0,45,,,
-373,2020-04-15,15,4,2020,5252,778,United_Kingdom,UK,GBR,66488991.0,45,,,
-374,2020-04-14,14,4,2020,4342,717,United_Kingdom,UK,GBR,66488991.0,49,,,
-375,2020-04-13,13,4,2020,5288,737,United_Kingdom,UK,GBR,66488991.0,51,,,
-376,2020-04-12,12,4,2020,8719,917,United_Kingdom,UK,GBR,66488991.0,38,,,
-377,2020-04-11,11,4,2020,5195,980,United_Kingdom,UK,GBR,66488991.0,38,,,
-378,2020-04-10,10,4,2020,4344,881,United_Kingdom,UK,GBR,66488991.0,52,,,
-379,2020-04-09,9,4,2020,5491,938,United_Kingdom,UK,GBR,66488991.0,41,,,
-380,2020-04-08,8,4,2020,3634,786,United_Kingdom,UK,GBR,66488991.0,57,,,
-381,2020-04-07,7,4,2020,3802,439,United_Kingdom,UK,GBR,66488991.0,44,,,
-382,2020-04-06,6,4,2020,5903,621,United_Kingdom,UK,GBR,66488991.0,47,,,
-383,2020-04-05,5,4,2020,3735,708,United_Kingdom,UK,GBR,66488991.0,60,,,
-384,2020-04-04,4,4,2020,4450,684,United_Kingdom,UK,GBR,66488991.0,59,,,
-385,2020-04-03,3,4,2020,4244,389,United_Kingdom,UK,GBR,66488991.0,43,,,
-386,2020-04-02,2,4,2020,4324,743,United_Kingdom,UK,GBR,66488991.0,47,,,
-387,2020-04-01,1,4,2020,3009,381,United_Kingdom,UK,GBR,66488991.0,46,,,
-388,2020-03-31,31,3,2020,2619,180,United_Kingdom,UK,GBR,66488991.0,48,,,
-389,2020-03-30,30,3,2020,2433,209,United_Kingdom,UK,GBR,66488991.0,51,,,
-390,2020-03-29,29,3,2020,2546,260,United_Kingdom,UK,GBR,66488991.0,61,,,
-391,2020-03-28,28,3,2020,2885,181,United_Kingdom,UK,GBR,66488991.0,62,,,
-392,2020-03-27,27,3,2020,2129,115,United_Kingdom,UK,GBR,66488991.0,62,,,
-393,2020-03-26,26,3,2020,1452,41,United_Kingdom,UK,GBR,66488991.0,66,,,
-394,2020-03-25,25,3,2020,1427,87,United_Kingdom,UK,GBR,66488991.0,72,,,
-395,2020-03-24,24,3,2020,967,54,United_Kingdom,UK,GBR,66488991.0,70,,,
-396,2020-03-23,23,3,2020,665,48,United_Kingdom,UK,GBR,66488991.0,81,,,
-397,2020-03-22,22,3,2020,1035,56,United_Kingdom,UK,GBR,66488991.0,82,,,
-398,2020-03-21,21,3,2020,706,33,United_Kingdom,UK,GBR,66488991.0,73,,,
-399,2020-03-20,20,3,2020,647,41,United_Kingdom,UK,GBR,66488991.0,71,,,
-400,2020-03-19,19,3,2020,680,43,United_Kingdom,UK,GBR,66488991.0,77,,,
-401,2020-03-18,18,3,2020,407,5,United_Kingdom,UK,GBR,66488991.0,89,,,
-402,2020-03-17,17,3,2020,152,20,United_Kingdom,UK,GBR,66488991.0,96,"{0: 'does coronavirus start with a sore throat', 1: 'hmrc coronavirus helpline', 2: 'self employed coronavirus relief', 3: 'small business grant coronavirus', 4: 'coronavirus ibuprofen nhs'}",,
-403,2020-03-16,16,3,2020,251,14,United_Kingdom,UK,GBR,66488991.0,100,"{0: 'idris elba coronavirus', 1: 'pregnancy and coronavirus uk', 2: 'how to test for coronavirus uk', 3: 'pregnant women coronavirus', 4: 'pregnant coronavirus'}",,
-404,2020-03-15,15,3,2020,433,11,United_Kingdom,UK,GBR,66488991.0,89,,,
-405,2020-03-14,14,3,2020,117,0,United_Kingdom,UK,GBR,66488991.0,85,,,
-406,2020-03-13,13,3,2020,134,4,United_Kingdom,UK,GBR,66488991.0,82,,,
-407,2020-03-12,12,3,2020,83,0,United_Kingdom,UK,GBR,66488991.0,91,"{0: 'tom hanks coronavirus', 1: 'coronavirus cobra', 2: 'ireland coronavirus cases', 3: 'coronavirus cobra meeting', 4: 'celebrities with coronavirus'}",,
-408,2020-03-11,11,3,2020,52,1,United_Kingdom,UK,GBR,66488991.0,60,,,
-409,2020-03-10,10,3,2020,48,2,United_Kingdom,UK,GBR,66488991.0,51,,,
-410,2020-03-09,9,3,2020,67,1,United_Kingdom,UK,GBR,66488991.0,43,,,
-411,2020-03-08,8,3,2020,43,1,United_Kingdom,UK,GBR,66488991.0,35,,,
-412,2020-03-07,7,3,2020,48,0,United_Kingdom,UK,GBR,66488991.0,27,,,
-413,2020-03-06,6,3,2020,30,1,United_Kingdom,UK,GBR,66488991.0,31,,,
-414,2020-03-05,5,3,2020,34,0,United_Kingdom,UK,GBR,66488991.0,36,,,
-415,2020-03-04,4,3,2020,11,0,United_Kingdom,UK,GBR,66488991.0,32,,,
-416,2020-03-03,3,3,2020,4,0,United_Kingdom,UK,GBR,66488991.0,27,,,
-417,2020-03-02,2,3,2020,13,0,United_Kingdom,UK,GBR,66488991.0,26,,,
-418,2020-03-01,1,3,2020,5,0,United_Kingdom,UK,GBR,66488991.0,19,,,
-419,2020-02-29,29,2,2020,2,0,United_Kingdom,UK,GBR,66488991.0,15,,,
-420,2020-02-28,28,2,2020,3,0,United_Kingdom,UK,GBR,66488991.0,21,,,
-421,2020-02-27,27,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,19,,,
-422,2020-02-26,26,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,21,,,
-423,2020-02-25,25,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,16,,,
-424,2020-02-24,24,2,2020,4,0,United_Kingdom,UK,GBR,66488991.0,9,,,
-425,2020-02-23,23,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,6,,,
-426,2020-02-22,22,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,4,,,
-427,2020-02-21,21,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,3,,,
-428,2020-02-20,20,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,3,,,
-429,2020-02-19,19,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,3,,,
-430,2020-02-18,18,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,3,,,
-431,2020-02-17,17,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,4,,,
-432,2020-02-16,16,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,4,,,
-433,2020-02-15,15,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,4,,,
-434,2020-02-14,14,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,6,,,
-435,2020-02-13,13,2,2020,1,0,United_Kingdom,UK,GBR,66488991.0,8,,,
-436,2020-02-12,12,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,8,,,
-437,2020-02-11,11,2,2020,4,0,United_Kingdom,UK,GBR,66488991.0,8,,,
-438,2020-02-10,10,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,9,,,
-439,2020-02-09,9,2,2020,1,0,United_Kingdom,UK,GBR,66488991.0,6,,,
-440,2020-02-08,8,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,7,,,
-441,2020-02-07,7,2,2020,1,0,United_Kingdom,UK,GBR,66488991.0,6,,,
-442,2020-02-06,6,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,7,,,
-443,2020-02-05,5,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,5,,,
-444,2020-02-04,4,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,5,,,
-445,2020-02-03,3,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,6,,,
-446,2020-02-02,2,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,7,,,
-447,2020-02-01,1,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,8,,,
-448,2020-01-31,31,1,2020,2,0,United_Kingdom,UK,GBR,66488991.0,17,,,
-449,2020-01-30,30,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,11,,,
-450,2020-01-29,29,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,7,,,
-451,2020-01-28,28,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,7,,,
-452,2020-01-27,27,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,6,,,
-453,2020-01-26,26,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,6,,,
-454,2020-01-25,25,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,5,,,
-455,2020-01-24,24,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,5,,,
-456,2020-01-23,23,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,4,,,
-457,2020-01-22,22,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,2,,,
-458,2020-01-21,21,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,1,,,
-459,2020-01-20,20,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-460,2020-01-19,19,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-461,2020-01-18,18,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-462,2020-01-17,17,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-463,2020-01-16,16,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-464,2020-01-15,15,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-465,2020-01-14,14,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-466,2020-01-13,13,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-467,2020-01-12,12,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-468,2020-01-11,11,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-469,2020-01-10,10,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-470,2020-01-09,9,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-471,2020-01-08,8,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-472,2020-01-07,7,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-473,2020-01-06,6,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-474,2020-01-05,5,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-475,2020-01-04,4,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-476,2020-01-03,3,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-477,2020-01-02,2,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-478,2020-01-01,1,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-479,2019-12-31,31,12,2019,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,
-480,2020-04-18,18,4,2020,30833,3770,United_States_of_America,US,USA,327167434.0,41,,"{0: 'Eddie Vedder', 1: 'Nick Cordero', 2: 'Teddy Riley', 3: 'Stevie Wonder', 4: 'Shawn Mendes', 5: 'Keith Urban', 6: 'Maluma', 7: 'Sam Smith', 8: 'Waco', 9: 'David Koresh', 10: 'Billie Joe Armstrong', 11: 'Ranjit Chowdhry', 12: 'Kacey Musgraves', 13: 'Charlie Watts', 14: 'The Clark Sisters', 15: 'Thunderbirds flyover', 16: 'John Legend', 17: 'Jennifer Lopez', 18: 'Donald Trump Twitter', 19: 'Priyanka Chopra'}","{0: '2M+', 1: '200K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '100K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-481,2020-04-17,17,4,2020,31667,2299,United_States_of_America,US,USA,327167434.0,39,,"{0: 'Kenya Barris', 1: 'One World: Together At Home', 2: 'IRS stimulus check 2020', 3: 'DoorDash', 4: 'Florida beaches reopen', 5: 'Fiona Apple', 6: 'Too Hot to Handle, Netflix cast', 7: 'WNBA Draft', 8: 'Trump Twitter', 9: 'Siegfried and Roy', 10: ""Salute Deadpool's pants"", 11: 'Phantom of the Opera', 12: 'iPhone SE 2020', 13: 'Demi Lovato', 14: 'DaBaby', 15: 'Sam Heughan', 16: 'Wonderlic test', 17: 'Carrollton High School', 18: 'Michael Cohen', 19: 'Steve Cash'}","{0: '500K+', 1: '500K+', 2: '500K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-482,2020-04-16,16,4,2020,30148,4928,United_States_of_America,US,USA,327167434.0,40,,"{0: 'Brian Dennehy', 1: 'Remdesivir', 2: 'Disney Singalong', 3: 'Howard Finkel', 4: 'Coronavirus stats', 5: 'Dr. Phil', 6: 'Von Miller', 7: 'Trump briefing today', 8: 'Jalen Green', 9: 'Wisconsin stay-at-home order', 10: 'PPP', 11: 'Us map', 12: 'Luke Evans', 13: 'Keiji Fujiwara', 14: 'Chadwick Boseman', 15: 'Thomas Rhett', 16: 'Selena Quintanilla', 17: 'Utah earthquake', 18: 'Selena', 19: 'Al Capone'}","{0: '1M+', 1: '1M+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-483,2020-04-15,15,4,2020,26922,2408,United_States_of_America,US,USA,327167434.0,42,,"{0: 'IRS stimulus check portal', 1: 'iPhone SE', 2: 'Michigan protest', 3: 'U.S. Bank', 4: 'Brandi Glanville', 5: 'Odell Beckham Jr', 6: 'Mrs. America', 7: 'Michael Jordan', 8: 'Outer Banks Netflix', 9: 'PNC', 10: 'WWE', 11: 'Vince McMahon', 12: 'Chris Cuomo wife', 13: 'Fifth Third Bank', 14: 'All In Challenge', 15: 'Roy Halladay', 16: '2,000 a month stimulus', 17: 'Amy Schumer', 18: 'Jackie Robinson', 19: 'Nikki Glaser'}","{0: '10M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '500K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '100K+', 16: '100K+', 17: '100K+', 18: '50K+', 19: '50K+'}"
-484,2020-04-14,14,4,2020,25023,1541,United_States_of_America,US,USA,327167434.0,44,,"{0: 'Stimulus Check Calculator', 1: 'WHO', 2: 'Hank Steinbrenner', 3: 'Christopher Lloyd', 4: 'Gavin Newsom', 5: 'Earthquake Utah', 6: 'iPhone', 7: 'Gwen Stefani', 8: 'Gretchen Whitmer', 9: 'Jimmy Webb', 10: 'Playboi Carti', 11: 'Mutiny on the Bounty', 12: 'Brad Pitt', 13: 'How to make a face mask', 14: 'Kyle Larson video', 15: 'Kara Keough', 16: ""Chris D'Elia"", 17: 'New Amsterdam', 18: 'Stacey Abrams', 19: 'John Conway'}","{0: '500K+', 1: '500K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-485,2020-04-13,13,4,2020,27620,1500,United_States_of_America,US,USA,327167434.0,42,,"{0: 'Stimulus checks', 1: 'IRS stimulus check portal', 2: 'IRS', 3: 'Stimulus check status', 4: 'Fauci', 5: 'Tarvaris Jackson', 6: 'IRS stimulus check 2020 portal', 7: 'Wisconsin Election results', 8: 'Karl-Anthony Towns', 9: 'Wheres My stimulus check 2020', 10: 'Irs.gov stimulus check', 11: 'Dune', 12: 'George Stephanopoulos', 13: 'DSW', 14: 'Rick May', 15: 'Bernie Sanders', 16: 'Kenny Rogers', 17: 'Chattanooga tornado', 18: ""Where's my stimulus check 2020"", 19: 'Michigan unemployment'}","{0: '2M+', 1: '2M+', 2: '2M+', 3: '1M+', 4: '1M+', 5: '500K+', 6: '500K+', 7: '500K+', 8: '500K+', 9: '500K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '200K+', 14: '200K+', 15: '200K+', 16: '100K+', 17: '100K+', 18: '100K+', 19: '100K+'}"
-486,2020-04-12,12,4,2020,28391,1831,United_States_of_America,US,USA,327167434.0,30,,"{0: 'Happy Easter', 1: 'Andrea Bocelli', 2: 'Tornado warning', 3: 'Kyle Larson', 4: 'Easter Sunday', 5: 'JESUS CHRIST SUPERSTAR LIVE!', 6: 'Killing Eve', 7: 'Timothee Chalamet', 8: 'Insecure', 9: 'Dolly Parton', 10: 'Chris Martin', 11: 'Allie Quigley', 12: 'Easter images', 13: 'Tiger Woods', 14: 'Ryan Cameron', 15: 'Willie Nelson', 16: 'Joel Osteen', 17: 'Stanley Chera', 18: 'Mark Cuban', 19: 'Alice Cooper'}","{0: '1M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '200K+', 5: '200K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-487,2020-04-11,11,4,2020,35527,2087,United_States_of_America,US,USA,327167434.0,37,,"{0: 'Easter', 1: 'Happy Easter 2020', 2: 'IRS stimulus check portal', 3: 'The Clark Sisters', 4: 'Colby Cave', 5: 'Deviled eggs', 6: 'Billie Eilish', 7: 'SNL', 8: 'Jesus Christ Superstar', 9: 'Joel McHale', 10: 'Easter Bunny', 11: 'Stimulus check portal', 12: 'Hal Willner', 13: 'Fishing Tourney New Horizons', 14: 'Krakatoa eruption 2020', 15: 'Tara Reade', 16: 'Nick Cordero', 17: 'Shailene Woodley', 18: 'Ronda Rousey', 19: 'Sandra Lee'}","{0: '2M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '500K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '100K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-488,2020-04-10,10,4,2020,33901,1873,United_States_of_America,US,USA,327167434.0,46,,"{0: 'Trolls World Tour', 1: 'National Siblings Day', 2: 'Stimulus check 2020 direct deposit', 3: 'Georgia Groome', 4: 'Elizabeth Holmes', 5: 'Good Friday 2020', 6: 'Hard-boiled eggs', 7: 'XFL', 8: 'Krakatoa', 9: 'Timothy Brown', 10: 'Happy Easter', 11: 'Jesus Christ Superstar', 12: 'Passion of Christ', 13: 'Yaya Mayweather', 14: 'Kristen Bell', 15: 'Dwayne Johnson', 16: 'UFC 249', 17: 'Love Wedding Repeat', 18: 'Kellyclarkson', 19: 'Jerome Adams'}","{0: '1M+', 1: '1M+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '100K+', 16: '100K+', 17: '100K+', 18: '50K+', 19: '50K+'}"
-489,2020-04-09,9,4,2020,33323,1922,United_States_of_America,US,USA,327167434.0,48,,"{0: 'Good Friday', 1: 'IRS stimulus portal', 2: 'Colin Kaepernick', 3: 'Final Fantasy 7 Remake', 4: 'Hart Island', 5: 'Florence Pugh', 6: 'Maundy Thursday', 7: 'What is Good Friday', 8: 'Chris Johnson', 9: 'Brandin Cooks', 10: 'OPEC meeting', 11: 'Leslie Jordan', 12: 'Holy Thursday', 13: 'Blac Chyna', 14: 'Todd Chrisley', 15: 'Mort Drucker', 16: 'IRS stimulus check refund', 17: 'N95 respirators mask', 18: 'Draconian', 19: 'Elton John'}","{0: '1M+', 1: '500K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '20K+', 18: '20K+', 19: '20K+'}"
-490,2020-04-08,8,4,2020,30613,1906,United_States_of_America,US,USA,327167434.0,50,,"{0: 'Bernie Sanders', 1: 'Passover 2020', 2: 'Chynna', 3: 'Linda Tripp', 4: 'Modern Family', 5: 'Snapchat', 6: 'Jordyn Woods', 7: ""Dick's Sporting Goods"", 8: 'Amber Heard', 9: 'Parasite', 10: 'IRS economic stimulus checks', 11: 'Josh Hamilton', 12: 'Stadia', 13: 'Julie Bowen', 14: 'Falcons new uniforms', 15: 'Charlotte Figi', 16: 'Sarah Hyland', 17: 'Tyler Perry', 18: 'Angel From Montgomery', 19: 'TORNADO WARNING'}","{0: '2M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '500K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '100K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-491,2020-04-07,7,4,2020,30561,1342,United_States_of_America,US,USA,327167434.0,55,,"{0: 'John Prine', 1: 'PS5 controller', 2: 'Wisconsin primary results', 3: 'Valorant', 4: 'Kayleigh McEnany', 5: 'Tom Brady', 6: 'Mac P Dawg', 7: 'Riot Games', 8: ""Schitt's Creek"", 9: 'Jack Dorsey', 10: 'Bruce Willis', 11: 'Hal Willner', 12: 'Bucs new uniforms', 13: 'Vic Henley', 14: 'National Beer Day', 15: 'Maeve Kennedy McKean', 16: 'Uk prime ministers', 17: 'Furloughed vs layoff', 18: 'Hypertension', 19: 'Lele Pons'}","{0: '2M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '500K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-492,2020-04-06,6,4,2020,25398,1146,United_States_of_America,US,USA,327167434.0,59,,"{0: 'Pink moon', 1: 'Wisconsin primary', 2: 'Ezra Miller', 3: 'Hydroxychloroquine', 4: 'When will stimulus checks be deposited', 5: 'Al Kaline', 6: 'Honor Blackman', 7: 'Adele', 8: 'Thomas Modly', 9: 'SBA Disaster Loan assistance', 10: 'Quibi', 11: 'Jay Benedict', 12: 'James Taylor', 13: 'How to make a mask', 14: 'COVID symptoms', 15: 'Boris Johnson wife', 16: 'UFC 249', 17: 'Kenny Rogers', 18: 'Jeannie Mai', 19: 'Bhad Bhabie'}","{0: '1M+', 1: '500K+', 2: '500K+', 3: '500K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '200K+', 14: '200K+', 15: '200K+', 16: '100K+', 17: '100K+', 18: '100K+', 19: '100K+'}"
-493,2020-04-05,5,4,2020,34272,1344,United_States_of_America,US,USA,327167434.0,58,,"{0: 'Boris Johnson', 1: 'Bronx Zoo', 2: 'Queen Elizabeth', 3: 'Miranda Lambert', 4: 'When will the stimulus checks be deposited', 5: 'Peter Navarro', 6: 'Tom Dempsey', 7: 'Full moon April 2020', 8: 'John Cena', 9: 'Gwen Stefani', 10: 'Jerome Adams', 11: 'Charlotte Flair', 12: 'WrestleMania 36 results', 13: 'Kurt Cobain', 14: 'World on Fire', 15: 'Sheryl Crow', 16: 'Passover', 17: 'Kodak Black', 18: 'Patricia Bosworth', 19: 'Domingo de Ramos'}","{0: '2M+', 1: '200K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-494,2020-04-04,4,4,2020,32425,1104,United_States_of_America,US,USA,327167434.0,60,,"{0: 'WrestleMania 36', 1: 'Palm Sunday', 2: 'Yaya Mayweather', 3: 'Charles Lieber', 4: 'Shark', 5: 'Orlando Bloom', 6: 'Pink', 7: 'Lds General Conference 2020', 8: '5G tower radiation', 9: 'Kevin Garnett', 10: 'Louis C.K', 11: 'Joe Rogan', 12: 'Ric Flair', 13: 'Robert Downey Jr', 14: 'Missouri stay-at-home order'}","{0: '1M+', 1: '1M+', 2: '1M+', 3: '200K+', 4: '200K+', 5: '100K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '50K+', 12: '50K+', 13: '50K+', 14: '20K+'}"
-495,2020-04-03,3,4,2020,28819,915,United_States_of_America,US,USA,327167434.0,57,,"{0: 'Coronavirus tips', 1: 'Bill Withers', 2: 'Face mask', 3: 'Earthquake', 4: 'Logan Williams', 5: 'Paycheck Protection Program', 6: 'Kathleen Kennedy Townsend', 7: 'Onward', 8: 'HBO', 9: 'VALORANT', 10: 'Captain Crozier', 11: 'Brooke Baldwin', 12: 'Playboi Carti', 13: 'Money Heist', 14: 'Cloth masks for sale', 15: 'Jessica Alba', 16: 'Coffee and Kareem', 17: 'Val Kilmer', 18: 'Tom Holland', 19: 'Ivermectin'}","{0: '10M+', 1: '2M+', 2: '1M+', 3: '1M+', 4: '1M+', 5: '500K+', 6: '500K+', 7: '500K+', 8: '500K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '200K+', 14: '100K+', 15: '100K+', 16: '100K+', 17: '100K+', 18: '100K+', 19: '100K+'}"
-496,2020-04-02,2,4,2020,27103,1059,United_States_of_America,US,USA,327167434.0,46,,"{0: 'Stimulus checks', 1: '3M', 2: 'Draper James', 3: 'Jared Kushner', 4: 'Luckin Coffee', 5: 'Autism Awareness Day', 6: 'Ali Wentworth', 7: 'Resident Evil 3', 8: 'Ryan Reynolds', 9: 'Jo-Ann fabric masks', 10: 'Joe Exotic coronavirus', 11: 'Last of Us 2', 12: 'Chanel Rion', 13: 'LaMelo Ball', 14: 'Ed Farmer', 15: 'Dolly Parton', 16: 'Keeping Up With The Kardashians', 17: 'Zac Efron', 18: 'Gretchen Whitmer', 19: 'Candace Owens'}","{0: '1M+', 1: '200K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '100K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-497,2020-04-01,1,4,2020,24998,909,United_States_of_America,US,USA,327167434.0,48,,"{0: 'Adam Schlesinger', 1: 'Census 2020', 2: 'Florida stay-at-home order', 3: 'Georgia shelter-in-place', 4: 'Garth Brooks', 5: 'Zantac', 6: 'Selena', 7: 'Aldon Smith', 8: 'Ellis Marsalis', 9: '6ix9ine', 10: 'Florida', 11: 'N95 mask for sale', 12: 'Rob Gronkowski', 13: 'How to make a face mask with fabric', 14: 'Tekashi69', 15: 'Zoom meetings', 16: 'Robert Redford', 17: 'David Blaine', 18: 'UFC 249', 19: 'Fabletics'}","{0: '1M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '100K+', 14: '100K+', 15: '100K+', 16: '100K+', 17: '100K+', 18: '100K+', 19: '100K+'}"
-498,2020-03-31,31,3,2020,21595,661,United_States_of_America,US,USA,327167434.0,48,,"{0: 'Dame Jean Macnamara', 1: 'Idaho earthquake', 2: 'Chris Cuomo', 3: 'April Fools pranks', 4: 'Andrew Jack', 5: 'Stimulus checks Social Security', 6: 'Jeff Grosso', 7: 'April Fools', 8: 'Selena Quintanilla', 9: 'Yellowstone', 10: 'Yellowstone Volcano', 11: 'Leslie Jordan', 12: 'Face mask for sale', 13: 'DaBaby', 14: 'Taco Bell free taco', 15: 'National Guard', 16: 'David Geffen', 17: 'Masks for sale', 18: 'Toilet paper online in stock', 19: 'Mitigation'}","{0: '10M+', 1: '1M+', 2: '1M+', 3: '1M+', 4: '500K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-499,2020-03-30,30,3,2020,18360,318,United_States_of_America,US,USA,327167434.0,50,,"{0: 'Drake', 1: 'Furlough', 2: 'Virginia stay-at-home order', 3: 'Nipsey Hussle', 4: 'MyPillow', 5: 'Modern Warfare 2 Remastered', 6: 'The Good Doctor', 7: 'SBA disaster loans', 8: 'Michigan unemployment', 9: 'Arizona news', 10: 'Schoology', 11: 'Selena', 12: 'CARES Act', 13: 'Tomie dePaola', 14: 'Furlough vs laid off', 15: 'John Krasinski', 16: 'Virginia', 17: 'Instacart strike', 18: 'When are the stimulus checks coming', 19: 'USNS Comfort'}","{0: '1M+', 1: '500K+', 2: '500K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '200K+', 14: '200K+', 15: '200K+', 16: '200K+', 17: '100K+', 18: '100K+', 19: '100K+'}"
-500,2020-03-29,29,3,2020,19979,484,United_States_of_America,US,USA,327167434.0,54,,"{0: 'Joe Diffie', 1: 'John Prine', 2: 'Elton John', 3: 'Tiger', 4: 'Garth Brooks', 5: 'Social distancing', 6: 'Liberty University', 7: 'Brene Brown', 8: 'Camila Cabello', 9: 'Sarah Jessica Parker', 10: 'John Prine songs', 11: 'Jeanine Pirro', 12: 'Shia LaBeouf', 13: 'Cards Against Humanity online', 14: 'Yamiche Alcindor', 15: 'Nier Replicant', 16: 'Sam Smith', 17: 'Jan Howard', 18: 'Bob Garff', 19: 'Daisy Keech'}","{0: '5M+', 1: '1M+', 2: '500K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '50K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-501,2020-03-28,28,3,2020,18695,411,United_States_of_America,US,USA,327167434.0,57,,"{0: 'John Callahan Actor', 1: 'Stimulus checks', 2: 'Jonesboro, AR', 3: 'Lion', 4: 'Dog', 5: 'Weather radar', 6: 'CARES Act', 7: 'Tom Coburn', 8: 'Cat', 9: 'James Dolan', 10: 'Horse', 11: 'Elephant', 12: 'Bear', 13: 'Wolf', 14: 'Penguin', 15: 'David Geffen', 16: 'Instacart strike', 17: 'Lizzie Borden', 18: 'Krispy Kreme donuts', 19: 'USNS Comfort'}","{0: '500K+', 1: '500K+', 2: '200K+', 3: '200K+', 4: '100K+', 5: '100K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-502,2020-03-27,27,3,2020,16797,246,United_States_of_America,US,USA,327167434.0,59,,"{0: 'COVID-19', 1: 'Ozark', 2: 'Boris Johnson', 3: 'Thomas Massie', 4: 'Tiger', 5: 'Trish Regan', 6: 'Drew Brees', 7: 'Steven Universe Future', 8: 'Doris Burke', 9: 'Julia Garner', 10: 'Shark', 11: 'Bad Bunny', 12: 'Queen Elizabeth', 13: 'Once Upon a Time in Hollywood', 14: 'Bill Gates', 15: 'Kourtney Kardashian', 16: 'Krispy Kreme', 17: 'Jason Bateman', 18: 'Laura Linney', 19: 'Pope Francis'}","{0: '500K+', 1: '500K+', 2: '500K+', 3: '500K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '100K+', 16: '100K+', 17: '100K+', 18: '100K+', 19: '100K+'}"
-503,2020-03-26,26,3,2020,13963,249,United_States_of_America,US,USA,327167434.0,59,,"{0: 'Mark Blum', 1: 'Carole Baskin', 2: 'Lion', 3: 'Jon Jones', 4: 'U.S. population', 5: 'Curly Neal', 6: 'Maduro', 7: 'Cheesecake Factory', 8: 'Unemployment rate', 9: 'Amber Heard', 10: 'Peter Navarro', 11: 'Kathy Griffin', 12: 'Bison', 13: ""Jersey Mike's"", 14: 'Dave Matthews', 15: 'Kennedy Center', 16: 'Goat', 17: 'Carole Baskin husband', 18: 'Nintendo Direct', 19: 'Tana Mongeau'}","{0: '1M+', 1: '200K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '100K+', 6: '100K+', 7: '100K+', 8: '50K+', 9: '50K+', 10: '50K+', 11: '50K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}"
-504,2020-03-25,25,3,2020,8789,211,United_States_of_America,US,USA,327167434.0,60,,,
-505,2020-03-24,24,3,2020,11236,119,United_States_of_America,US,USA,327167434.0,64,,,
-506,2020-03-23,23,3,2020,8459,131,United_States_of_America,US,USA,327167434.0,70,,,
-507,2020-03-22,22,3,2020,7123,80,United_States_of_America,US,USA,327167434.0,77,,,
-508,2020-03-21,21,3,2020,5374,110,United_States_of_America,US,USA,327167434.0,75,,,
-509,2020-03-20,20,3,2020,4835,0,United_States_of_America,US,USA,327167434.0,76,,,
-510,2020-03-19,19,3,2020,2988,42,United_States_of_America,US,USA,327167434.0,78,,,
-511,2020-03-18,18,3,2020,1766,23,United_States_of_America,US,USA,327167434.0,80,,,
-512,2020-03-17,17,3,2020,887,16,United_States_of_America,US,USA,327167434.0,89,,,
-513,2020-03-16,16,3,2020,823,12,United_States_of_America,US,USA,327167434.0,98,"{0: 'idris elba coronavirus', 1: 'are gyms closing because of coronavirus', 2: 'san francisco coronavirus', 3: 'new jersey coronavirus lockdown', 4: 'coronavirus ii'}",,
-514,2020-03-15,15,3,2020,777,10,United_States_of_America,US,USA,327167434.0,100,"{0: 'coronavirus tips', 1: 'coronavirus patient zero', 2: 'coronavirus curfew', 3: 'coronavirus in arizona', 4: 'coronavirus in tennessee'}",,
-515,2020-03-14,14,3,2020,511,7,United_States_of_America,US,USA,327167434.0,79,,,
-516,2020-03-13,13,3,2020,351,10,United_States_of_America,US,USA,327167434.0,89,,,
-517,2020-03-12,12,3,2020,287,2,United_States_of_America,US,USA,327167434.0,100,"{0: 'rudy gobert coronavirus', 1: 'tom hanks coronavirus', 2: 'utah jazz coronavirus', 3: 'celebrities with coronavirus', 4: 'does tom hanks have coronavirus'}",,
-518,2020-03-11,11,3,2020,271,2,United_States_of_America,US,USA,327167434.0,56,,,
-519,2020-03-10,10,3,2020,200,5,United_States_of_America,US,USA,327167434.0,44,,,
-520,2020-03-09,9,3,2020,121,4,United_States_of_America,US,USA,327167434.0,38,,,
-521,2020-03-08,8,3,2020,95,3,United_States_of_America,US,USA,327167434.0,30,,,
-522,2020-03-07,7,3,2020,105,2,United_States_of_America,US,USA,327167434.0,30,,,
-523,2020-03-06,6,3,2020,74,1,United_States_of_America,US,USA,327167434.0,30,,,
-524,2020-03-05,5,3,2020,34,2,United_States_of_America,US,USA,327167434.0,29,,,
-525,2020-03-04,4,3,2020,22,3,United_States_of_America,US,USA,327167434.0,24,,,
-526,2020-03-03,3,3,2020,14,4,United_States_of_America,US,USA,327167434.0,26,,,
-527,2020-03-02,2,3,2020,20,1,United_States_of_America,US,USA,327167434.0,26,,,
-528,2020-03-01,1,3,2020,3,1,United_States_of_America,US,USA,327167434.0,17,,,
-529,2020-02-29,29,2,2020,6,0,United_States_of_America,US,USA,327167434.0,20,,,
-530,2020-02-28,28,2,2020,1,0,United_States_of_America,US,USA,327167434.0,18,,,
-531,2020-02-27,27,2,2020,6,0,United_States_of_America,US,USA,327167434.0,19,,,
-532,2020-02-26,26,2,2020,0,0,United_States_of_America,US,USA,327167434.0,16,,,
-533,2020-02-25,25,2,2020,18,0,United_States_of_America,US,USA,327167434.0,11,,,
-534,2020-02-24,24,2,2020,0,0,United_States_of_America,US,USA,327167434.0,7,,,
-535,2020-02-23,23,2,2020,0,0,United_States_of_America,US,USA,327167434.0,5,,,
-536,2020-02-22,22,2,2020,19,0,United_States_of_America,US,USA,327167434.0,4,,,
-537,2020-02-21,21,2,2020,1,0,United_States_of_America,US,USA,327167434.0,3,,,
-538,2020-02-20,20,2,2020,0,0,United_States_of_America,US,USA,327167434.0,3,,,
-539,2020-02-19,19,2,2020,0,0,United_States_of_America,US,USA,327167434.0,3,,,
-540,2020-02-18,18,2,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,
-541,2020-02-17,17,2,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,
-542,2020-02-16,16,2,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,
-543,2020-02-15,15,2,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,
-544,2020-02-14,14,2,2020,1,0,United_States_of_America,US,USA,327167434.0,4,,,
-545,2020-02-13,13,2,2020,1,0,United_States_of_America,US,USA,327167434.0,5,,,
-546,2020-02-12,12,2,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,
-547,2020-02-11,11,2,2020,1,0,United_States_of_America,US,USA,327167434.0,5,,,
-548,2020-02-10,10,2,2020,0,0,United_States_of_America,US,USA,327167434.0,5,,,
-549,2020-02-09,9,2,2020,0,0,United_States_of_America,US,USA,327167434.0,5,,,
-550,2020-02-08,8,2,2020,0,0,United_States_of_America,US,USA,327167434.0,6,,,
-551,2020-02-07,7,2,2020,0,0,United_States_of_America,US,USA,327167434.0,6,,,
-552,2020-02-06,6,2,2020,1,0,United_States_of_America,US,USA,327167434.0,6,,,
-553,2020-02-05,5,2,2020,0,0,United_States_of_America,US,USA,327167434.0,5,,,
-554,2020-02-04,4,2,2020,0,0,United_States_of_America,US,USA,327167434.0,6,,,
-555,2020-02-03,3,2,2020,3,0,United_States_of_America,US,USA,327167434.0,7,,,
-556,2020-02-02,2,2,2020,1,0,United_States_of_America,US,USA,327167434.0,8,,,
-557,2020-02-01,1,2,2020,1,0,United_States_of_America,US,USA,327167434.0,9,,,
-558,2020-01-31,31,1,2020,1,0,United_States_of_America,US,USA,327167434.0,11,,,
-559,2020-01-30,30,1,2020,0,0,United_States_of_America,US,USA,327167434.0,12,,,
-560,2020-01-29,29,1,2020,0,0,United_States_of_America,US,USA,327167434.0,11,,,
-561,2020-01-28,28,1,2020,0,0,United_States_of_America,US,USA,327167434.0,12,,,
-562,2020-01-27,27,1,2020,3,0,United_States_of_America,US,USA,327167434.0,11,,,
-563,2020-01-26,26,1,2020,0,0,United_States_of_America,US,USA,327167434.0,10,,,
-564,2020-01-25,25,1,2020,1,0,United_States_of_America,US,USA,327167434.0,9,,,
-565,2020-01-24,24,1,2020,0,0,United_States_of_America,US,USA,327167434.0,8,,,
-566,2020-01-23,23,1,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,
-567,2020-01-22,22,1,2020,0,0,United_States_of_America,US,USA,327167434.0,3,,,
-568,2020-01-21,21,1,2020,1,0,United_States_of_America,US,USA,327167434.0,3,,,
-569,2020-01-20,20,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-570,2020-01-19,19,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-571,2020-01-18,18,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-572,2020-01-17,17,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-573,2020-01-16,16,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-574,2020-01-15,15,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-575,2020-01-14,14,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-576,2020-01-13,13,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-577,2020-01-12,12,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-578,2020-01-11,11,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-579,2020-01-10,10,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-580,2020-01-09,9,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-581,2020-01-08,8,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-582,2020-01-07,7,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-583,2020-01-06,6,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-584,2020-01-05,5,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-585,2020-01-04,4,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-586,2020-01-03,3,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-587,2020-01-02,2,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-588,2020-01-01,1,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,
-589,2019-12-31,31,12,2019,0,0,United_States_of_America,US,USA,327167434.0,0,,,
+date,day,month,year,cases,deaths,country,country_code,countryterritoryCode,popData2018,coronavirus,related_queries,trends_title,trends_traffic,cumsum_case,growth_rate
+2020-04-18,18,4,2020,36,4,Australia,AU,AUS,24992369.0,32,,"{0: 'Mitch Cronin', 1: 'One World: Together at Home', 2: 'Phantom of the Opera', 3: 'Lindsay Lohan', 4: 'Brisbane weather', 5: 'Fast and Furious', 6: 'iPhone SE 2020', 7: ""Salute Deadpool's pants"", 8: 'Who owns Virgin Australia', 9: 'Carl Williams', 10: 'The band', 11: 'Sergio', 12: 'The King: Eternal Monarch', 13: 'Tyson Stengle', 14: 'Doctor doctor', 15: 'Norman Hunter', 16: 'Sam Heughan', 17: 'Dr. Phil', 18: 'Leighton Meester'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '2K+', 17: '2K+', 18: '2K+'}",6533,0.5510485228838206
+2020-04-17,17,4,2020,39,0,Australia,AU,AUS,24992369.0,41,,"{0: 'Brian Dennehy', 1: 'Cassie Sainsbury', 2: 'Lachie Hunter', 3: 'Too Hot To Handle cast', 4: 'Scott Morrison', 5: 'Remdesivir', 6: 'Howard Finkel', 7: 'China coronavirus', 8: 'Fiona Apple', 9: 'Fifty Shades of Grey', 10: 'Bindi Irwin', 11: 'Riverdale', 12: 'Ivanka Trump', 13: 'Keiji Fujiwara', 14: 'Peter Dutton', 15: 'Captain Tom Moore', 16: 'GTA 6', 17: 'Angelika Timanina', 18: 'Orlando Brown', 19: 'WA schools'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '2K+', 18: '2K+', 19: '2K+'}",6497,0.6002770509465908
+2020-04-16,16,4,2020,42,2,Australia,AU,AUS,24992369.0,45,,"{0: 'iPhone SE', 1: 'Brandi Glanville', 2: 'Outer Banks', 3: 'Isabel Lucas', 4: 'WWE', 5: 'Malcolm Turnbull', 6: 'Virgin Australia news', 7: 'Cameron Diaz', 8: 'Al Capone', 9: 'Vince McMahon', 10: 'Jeff Bezos', 11: 'Chelsea Handler', 12: 'Michael Buble', 13: 'NSW schools', 14: 'The Last Dance', 15: 'Tedros Adhanom', 16: 'WWE releases', 17: 'AT1 ASX', 18: 'Rent relief Victoria'}","{0: '100K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '2K+'}",6458,0.6503561474140601
+2020-04-15,15,4,2020,50,0,Australia,AU,AUS,24992369.0,46,,"{0: 'P.E Nation', 1: 'Joe Biden', 2: 'Amy Schumer son name', 3: ""Mother's Day 2020"", 4: 'Trump WHO', 5: 'Drakes Supermarkets', 6: 'Ricky Gervais', 7: 'Earthquake', 8: 'OnePlus 8', 9: 'Aussie Disposals', 10: 'Annika Smethurst', 11: 'Gita Gopinath', 12: 'Jimmy Webb', 13: 'Katerino', 14: 'Paige Spiranac', 15: 'IMF', 16: 'Kevin Rudd', 17: 'COVID-19 Western Australia', 18: 'Vacation', 19: 'Events'}","{0: '50K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}",6416,0.7793017456359103
+2020-04-14,14,4,2020,44,0,Australia,AU,AUS,24992369.0,47,,"{0: 'Compass', 1: 'Virgin Australia', 2: 'Google Meet', 3: 'Dune', 4: 'Chernobyl', 5: 'Rick May', 6: 'JobKeeper payment ATO', 7: 'Wet market', 8: 'Karl-Anthony Towns', 9: 'Fatberg', 10: 'Reynold Poernomo', 11: 'One Direction', 12: 'Johntravolta', 13: 'Tarvaris Jackson', 14: 'Kyle Larson', 15: 'Afterpay (ASX', 16: 'Singapore coronavirus', 17: 'Tamil New Year 2020', 18: 'Marina abramovic', 19: 'John Conway'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '2K+', 19: '2K+'}",6366,0.6911718504555451
+2020-04-13,13,4,2020,33,4,Australia,AU,AUS,24992369.0,55,,"{0: 'MasterChef Australia 2020', 1: 'MasterChef', 2: 'Killing Eve', 3: 'Ben Ungermann', 4: 'Tasmania coronavirus', 5: 'The Secrets She Keeps', 6: 'Tom Hanks', 7: 'Fauci', 8: 'Craig Foster', 9: 'Billie Eilish bikini', 10: 'Pew pew iPhone', 11: 'John Anderson', 12: 'Jock Masterchef', 13: 'Qld schools', 14: 'Peter Bonetti', 15: 'Vaisakhi 2020', 16: 'Neymar mum'}","{0: '100K+', 1: '50K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+'}",6322,0.5219867130654856
+2020-04-12,12,4,2020,51,3,Australia,AU,AUS,24992369.0,43,,"{0: 'Tim Brooke-Taylor', 1: 'Easter', 2: 'Happy Easter', 3: 'Stirling Moss', 4: 'Andrea Bocelli', 5: 'Happy Easter message', 6: 'Easter movies', 7: 'Joel McHale', 8: 'Might And Power', 9: 'Easter Monday', 10: 'Julian Assange', 11: 'Colby Cave', 12: 'Easter greetings', 13: 'Gary Jubelin', 14: 'Easter wishes', 15: 'Reese Witherspoon', 16: 'House Rules', 17: 'Tim Lafai', 18: 'Lego Masters', 19: 'Easter images'}","{0: '200K+', 1: '200K+', 2: '50K+', 3: '50K+', 4: '50K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '2K+', 19: '2K+'}",6289,0.8109397360470663
+2020-04-11,11,4,2020,86,2,Australia,AU,AUS,24992369.0,38,,"{0: 'Georgia Groome', 1: 'Easter Bunny', 2: 'Krakatoa', 3: 'Cooped Up movie', 4: 'Code 8', 5: 'Kristen Bell', 6: 'Johnny Depp', 7: 'Prisoners', 8: 'AnnaSophia Robb', 9: 'Kenny Dalglish', 10: 'Dredd', 11: 'Moses', 12: 'Easter saturday'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '2K+', 11: '2K+', 12: '2K+'}",6238,1.3786470022443091
+2020-04-10,10,4,2020,100,2,Australia,AU,AUS,24992369.0,51,,"{0: 'Good Friday Appeal 2020', 1: 'Good Friday 2020', 2: 'Love Wedding Repeat', 3: 'Fish and chips', 4: 'Pete Evans', 5: 'Daniel Craig', 6: 'Trolls World Tour', 7: 'Olivia Munn', 8: ""Royal Children's Hospital Good Friday Appeal"", 9: 'Hot cross buns', 10: 'Hart Island', 11: 'Easter movies', 12: 'UFC 249', 13: 'Jennifer Grey', 14: 'Jesus Christ Superstar', 15: 'Final Fantasy VII Remake', 16: 'Gwyneth Paltrow', 17: 'Good friday meaning', 18: ""Criniti's"", 19: 'What is Good Friday'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}",6152,1.625487646293888
+2020-04-09,9,4,2020,96,5,Australia,AU,AUS,24992369.0,51,,"{0: 'Bernie Sanders', 1: 'Good Friday', 2: 'Snapchat', 3: 'Adidas', 4: 'Florence Pugh', 5: 'NRL', 6: 'Glenn Fredly', 7: 'Chynna', 8: 'Don Harwin', 9: 'Modern Family', 10: 'Hot cross buns recipe', 11: 'The hunt', 12: 'Amber Heard', 13: 'The good, the bad and the ugly', 14: 'ANU', 15: 'Ashley Harkleroad', 16: 'Nat Fyfe', 17: 'Bloom', 18: 'Maundy Thursday', 19: 'Linda Tripp'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}",6052,1.5862524785194976
+2020-04-08,8,4,2020,112,3,Australia,AU,AUS,24992369.0,54,,"{0: 'PS5 controller', 1: 'John Prine', 2: 'Valorant', 3: 'Jo Ferguson', 4: 'Job Keeper', 5: 'Happy Easter', 6: 'JobKeeper payment', 7: 'Quenton Leach', 8: 'Make me a drink', 9: 'Bruce Willis', 10: 'Passover', 11: 'Wuhan', 12: 'UK news', 13: 'Jack Dorsey', 14: 'Moon', 15: 'Xbox Series X', 16: 'Under Armour', 17: 'Extraction', 18: 'Pope Francis', 19: 'Battle of Britain'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '2K+', 18: '2K+', 19: '2K+'}",5956,1.880456682337139
+2020-04-07,7,4,2020,100,6,Australia,AU,AUS,24992369.0,58,,"{0: 'Pink Moon', 1: 'Honor Blackman', 2: 'Daniel Andrews', 3: 'UFC 249', 4: 'North West Island', 5: 'Toyota recall', 6: 'David Icke', 7: 'Zoom meetings', 8: 'Kyly Clarke', 9: 'Anzac Day', 10: 'Pep Guardiola', 11: 'The Big Show Show', 12: 'COVID symptoms', 13: 'Quibi', 14: 'Flu vaccination 2020', 15: 'RBA', 16: 'Jay Benedict', 17: 'Showbags', 18: 'Black The Ripper', 19: 'Breathe'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}",5844,1.7111567419575633
+2020-04-06,6,4,2020,57,2,Australia,AU,AUS,24992369.0,60,,"{0: 'Thank you coronavirus helpers', 1: 'Pell', 2: 'Boris Johnson', 3: 'Boris Johnson', 4: 'TAFE NSW', 5: 'JobKeeper', 6: 'Stacey Hampton', 7: 'Ezra Miller', 8: 'Full moon April 2020', 9: 'Vanuatu', 10: 'Adele', 11: 'Alexander Wang', 12: 'Em Rusciano', 13: 'Shane Fitzsimmons', 14: 'Zac Efron', 15: 'Swarovski', 16: 'Kyle Walker', 17: 'Duffy', 18: 'Idris Elba', 19: 'Good Friday'}","{0: '500K+', 1: '500K+', 2: '200K+', 3: '200K+', 4: '100K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '20K+', 9: '20K+', 10: '20K+', 11: '20K+', 12: '10K+', 13: '10K+', 14: '10K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}",5744,0.9923398328690808
+2020-04-05,5,4,2020,139,4,Australia,AU,AUS,24992369.0,63,,"{0: 'Ruby Princess', 1: 'Queen Elizabeth', 2: 'Carrie Symonds', 3: 'Palm Sunday', 4: 'Zendaya', 5: 'Adelaide time', 6: 'House Rules 2020', 7: 'Elton John', 8: 'Ivan and Aleks', 9: 'Fantastic Four', 10: 'CBD Hotel Newcastle', 11: 'Marianne Faithfull', 12: 'Paige Spiranac', 13: 'Madonna', 14: 'The game movie', 15: 'Furlough', 16: 'Doris Day', 17: 'Ged Kearney', 18: 'Louis C.K', 19: 'Kirk Douglas'}","{0: '100K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '2K+', 18: '2K+', 19: '2K+'}",5687,2.4441709161244947
+2020-04-04,4,4,2020,324,7,Australia,AU,AUS,24992369.0,64,,"{0: 'Daylight savings', 1: 'Bill Withers', 2: 'Logan Williams', 3: 'WrestleMania 36', 4: 'Valorant', 5: 'Andrew Jack', 6: 'Pink', 7: 'Chris Hemsworth', 8: 'Katy Perry', 9: 'Keir Starmer', 10: 'Mark McGowan', 11: 'Coffee and Kareem', 12: 'Sergio Rossi', 13: 'Halle Berry', 14: 'Captain Crozier', 15: 'Money Heist season 5', 16: 'Playboi Carti', 17: 'Corona beer', 18: 'Tales from the Loop', 19: 'Bom radar Brisbane'}","{0: '100K+', 1: '100K+', 2: '50K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}",5548,5.839942321557318
+2020-04-03,3,4,2020,248,2,Australia,AU,AUS,24992369.0,61,,"{0: 'Coronavirus', 1: 'Coronavirus Tips', 2: 'Ivermectin', 3: 'Money Heist', 4: 'LaMelo Ball', 5: 'Viraclean', 6: 'Denise Richards', 7: 'Aldi opening times', 8: 'Amber Heard', 9: 'Eddie Murphy', 10: 'Ruby Princess cruises', 11: 'Resident Evil 3', 12: 'Dolly Parton', 13: 'Bernie Ecclestone', 14: 'Zac Efron', 15: 'Eddie Large', 16: '5G', 17: 'Tracks', 18: 'HBO', 19: 'Bruce Dawe'}","{0: '1M+', 1: '100K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '2K+', 19: '2K+'}",5224,4.747320061255743
+2020-04-02,2,4,2020,269,1,Australia,AU,AUS,24992369.0,48,,"{0: 'Adam Schlesinger', 1: 'Free childcare', 2: 'Bunnings gym equipment', 3: 'Harry Potter at Home', 4: 'Jobs hub', 5: '6ix9ine', 6: 'COVID-19 news', 7: 'Leighton Meester', 8: 'Wimbledon', 9: 'KPMG', 10: 'CSIRO', 11: 'Peter Dutton', 12: 'Turkmenistan', 13: 'Humble Bundle', 14: 'Teri Hatcher', 15: 'Paige VanZant', 16: 'Josh Maja', 17: 'Pandemic leave', 18: 'Sunderland', 19: 'Samuel L. Jackson'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}",4976,5.405948553054662
+2020-04-01,1,4,2020,150,1,Australia,AU,AUS,24992369.0,51,,"{0: 'Dame Jean Macnamara', 1: 'Club Penguin', 2: 'Taronga TV', 3: 'Zoom meetings', 4: 'Andrew Forrest', 5: 'AFL Evolution 2', 6: 'Bottle shop', 7: 'Eddie McGuire', 8: 'Bing', 9: 'Jeff Grosso', 10: 'Final Fantasy 7 Remake', 11: 'Chris Cuomo', 12: 'Philippines', 13: 'Andrew Jack Star Wars', 14: 'Vogue Shopping Night', 15: 'Community', 16: 'Tom cruise', 17: 'Nipsey Hussle', 18: 'What is a Virus', 19: 'FF7 Remake'}","{0: '1M+', 1: '50K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '2K+', 18: '2K+', 19: '2K+'}",4707,3.186743148502231
+2020-03-31,31,3,2020,464,3,Australia,AU,AUS,24992369.0,55,,"{0: 'April Fools pranks', 1: 'Jobseeker payment', 2: 'Stacey MAFS', 3: 'Houseparty hacked', 4: 'Survivor Australia', 5: 'Modern Warfare 2 Remastered', 6: 'Treasury', 7: 'John Van Lieshout', 8: 'Sole trader', 9: 'iPhone 12', 10: 'Steve Carell', 11: 'Backstreet Boys', 12: 'Van Gogh', 13: 'Furlough', 14: 'Jack Grealish', 15: 'David Geffen', 16: 'Chris Benoit', 17: 'Hand sanitizers', 18: 'Guardian news'}","{0: '100K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '2K+'}",4557,10.182137371077463
+2020-03-30,30,3,2020,284,2,Australia,AU,AUS,24992369.0,60,,"{0: 'ATO', 1: 'Job keeper', 2: 'Stage 3 restrictions Victoria', 3: 'David Genat', 4: 'Drake', 5: 'John Prine', 6: 'Joe Diffie', 7: 'Bannerlord', 8: 'Lara Worthington', 9: 'Woolworths Basic box', 10: 'Flu vaccination', 11: 'Norman Swan', 12: 'Steve MAFS', 13: 'Good Friday 2020', 14: 'Alan Merrill', 15: 'Belarus', 16: 'Brandon Park Coles', 17: 'Zoom meetings', 18: 'Ken Shimura', 19: 'German finance minister'}","{0: '200K+', 1: '100K+', 2: '50K+', 3: '50K+', 4: '50K+', 5: '20K+', 6: '20K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}",4093,6.938675787930613
+2020-03-29,29,3,2020,431,1,Australia,AU,AUS,24992369.0,78,,"{0: 'WhatsApp', 1: 'Ben Cousins', 2: 'Coronavirus tips', 3: 'Moratorium', 4: 'Coronavirus Australia app', 5: 'Dancing With The Stars 2020', 6: 'Survivor Australia', 7: 'Coronavirus app download', 8: 'Ben Cousins documentary 2020', 9: 'Jigsaw puzzle', 10: 'Telehealth', 11: 'Weather radar', 12: 'Stacey MAFS', 13: 'Connie MAFS', 14: 'Fish', 15: 'Cow', 16: 'Shia LaBeouf', 17: 'Bird', 18: 'Whale', 19: 'Spider'}","{0: '100K+', 1: '100K+', 2: '100K+', 3: '100K+', 4: '50K+', 5: '50K+', 6: '20K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}",3809,11.315305854555001
+2020-03-28,28,3,2020,212,0,Australia,AU,AUS,24992369.0,75,,"{0: 'Tiger', 1: 'Lion', 2: 'Myer', 3: 'Shark', 4: 'Dog', 5: 'Cat', 6: 'Bear', 7: 'Queen Elizabeth', 8: 'Elephant', 9: 'Earth Hour', 10: 'Horse', 11: '3D animals', 12: 'Queensland election 2020', 13: 'Wolf', 14: 'Duck', 15: 'Giraffe', 16: 'Local government election 2020', 17: 'Monkey', 18: 'QLD election results', 19: 'Election results'}","{0: '100K+', 1: '100K+', 2: '100K+', 3: '50K+', 4: '50K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '20K+', 9: '20K+', 10: '20K+', 11: '20K+', 12: '20K+', 13: '20K+', 14: '20K+', 15: '20K+', 16: '20K+', 17: '20K+', 18: '20K+', 19: '20K+'}",3378,6.275902901124926
+2020-03-27,27,3,2020,367,2,Australia,AU,AUS,24992369.0,72,,"{0: 'Boris Johnson', 1: 'COVID-19 Australia updates', 2: 'Woolworths jobs', 3: 'Mark Blum', 4: 'Ozark', 5: 'Jon Jones', 6: 'Paige Spiranac', 7: 'Footloose', 8: 'Once Upon a Time in Hollywood', 9: 'Scott Morrison press release', 10: 'Madonna', 11: 'Kathmandu', 12: 'Carole Baskin', 13: 'G20', 14: 'Until Tomorrow trend', 15: 'Voting Brisbane 2020', 16: 'Latest Australian news', 17: 'Pearl Jam: Gigaton', 18: 'COVID-19 Victoria Australia', 19: 'Matthew Broderick'}","{0: '200K+', 1: '50K+', 2: '50K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '20K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '10K+', 14: '10K+', 15: '10K+', 16: '10K+', 17: '5K+', 18: '5K+', 19: '5K+'}",3166,11.591914087176248
+2020-03-26,26,3,2020,376,3,Australia,AU,AUS,24992369.0,70,,"{0: 'Powerball tonight', 1: 'Powerball winner', 2: 'Qld school closures', 3: 'New Zealand news', 4: 'Stonnington', 5: 'Stage 3 lockdown Victoria', 6: 'Bugzy Malone', 7: 'Floyd Cardoz', 8: 'Qld schools', 9: 'Fight club', 10: 'Prince Harry', 11: 'Mark Zahra', 12: 'Smiggle', 13: 'Until tomorrow', 14: 'Hairdressers', 15: 'Hairdresser', 16: 'The post', 17: 'Stimulus payment', 18: 'SIA', 19: 'Iceland'}","{0: '20K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}",2799,13.433369060378707
+2020-03-25,25,3,2020,600,1,Australia,AU,AUS,24992369.0,79,,,,2423,24.762690879075524
+2020-03-24,24,3,2020,114,0,Australia,AU,AUS,24992369.0,81,,,,1823,6.253428414701042
+2020-03-23,23,3,2020,611,0,Australia,AU,AUS,24992369.0,83,,,,1709,35.75190169689877
+2020-03-22,22,3,2020,224,0,Australia,AU,AUS,24992369.0,100,"{0: 'nsw lockdown coronavirus', 1: 'access super coronavirus', 2: 'coronavirus supplements', 3: 'what are the symptoms of coronavirus', 4: 'coronavirus cases worldwide'}",,,1098,20.40072859744991
+2020-03-21,21,3,2020,165,1,Australia,AU,AUS,24992369.0,74,,,,874,18.87871853546911
+2020-03-20,20,3,2020,144,0,Australia,AU,AUS,24992369.0,66,,,,709,20.310296191819464
+2020-03-19,19,3,2020,111,1,Australia,AU,AUS,24992369.0,65,,,,565,19.646017699115045
+2020-03-18,18,3,2020,79,0,Australia,AU,AUS,24992369.0,71,,,,454,17.400881057268723
+2020-03-17,17,3,2020,77,0,Australia,AU,AUS,24992369.0,80,,,,375,20.533333333333335
+2020-03-16,16,3,2020,49,2,Australia,AU,AUS,24992369.0,81,,,,298,16.44295302013423
+2020-03-15,15,3,2020,52,0,Australia,AU,AUS,24992369.0,79,,,,249,20.883534136546185
+2020-03-14,14,3,2020,41,0,Australia,AU,AUS,24992369.0,68,,,,197,20.81218274111675
+2020-03-13,13,3,2020,30,0,Australia,AU,AUS,24992369.0,73,,,,156,19.23076923076923
+2020-03-12,12,3,2020,14,0,Australia,AU,AUS,24992369.0,63,,,,126,11.11111111111111
+2020-03-11,11,3,2020,12,0,Australia,AU,AUS,24992369.0,38,,,,112,10.714285714285714
+2020-03-10,10,3,2020,20,0,Australia,AU,AUS,24992369.0,36,,,,100,20.0
+2020-03-09,9,3,2020,6,0,Australia,AU,AUS,24992369.0,30,,,,80,7.5
+2020-03-08,8,3,2020,11,1,Australia,AU,AUS,24992369.0,28,,,,74,14.864864864864865
+2020-03-07,7,3,2020,4,0,Australia,AU,AUS,24992369.0,25,,,,63,6.349206349206349
+2020-03-06,6,3,2020,7,0,Australia,AU,AUS,24992369.0,25,,,,59,11.864406779661017
+2020-03-05,5,3,2020,11,1,Australia,AU,AUS,24992369.0,28,,,,52,21.153846153846153
+2020-03-04,4,3,2020,8,0,Australia,AU,AUS,24992369.0,29,,,,41,19.51219512195122
+2020-03-03,3,3,2020,4,0,Australia,AU,AUS,24992369.0,26,,,,33,12.121212121212121
+2020-03-02,2,3,2020,3,0,Australia,AU,AUS,24992369.0,23,,,,29,10.344827586206897
+2020-03-01,1,3,2020,1,1,Australia,AU,AUS,24992369.0,19,,,,26,3.8461538461538463
+2020-02-29,29,2,2020,2,0,Australia,AU,AUS,24992369.0,17,,,,25,8.0
+2020-02-28,28,2,2020,0,0,Australia,AU,AUS,24992369.0,17,,,,23,0.0
+2020-02-27,27,2,2020,1,0,Australia,AU,AUS,24992369.0,16,,,,23,4.3478260869565215
+2020-02-26,26,2,2020,0,0,Australia,AU,AUS,24992369.0,15,,,,22,0.0
+2020-02-25,25,2,2020,0,0,Australia,AU,AUS,24992369.0,12,,,,22,0.0
+2020-02-24,24,2,2020,0,0,Australia,AU,AUS,24992369.0,11,,,,22,0.0
+2020-02-23,23,2,2020,1,0,Australia,AU,AUS,24992369.0,8,,,,22,4.545454545454546
+2020-02-22,22,2,2020,4,0,Australia,AU,AUS,24992369.0,6,,,,21,19.047619047619047
+2020-02-21,21,2,2020,2,0,Australia,AU,AUS,24992369.0,6,,,,17,11.764705882352942
+2020-02-20,20,2,2020,0,0,Australia,AU,AUS,24992369.0,5,,,,15,0.0
+2020-02-19,19,2,2020,0,0,Australia,AU,AUS,24992369.0,5,,,,15,0.0
+2020-02-18,18,2,2020,0,0,Australia,AU,AUS,24992369.0,6,,,,15,0.0
+2020-02-17,17,2,2020,0,0,Australia,AU,AUS,24992369.0,6,,,,15,0.0
+2020-02-16,16,2,2020,0,0,Australia,AU,AUS,24992369.0,7,,,,15,0.0
+2020-02-15,15,2,2020,0,0,Australia,AU,AUS,24992369.0,7,,,,15,0.0
+2020-02-14,14,2,2020,1,0,Australia,AU,AUS,24992369.0,8,,,,15,6.666666666666667
+2020-02-13,13,2,2020,0,0,Australia,AU,AUS,24992369.0,10,,,,14,0.0
+2020-02-12,12,2,2020,0,0,Australia,AU,AUS,24992369.0,8,,,,14,0.0
+2020-02-11,11,2,2020,0,0,Australia,AU,AUS,24992369.0,9,,,,14,0.0
+2020-02-10,10,2,2020,0,0,Australia,AU,AUS,24992369.0,10,,,,14,0.0
+2020-02-09,9,2,2020,0,0,Australia,AU,AUS,24992369.0,9,,,,14,0.0
+2020-02-08,8,2,2020,0,0,Australia,AU,AUS,24992369.0,11,,,,14,0.0
+2020-02-07,7,2,2020,1,0,Australia,AU,AUS,24992369.0,12,,,,14,7.142857142857143
+2020-02-06,6,2,2020,1,0,Australia,AU,AUS,24992369.0,11,,,,13,7.6923076923076925
+2020-02-05,5,2,2020,1,0,Australia,AU,AUS,24992369.0,11,,,,12,8.333333333333334
+2020-02-04,4,2,2020,0,0,Australia,AU,AUS,24992369.0,11,,,,11,0.0
+2020-02-03,3,2,2020,0,0,Australia,AU,AUS,24992369.0,12,,,,11,0.0
+2020-02-02,2,2,2020,2,0,Australia,AU,AUS,24992369.0,14,,,,11,18.181818181818183
+2020-02-01,1,2,2020,2,0,Australia,AU,AUS,24992369.0,16,,,,9,22.22222222222222
+2020-01-31,31,1,2020,1,0,Australia,AU,AUS,24992369.0,19,,,,7,14.285714285714286
+2020-01-30,30,1,2020,2,0,Australia,AU,AUS,24992369.0,20,,,,6,33.333333333333336
+2020-01-29,29,1,2020,0,0,Australia,AU,AUS,24992369.0,20,,,,4,0.0
+2020-01-28,28,1,2020,0,0,Australia,AU,AUS,24992369.0,21,,,,4,0.0
+2020-01-27,27,1,2020,0,0,Australia,AU,AUS,24992369.0,19,,,,4,0.0
+2020-01-26,26,1,2020,3,0,Australia,AU,AUS,24992369.0,17,,,,4,75.0
+2020-01-25,25,1,2020,1,0,Australia,AU,AUS,24992369.0,20,,,,1,100.0
+2020-01-24,24,1,2020,0,0,Australia,AU,AUS,24992369.0,6,,,,0,0.0
+2020-01-23,23,1,2020,0,0,Australia,AU,AUS,24992369.0,4,,,,0,0.0
+2020-01-22,22,1,2020,0,0,Australia,AU,AUS,24992369.0,3,,,,0,0.0
+2020-01-21,21,1,2020,0,0,Australia,AU,AUS,24992369.0,4,,,,0,0.0
+2020-01-20,20,1,2020,0,0,Australia,AU,AUS,24992369.0,1,,,,0,0.0
+2020-01-19,19,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-18,18,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-17,17,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-16,16,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-15,15,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-14,14,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-13,13,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-12,12,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-11,11,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-10,10,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-09,9,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-08,8,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-07,7,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-06,6,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-05,5,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-04,4,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-03,3,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-02,2,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-01-01,1,1,2020,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2019-12-31,31,12,2019,0,0,Australia,AU,AUS,24992369.0,0,,,,0,0.0
+2020-04-18,18,4,2020,1791,116,Canada,CA,CAN,37058856.0,42,,,,31872,5.619352409638554
+2020-04-17,17,4,2020,1717,183,Canada,CA,CAN,37058856.0,39,,,,30081,5.707921944084306
+2020-04-16,16,4,2020,1318,107,Canada,CA,CAN,37058856.0,39,,,,28364,4.646735298265407
+2020-04-15,15,4,2020,1383,123,Canada,CA,CAN,37058856.0,42,,,,27046,5.1135103157583375
+2020-04-14,14,4,2020,1298,63,Canada,CA,CAN,37058856.0,44,,,,25663,5.057865409344192
+2020-04-13,13,4,2020,1064,64,Canada,CA,CAN,37058856.0,42,,,,24365,4.366919761953622
+2020-04-12,12,4,2020,1168,84,Canada,CA,CAN,37058856.0,31,,,,23301,5.012660400841166
+2020-04-11,11,4,2020,1385,60,Canada,CA,CAN,37058856.0,35,,,,22133,6.257624361812678
+2020-04-10,10,4,2020,1474,74,Canada,CA,CAN,37058856.0,48,,,,20748,7.104299209562368
+2020-04-09,9,4,2020,1391,55,Canada,CA,CAN,37058856.0,46,,,,19274,7.216976237418284
+2020-04-08,8,4,2020,1230,57,Canada,CA,CAN,37058856.0,50,,,,17883,6.878040597215232
+2020-04-07,7,4,2020,1157,43,Canada,CA,CAN,37058856.0,55,,,,16653,6.947697111631538
+2020-04-06,6,4,2020,1614,49,Canada,CA,CAN,37058856.0,47,,,,15496,10.415591120289108
+2020-04-05,5,4,2020,1363,44,Canada,CA,CAN,37058856.0,58,,,,13882,9.818469961100705
+2020-04-04,4,4,2020,1251,49,Canada,CA,CAN,37058856.0,59,,,,12519,9.992810927390366
+2020-04-03,3,4,2020,1673,29,Canada,CA,CAN,37058856.0,47,,,,11268,14.847355342563011
+2020-04-02,2,4,2020,1059,13,Canada,CA,CAN,37058856.0,43,,,,9595,11.036998436685774
+2020-04-01,1,4,2020,1112,7,Canada,CA,CAN,37058856.0,45,,,,8536,13.02717900656045
+2020-03-31,31,3,2020,1169,28,Canada,CA,CAN,37058856.0,45,,,,7424,15.746228448275861
+2020-03-30,30,3,2020,869,1,Canada,CA,CAN,37058856.0,47,,,,6255,13.892885691446843
+2020-03-29,29,3,2020,711,7,Canada,CA,CAN,37058856.0,55,,,,5386,13.200891199405866
+2020-03-28,28,3,2020,657,14,Canada,CA,CAN,37058856.0,56,,,,4675,14.053475935828876
+2020-03-27,27,3,2020,633,4,Canada,CA,CAN,37058856.0,57,,,,4018,15.754106520657043
+2020-03-26,26,3,2020,1426,8,Canada,CA,CAN,37058856.0,57,,,,3385,42.12703101920236
+2020-03-25,25,3,2020,313,3,Canada,CA,CAN,37058856.0,60,,,,1959,15.97753956100051
+2020-03-24,24,3,2020,216,4,Canada,CA,CAN,37058856.0,59,,,,1646,13.122721749696233
+2020-03-23,23,3,2020,128,2,Canada,CA,CAN,37058856.0,65,,,,1430,8.951048951048952
+2020-03-22,22,3,2020,331,6,Canada,CA,CAN,37058856.0,71,,,,1302,25.422427035330262
+2020-03-21,21,3,2020,125,2,Canada,CA,CAN,37058856.0,69,,,,971,12.873326467559217
+2020-03-20,20,3,2020,156,1,Canada,CA,CAN,37058856.0,68,,,,846,18.43971631205674
+2020-03-19,19,3,2020,121,1,Canada,CA,CAN,37058856.0,74,,,,690,17.536231884057973
+2020-03-18,18,3,2020,145,4,Canada,CA,CAN,37058856.0,79,,,,569,25.483304042179263
+2020-03-17,17,3,2020,120,3,Canada,CA,CAN,37058856.0,80,,,,424,28.30188679245283
+2020-03-16,16,3,2020,60,0,Canada,CA,CAN,37058856.0,86,,,,304,19.736842105263158
+2020-03-15,15,3,2020,68,0,Canada,CA,CAN,37058856.0,81,,,,244,27.868852459016395
+2020-03-14,14,3,2020,38,0,Canada,CA,CAN,37058856.0,78,,,,176,21.59090909090909
+2020-03-13,13,3,2020,35,0,Canada,CA,CAN,37058856.0,99,"{0: 'lcbo closing coronavirus', 1: 'trudeau wife name', 2: 'coronavirus vaccine update', 3: 'uottawa coronavirus', 4: 'coronavirus newfoundland'}",,,138,25.36231884057971
+2020-03-12,12,3,2020,10,0,Canada,CA,CAN,37058856.0,100,"{0: 'tom hanks coronavirus', 1: 'sophie trudeau coronavirus', 2: 'nba player with coronavirus', 3: 'nba players coronavirus', 4: 'can dogs get coronavirus'}",,,103,9.70873786407767
+2020-03-11,11,3,2020,16,0,Canada,CA,CAN,37058856.0,48,,,,93,17.204301075268816
+2020-03-10,10,3,2020,15,1,Canada,CA,CAN,37058856.0,35,,,,77,19.48051948051948
+2020-03-09,9,3,2020,5,0,Canada,CA,CAN,37058856.0,31,,,,62,8.064516129032258
+2020-03-08,8,3,2020,6,0,Canada,CA,CAN,37058856.0,26,,,,57,10.526315789473685
+2020-03-07,7,3,2020,6,0,Canada,CA,CAN,37058856.0,26,,,,51,11.764705882352942
+2020-03-06,6,3,2020,12,0,Canada,CA,CAN,37058856.0,27,,,,45,26.666666666666668
+2020-03-05,5,3,2020,3,0,Canada,CA,CAN,37058856.0,23,,,,33,9.090909090909092
+2020-03-04,4,3,2020,3,0,Canada,CA,CAN,37058856.0,19,,,,30,10.0
+2020-03-03,3,3,2020,3,0,Canada,CA,CAN,37058856.0,19,,,,27,11.11111111111111
+2020-03-02,2,3,2020,4,0,Canada,CA,CAN,37058856.0,20,,,,24,16.666666666666668
+2020-03-01,1,3,2020,4,0,Canada,CA,CAN,37058856.0,17,,,,20,20.0
+2020-02-29,29,2,2020,2,0,Canada,CA,CAN,37058856.0,18,,,,16,12.5
+2020-02-28,28,2,2020,2,0,Canada,CA,CAN,37058856.0,18,,,,14,14.285714285714286
+2020-02-27,27,2,2020,1,0,Canada,CA,CAN,37058856.0,16,,,,12,8.333333333333334
+2020-02-26,26,2,2020,0,0,Canada,CA,CAN,37058856.0,15,,,,11,0.0
+2020-02-25,25,2,2020,2,0,Canada,CA,CAN,37058856.0,13,,,,11,18.181818181818183
+2020-02-24,24,2,2020,0,0,Canada,CA,CAN,37058856.0,11,,,,9,0.0
+2020-02-23,23,2,2020,0,0,Canada,CA,CAN,37058856.0,7,,,,9,0.0
+2020-02-22,22,2,2020,0,0,Canada,CA,CAN,37058856.0,6,,,,9,0.0
+2020-02-21,21,2,2020,1,0,Canada,CA,CAN,37058856.0,5,,,,9,11.11111111111111
+2020-02-20,20,2,2020,0,0,Canada,CA,CAN,37058856.0,5,,,,8,0.0
+2020-02-19,19,2,2020,0,0,Canada,CA,CAN,37058856.0,5,,,,8,0.0
+2020-02-18,18,2,2020,0,0,Canada,CA,CAN,37058856.0,5,,,,8,0.0
+2020-02-17,17,2,2020,0,0,Canada,CA,CAN,37058856.0,5,,,,8,0.0
+2020-02-16,16,2,2020,0,0,Canada,CA,CAN,37058856.0,6,,,,8,0.0
+2020-02-15,15,2,2020,1,0,Canada,CA,CAN,37058856.0,6,,,,8,12.5
+2020-02-14,14,2,2020,0,0,Canada,CA,CAN,37058856.0,6,,,,7,0.0
+2020-02-13,13,2,2020,0,0,Canada,CA,CAN,37058856.0,8,,,,7,0.0
+2020-02-12,12,2,2020,0,0,Canada,CA,CAN,37058856.0,7,,,,7,0.0
+2020-02-11,11,2,2020,0,0,Canada,CA,CAN,37058856.0,8,,,,7,0.0
+2020-02-10,10,2,2020,0,0,Canada,CA,CAN,37058856.0,9,,,,7,0.0
+2020-02-09,9,2,2020,0,0,Canada,CA,CAN,37058856.0,9,,,,7,0.0
+2020-02-08,8,2,2020,0,0,Canada,CA,CAN,37058856.0,10,,,,7,0.0
+2020-02-07,7,2,2020,2,0,Canada,CA,CAN,37058856.0,11,,,,7,28.571428571428573
+2020-02-06,6,2,2020,0,0,Canada,CA,CAN,37058856.0,10,,,,5,0.0
+2020-02-05,5,2,2020,1,0,Canada,CA,CAN,37058856.0,10,,,,5,20.0
+2020-02-04,4,2,2020,0,0,Canada,CA,CAN,37058856.0,10,,,,4,0.0
+2020-02-03,3,2,2020,0,0,Canada,CA,CAN,37058856.0,10,,,,4,0.0
+2020-02-02,2,2,2020,0,0,Canada,CA,CAN,37058856.0,11,,,,4,0.0
+2020-02-01,1,2,2020,1,0,Canada,CA,CAN,37058856.0,13,,,,4,25.0
+2020-01-31,31,1,2020,0,0,Canada,CA,CAN,37058856.0,19,,,,3,0.0
+2020-01-30,30,1,2020,0,0,Canada,CA,CAN,37058856.0,22,,,,3,0.0
+2020-01-29,29,1,2020,1,0,Canada,CA,CAN,37058856.0,22,,,,3,33.333333333333336
+2020-01-28,28,1,2020,1,0,Canada,CA,CAN,37058856.0,25,,,,2,50.0
+2020-01-27,27,1,2020,0,0,Canada,CA,CAN,37058856.0,21,,,,1,0.0
+2020-01-26,26,1,2020,1,0,Canada,CA,CAN,37058856.0,22,,,,1,100.0
+2020-01-25,25,1,2020,0,0,Canada,CA,CAN,37058856.0,15,,,,0,0.0
+2020-01-24,24,1,2020,0,0,Canada,CA,CAN,37058856.0,10,,,,0,0.0
+2020-01-23,23,1,2020,0,0,Canada,CA,CAN,37058856.0,7,,,,0,0.0
+2020-01-22,22,1,2020,0,0,Canada,CA,CAN,37058856.0,5,,,,0,0.0
+2020-01-21,21,1,2020,0,0,Canada,CA,CAN,37058856.0,3,,,,0,0.0
+2020-01-20,20,1,2020,0,0,Canada,CA,CAN,37058856.0,1,,,,0,0.0
+2020-01-19,19,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-18,18,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-17,17,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-16,16,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-15,15,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-14,14,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-13,13,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-12,12,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-11,11,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-10,10,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-09,9,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-08,8,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-07,7,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-06,6,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-05,5,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-04,4,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-03,3,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-02,2,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-01-01,1,1,2020,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2019-12-31,31,12,2019,0,0,Canada,CA,CAN,37058856.0,0,,,,0,0.0
+2020-04-18,18,4,2020,709,44,Ireland,IE,IRL,4853506.0,42,,"{0: 'Thank you coronavirus helpers', 1: 'Global Citizen Together At Home', 2: ""Paul O'Connell"", 3: 'Joel Dommett', 4: 'Too Hot to Handle cast', 5: 'iPhone SE 2020', 6: 'Marks and spencer online', 7: 'Sergio', 8: 'Dwayne Johnson', 9: 'Normal People', 10: 'EuroMillions', 11: 'Niall Horan', 12: 'Andrew Cuomo', 13: 'Laura Ashley', 14: 'Frank Sinatra', 15: 'Detroit', 16: 'Nicole Scherzinger', 17: 'Eamonn Holmes', 18: 'Dr. Phil', 19: 'Alicia Silverstone'}","{0: '200K+', 1: '20K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '2K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '1K+', 19: '1K+'}",13980,5.071530758226038
+2020-04-17,17,4,2020,724,42,Ireland,IE,IRL,4853506.0,38,,"{0: 'Tony Holohan', 1: 'One World: Together At Home', 2: 'Too Hot to Handle Netflix', 3: 'Ricky Gervais', 4: 'Norman Hunter', 5: 'Remdesivir', 6: ""Danny O'Reilly"", 7: 'China coronavirus', 8: 'Phantom of the Opera', 9: 'Gerry Cinnamon: The Bonny', 10: 'Gangs of London', 11: 'Late Late Show guests', 12: 'Wuhan', 13: 'Fiona Apple', 14: 'Sleepers', 15: 'Timothée Chalamet', 16: '98fm', 17: 'Riverdale'}","{0: '10K+', 1: '10K+', 2: '10K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '1K+'}",13271,5.455504483460176
+2020-04-16,16,4,2020,1068,38,Ireland,IE,IRL,4853506.0,45,,"{0: 'Keelings', 1: 'HSE Covid map', 2: 'Brian Dennehy', 3: 'VHI', 4: 'Darragh Ennis The Chase', 5: 'Captain Tom Moore', 6: 'Howard Finkel', 7: 'Irish Life Health', 8: 'Ballybough', 9: 'National Horny Day', 10: 'Banksy', 11: 'Al Capone', 12: 'WWE releases', 13: 'Michigan'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+', 9: '1K+', 10: '1K+', 11: '1K+', 12: '1K+', 13: '1K+'}",12547,8.511994899179086
+2020-04-15,15,4,2020,832,41,Ireland,IE,IRL,4853506.0,41,,"{0: 'iPhone SE', 1: 'WWE', 2: 'Matt Damon', 3: 'Operation Transformation', 4: 'John Waters', 5: 'Michael Buble', 6: 'Hugh Grosvenor', 7: 'Warehouse', 8: 'Clare FM', 9: 'Hillsborough', 10: 'Wage subsidy scheme', 11: 'Devs', 12: 'Jacinda Ardern', 13: 'Amy Schumer', 14: 'Trump who', 15: 'The Great Depression', 16: 'Major Charles Ingram'}","{0: '20K+', 1: '5K+', 2: '5K+', 3: '5K+', 4: '5K+', 5: '2K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '1K+', 13: '1K+', 14: '1K+', 15: '1K+', 16: '1K+'}",11479,7.2480181200453
+2020-04-14,14,4,2020,992,31,Ireland,IE,IRL,4853506.0,43,,"{0: 'Next', 1: 'NEXT Ireland online', 2: 'Oasis', 3: 'Mary Lou McDonald', 4: 'OnePlus', 5: 'EA servers', 6: 'Dune', 7: 'Graeme Souness', 8: 'Joe Biden', 9: 'Amanda Staveley', 10: 'Home of the Year 2020', 11: 'Prue Leith', 12: 'Next online', 13: 'Eamonn Holmes', 14: 'Gita Gopinath', 15: 'Rick May', 16: 'Andrew Cuomo', 17: 'Tamara Ecclestone', 18: 'Laura Whitmore', 19: 'Origin'}","{0: '10K+', 1: '10K+', 2: '10K+', 3: '10K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '1K+', 17: '1K+', 18: '1K+', 19: '1K+'}",10647,9.317178547947778
+2020-04-13,13,4,2020,727,14,Ireland,IE,IRL,4853506.0,45,,"{0: 'Coronavirus', 1: 'Michael Collins', 2: 'Dolly Parton', 3: 'Charles Ingram', 4: 'China coronavirus', 5: 'Simon Harris', 6: 'Chernobyl', 7: 'ASTI', 8: 'Julia Roberts', 9: 'Bono', 10: 'Tony Maudsley', 11: 'Rochelle Humes'}","{0: '200K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '5K+', 5: '2K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '1K+', 10: '1K+', 11: '1K+'}",9655,7.529777317452098
+2020-04-12,12,4,2020,839,33,Ireland,IE,IRL,4853506.0,33,,"{0: 'Andrea Bocelli', 1: 'Easter', 2: 'Happy Easter', 3: 'Matt Damon', 4: 'Tim Brooke-Taylor', 5: 'Stephen Hawking', 6: 'Passengers', 7: 'Lorraine Barry', 8: 'Stirling Moss', 9: 'Joel McHale', 10: 'Jeff Lowe nanny', 11: 'Easter parade', 12: 'Happy Easter images', 13: 'Peter Bonetti', 14: 'Easter Rising', 15: 'Killing Eve', 16: 'Happy Easter in Irish', 17: 'Neymar mother', 18: 'Chris Pratt', 19: 'Nicolas Roche'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}",8928,9.397401433691757
+2020-04-11,11,4,2020,696,24,Ireland,IE,IRL,4853506.0,37,,"{0: 'Stephen Hawking', 1: 'Maya Jama', 2: 'Easter Bunny', 3: ""Sinead O'Connor"", 4: 'Aldi Easter opening hours', 5: 'Amanda Holden', 6: 'Krakatoa', 7: 'Priti Patel', 8: 'Code 8', 9: 'New York coronavirus', 10: 'Asymptomatic', 11: 'Shania Twain', 12: 'Jesus Christ Superstar'}","{0: '10K+', 1: '10K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '1K+', 12: '1K+'}",8089,8.604277413771788
+2020-04-10,10,4,2020,1169,28,Ireland,IE,IRL,4853506.0,50,,"{0: 'Shine a light Ireland', 1: 'Leo Varadkar', 2: 'Junior Cert 2020', 3: 'Brendan Gleeson', 4: 'Kenny Dalglish', 5: 'Glen Hansard', 6: 'Love Wedding Repeat', 7: 'Fergus Gleeson', 8: 'Georgia Groome', 9: 'Rte news now', 10: 'Andrea Bocelli', 11: 'Domhnall Gleeson', 12: 'UFC 249', 13: 'Amy Huberman', 14: 'COVID-19 news', 15: 'Hart Island', 16: 'Happy Easter Images', 17: 'Good Friday 2020', 18: 'Is Good Friday a bank holiday', 19: 'Demi Moore'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '2K+', 19: '2K+'}",7393,15.81225483565535
+2020-04-09,9,4,2020,515,25,Ireland,IE,IRL,4853506.0,48,,"{0: 'Debenhams', 1: 'Leaving Cert 2020', 2: 'Nike', 3: 'Good Friday', 4: 'Norah Gibbons', 5: 'Florence Pugh', 6: 'Happy Easter', 7: 'Lidl opening times', 8: 'Cavan General Hospital', 9: 'Google Stadia', 10: 'Chynna', 11: 'Linda Tripp', 12: 'Stephen Kenny', 13: 'Is there post on Good Friday', 14: 'The Great Depression', 15: 'Modern Family', 16: 'Jesy Nelson', 17: 'Rebecca Winckworth', 18: 'Dynamo', 19: 'AnnaSophia Robb'}","{0: '100K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '1K+', 18: '1K+', 19: '1K+'}",6224,8.274421593830334
+2020-04-08,8,4,2020,345,36,Ireland,IE,IRL,4853506.0,47,,"{0: 'John Prine', 1: 'Bernie Sanders', 2: 'The ACT', 3: 'Is snapchatdown', 4: 'Rachel Conway Sligo', 5: 'Alexandra Tolstoy', 6: 'Make me a drink', 7: 'Jack Dorsey', 8: 'Hatfield House', 9: 'Jimmy Greaves', 10: 'Fanacht', 11: 'Wuhan', 12: 'Garda', 13: 'Amber Heard', 14: 'Tofu', 15: 'Ronaldinho', 16: 'Spy Wednesday', 17: 'Hal Willner', 18: 'The Hatfield House'}","{0: '50K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '5K+', 5: '5K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '1K+', 16: '1K+', 17: '1K+', 18: '1K+'}",5709,6.04308985811876
+2020-04-07,7,4,2020,253,16,Ireland,IE,IRL,4853506.0,49,,"{0: 'Coronavirus', 1: ""Woodie's"", 2: 'Pink Moon 2020', 3: 'Ticketmaster', 4: 'PS5 controller', 5: 'The Script', 6: 'Carol Vorderman', 7: 'Transparent', 8: 'Valorant', 9: 'Kelly Brook', 10: 'David Icke', 11: 'Cardinal Pell', 12: 'James Drury', 13: ""Old Moore's Almanac"", 14: 'Easter Bunny', 15: 'Radomir Antic', 16: 'Michael Gove', 17: 'Quibi', 18: 'Maeve Kennedy', 19: 'Boris Johnson update'}","{0: '200K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '1K+', 16: '1K+', 17: '1K+', 18: '1K+', 19: '1K+'}",5364,4.716629381058911
+2020-04-06,6,4,2020,507,21,Ireland,IE,IRL,4853506.0,40,,"{0: 'Honor Blackman', 1: 'Pink Moon', 2: 'Jay Benedict', 3: 'Pep Guardiola', 4: 'Black The Ripper', 5: 'Duffy', 6: 'Adele', 7: 'Ezra Miller', 8: 'BCG', 9: 'Mary McPartlan', 10: 'Good Friday 2020', 11: 'UFC 249', 12: 'An Post Newspaper Delivery', 13: 'The Nest', 14: 'Maia Dunphy', 15: 'Tiger coronavirus', 16: 'Trolls 2'}","{0: '20K+', 1: '20K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '1K+', 16: '1K+'}",5111,9.919780864801409
+2020-04-05,5,4,2020,331,17,Ireland,IE,IRL,4853506.0,57,,"{0: 'Boris Johnson', 1: 'Leo Varadkar', 2: 'Queens speech', 3: 'Kyle Walker', 4: 'Carrie Symonds', 5: 'Contagion', 6: 'Palm Sunday', 7: 'Catherine Calderwood', 8: 'In the style', 9: 'Marianne Faithfull', 10: 'Lord Bath', 11: 'Hydroxychloroquine', 12: 'Kurt Cobain', 13: '2013 All-Ireland football final', 14: 'Prince Philip', 15: 'Reese Witherspoon', 16: 'Bee Gees', 17: 'The gift', 18: 'Charles Lieber', 19: 'Heath Ledger'}","{0: '200K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}",4604,7.1894005212858385
+2020-04-04,4,4,2020,424,22,Ireland,IE,IRL,4853506.0,55,,"{0: 'Coronavirus tips', 1: 'Robbie Lawlor', 2: 'WrestleMania 36', 3: 'Mick McCarthy', 4: 'Keir Starmer', 5: 'Paddy Power', 6: ""Fiona O'Carroll"", 7: 'Furlough', 8: 'Matt Lucas', 9: 'Jacqueline Wilson', 10: 'Kathleen Kennedy Townsend', 11: 'Transparent', 12: 'Ivermectin', 13: 'Coffee and Kareem', 14: 'Pink', 15: 'The Script', 16: 'Orlando Bloom', 17: 'Vitamin D supplements', 18: 'ITV', 19: 'Four Kids And It'}","{0: '200K+', 1: '50K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '5K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '1K+', 18: '1K+', 19: '1K+'}",4273,9.922770886964662
+2020-04-03,3,4,2020,402,13,Ireland,IE,IRL,4853506.0,50,,"{0: 'Coronavirus', 1: 'Bill Withers', 2: 'Virtual Grand National', 3: 'Ronan Keating', 4: 'Gavin James', 5: 'EuroMillions results', 6: 'BCG vaccine', 7: 'Vitamin D', 8: 'Logan Williams', 9: 'Laura Whitmore', 10: 'Money Heist', 11: 'Tim Robinson', 12: 'Valorant', 13: 'Elton John', 14: 'Alan Kelly', 15: 'Cameron Blair', 16: 'Niall Horan', 17: 'Captain Crozier', 18: 'Jason Momoa', 19: 'EuroMillions results'}","{0: '200K+', 1: '50K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}",3849,10.44427123928293
+2020-04-02,2,4,2020,212,14,Ireland,IE,IRL,4853506.0,40,,"{0: 'Adam Schlesinger', 1: 'Eddie Large', 2: 'Bernie Ecclestone', 3: 'Leaving Cert', 4: 'World Autism Day 2020', 5: 'Michael D Higgins', 6: 'Junior Cert', 7: 'Brendan Gleeson', 8: 'Rachael Gorry', 9: 'Harry Potter at Home', 10: 'Carol Vorderman', 11: 'Aldi opening times', 12: 'Dr Mike Ryan', 13: 'UFC 249', 14: 'What is 5G', 15: 'SNA', 16: 'Maja'}","{0: '20K+', 1: '20K+', 2: '5K+', 3: '5K+', 4: '5K+', 5: '2K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '1K+', 14: '1K+', 15: '1K+', 16: '1K+'}",3447,6.15027560197273
+2020-04-01,1,4,2020,325,17,Ireland,IE,IRL,4853506.0,41,,"{0: 'Weather tomorrow', 1: 'Tony Holohan', 2: 'Pangolin', 3: 'Department of Education', 4: 'Josh Maja', 5: 'Sunderland', 6: 'International Space Station', 7: '5G', 8: 'Will Grigg', 9: 'Matt Damon', 10: 'The Act', 11: 'Wimbledon', 12: 'Ronan Mullen', 13: 'Zoom meetings', 14: ""Grey's Anatomy"", 15: 'Matt Baker', 16: 'Covid-19 news', 17: 'Johnson and Johnson', 18: 'Pape Diouf'}","{0: '20K+', 1: '20K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '1K+', 16: '1K+', 17: '1K+', 18: '1K+'}",3235,10.046367851622875
+2020-03-31,31,3,2020,295,8,Ireland,IE,IRL,4853506.0,46,,"{0: ""April Fool's pranks"", 1: 'EuroMillions results', 2: 'Andrew Jack', 3: 'Club Penguin', 4: 'Modern Warfare 2 remastered', 5: 'Fuel allowance', 6: 'Don Conroy', 7: 'Seanad elections', 8: ""Woodie's DIY"", 9: 'James Blunt', 10: 'Chris Cuomo', 11: 'Jim Bartley', 12: 'Joe Sugg', 13: 'David Rocastle', 14: 'Hungary', 15: 'Mike Denver', 16: 'Seoul'}","{0: '20K+', 1: '10K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '1K+', 16: '1K+'}",2910,10.137457044673539
+2020-03-30,30,3,2020,200,10,Ireland,IE,IRL,4853506.0,51,,"{0: 'How to delete Houseparty account', 1: 'John Prine', 2: 'Ryan Tubridy', 3: 'Covid-19 payment', 4: 'Sophie Brussaux', 5: 'Welfare', 6: 'Covid 19 payment form', 7: 'Luas crash', 8: 'Furlough', 9: 'Rte school', 10: 'Dominic Cummings', 11: 'International Space Station', 12: 'Joe Diffie', 13: 'German finance minister', 14: 'Joe Wicks workout', 15: 'Michael Jackson', 16: 'Tom Cruise', 17: 'RTE Home School Hub', 18: 'Bugzy Malone', 19: 'Batwoman'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+', 18: '2K+', 19: '2K+'}",2615,7.648183556405353
+2020-03-29,29,3,2020,294,14,Ireland,IE,IRL,4853506.0,55,,"{0: 'Jack Grealish', 1: 'Anne Doyle', 2: 'Shark', 3: 'What time is it in Ireland', 4: 'Ronan Keating', 5: 'Time', 6: 'Belarus', 7: 'Billy Joe Saunders', 8: 'Turtle', 9: 'Mass Online', 10: 'Eagle', 11: 'Adam Olden', 12: 'GOAT', 13: 'In the style', 14: 'Ozark cast', 15: 'Cards Against Humanity Online', 16: 'The journal ireland', 17: 'Gerard Butler', 18: 'Time ireland', 19: 'Rabbit'}","{0: '10K+', 1: '10K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '2K+', 7: '2K+', 8: '2K+', 9: '2K+', 10: '2K+', 11: '2K+', 12: '2K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '1K+', 18: '1K+', 19: '1K+'}",2415,12.173913043478262
+2020-03-28,28,3,2020,302,3,Ireland,IE,IRL,4853506.0,58,,"{0: 'Clocks change Ireland', 1: 'Tiger', 2: 'Lion', 3: 'Hozier', 4: '2km from home', 5: 'Tiger 3D', 6: 'Conor Connelly', 7: 'Covid-19 payment', 8: 'Dog', 9: 'NCT', 10: 'Elephant', 11: 'Nike', 12: 'Horse', 13: 'Panda', 14: 'Cat', 15: 'Wolf', 16: 'Bear', 17: 'Duck', 18: 'Monkey', 19: 'CIF'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}",2121,14.238566713814238
+2020-03-27,27,3,2020,255,10,Ireland,IE,IRL,4853506.0,63,,"{0: 'Ireland lockdown', 1: 'List of essential services Ireland', 2: 'Boris Johnson', 3: 'Until Tomorrow', 4: 'HSE', 5: 'Ireland news', 6: 'Lockdown', 7: 'Houseparty app', 8: 'Ryan Tubridy', 9: 'Cocooning', 10: '2kmfromhome', 11: 'Emilia Fox', 12: 'Rte News Live', 13: 'Until Tomorrow Instagram caption', 14: 'Irish Cancer Society', 15: 'James McClean', 16: 'Shark', 17: 'Ozark', 18: 'Bingo Loco', 19: 'Giant panda'}","{0: '200K+', 1: '100K+', 2: '50K+', 3: '50K+', 4: '50K+', 5: '50K+', 6: '20K+', 7: '20K+', 8: '20K+', 9: '20K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '10K+', 14: '10K+', 15: '10K+', 16: '10K+', 17: '5K+', 18: '5K+', 19: '5K+'}",1819,14.018691588785046
+2020-03-26,26,3,2020,235,2,Ireland,IE,IRL,4853506.0,61,,"{0: 'Bugzy Malone', 1: 'Mark Blum', 2: 'Pentatonix', 3: 'Jon Jones', 4: 'Median age', 5: 'Feed the Heroes', 6: 'H&M', 7: 'Dalton Gomez', 8: 'Corona challenge', 9: 'Maudlin Street Kilkenny'}","{0: '20K+', 1: '20K+', 2: '10K+', 3: '5K+', 4: '2K+', 5: '2K+', 6: '2K+', 7: '1K+', 8: '1K+', 9: '1K+'}",1564,15.025575447570333
+2020-03-25,25,3,2020,204,1,Ireland,IE,IRL,4853506.0,59,,,,1329,15.349887133182845
+2020-03-24,24,3,2020,219,2,Ireland,IE,IRL,4853506.0,63,,,,1125,19.466666666666665
+2020-03-23,23,3,2020,121,1,Ireland,IE,IRL,4853506.0,59,,,,906,13.35540838852097
+2020-03-22,22,3,2020,102,0,Ireland,IE,IRL,4853506.0,66,,,,785,12.993630573248408
+2020-03-21,21,3,2020,126,0,Ireland,IE,IRL,4853506.0,65,,,,683,18.448023426061493
+2020-03-20,20,3,2020,191,1,Ireland,IE,IRL,4853506.0,58,,,,557,34.29084380610413
+2020-03-19,19,3,2020,74,0,Ireland,IE,IRL,4853506.0,60,,,,366,20.218579234972676
+2020-03-18,18,3,2020,69,0,Ireland,IE,IRL,4853506.0,72,,,,292,23.63013698630137
+2020-03-17,17,3,2020,54,0,Ireland,IE,IRL,4853506.0,74,,,,223,24.2152466367713
+2020-03-16,16,3,2020,40,0,Ireland,IE,IRL,4853506.0,86,,,,169,23.668639053254438
+2020-03-15,15,3,2020,38,1,Ireland,IE,IRL,4853506.0,96,"{0: 'coronavirus tracker', 1: 'coronavirus vaccine'}",,,129,29.45736434108527
+2020-03-14,14,3,2020,21,0,Ireland,IE,IRL,4853506.0,96,"{0: 'coronavirus live update', 1: 'coronavirus by country', 2: 'ireland coronavirus cases', 3: 'coronavirus france', 4: 'coronavirus ireland updates'}",,,91,23.076923076923077
+2020-03-13,13,3,2020,27,0,Ireland,IE,IRL,4853506.0,90,"{0: 'coronavirus memes', 1: 'coronavirus death toll', 2: 'coronavirus tracker', 3: 'coronavirus lanzarote', 4: 'coronavirus live update'}",,,70,38.57142857142857
+2020-03-12,12,3,2020,8,1,Ireland,IE,IRL,4853506.0,100,"{0: 'tom hanks coronavirus', 1: 'leo varadkar coronavirus', 2: 'cheltenham coronavirus', 3: 'coronavirus stats', 4: 'coronavirus northern ireland'}",,,43,18.6046511627907
+2020-03-11,11,3,2020,14,0,Ireland,IE,IRL,4853506.0,80,,,,35,40.0
+2020-03-09,9,3,2020,2,0,Ireland,IE,IRL,4853506.0,59,,,,21,9.523809523809524
+2020-03-08,8,3,2020,1,0,Ireland,IE,IRL,4853506.0,46,,,,19,5.2631578947368425
+2020-03-07,7,3,2020,5,0,Ireland,IE,IRL,4853506.0,41,,,,18,27.77777777777778
+2020-03-06,6,3,2020,7,0,Ireland,IE,IRL,4853506.0,54,,,,13,53.84615384615385
+2020-03-05,5,3,2020,4,0,Ireland,IE,IRL,4853506.0,50,,,,6,66.66666666666667
+2020-03-04,4,3,2020,1,0,Ireland,IE,IRL,4853506.0,38,,,,2,50.0
+2020-03-02,2,3,2020,0,0,Ireland,IE,IRL,4853506.0,35,,,,1,0.0
+2020-03-01,1,3,2020,1,0,Ireland,IE,IRL,4853506.0,40,,,,1,100.0
+2020-02-29,29,2,2020,0,0,Ireland,IE,IRL,4853506.0,30,,,,0,0.0
+2020-02-28,28,2,2020,0,0,Ireland,IE,IRL,4853506.0,36,,,,0,0.0
+2020-02-27,27,2,2020,0,0,Ireland,IE,IRL,4853506.0,43,,,,0,0.0
+2020-02-26,26,2,2020,0,0,Ireland,IE,IRL,4853506.0,30,,,,0,0.0
+2020-02-25,25,2,2020,0,0,Ireland,IE,IRL,4853506.0,30,,,,0,0.0
+2020-02-24,24,2,2020,0,0,Ireland,IE,IRL,4853506.0,13,,,,0,0.0
+2020-02-23,23,2,2020,0,0,Ireland,IE,IRL,4853506.0,9,,,,0,0.0
+2020-02-22,22,2,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,,0,0.0
+2020-02-21,21,2,2020,0,0,Ireland,IE,IRL,4853506.0,3,,,,0,0.0
+2020-02-20,20,2,2020,0,0,Ireland,IE,IRL,4853506.0,3,,,,0,0.0
+2020-02-19,19,2,2020,0,0,Ireland,IE,IRL,4853506.0,3,,,,0,0.0
+2020-02-18,18,2,2020,0,0,Ireland,IE,IRL,4853506.0,4,,,,0,0.0
+2020-02-17,17,2,2020,0,0,Ireland,IE,IRL,4853506.0,3,,,,0,0.0
+2020-02-16,16,2,2020,0,0,Ireland,IE,IRL,4853506.0,3,,,,0,0.0
+2020-02-15,15,2,2020,0,0,Ireland,IE,IRL,4853506.0,4,,,,0,0.0
+2020-02-14,14,2,2020,0,0,Ireland,IE,IRL,4853506.0,4,,,,0,0.0
+2020-02-13,13,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,,0,0.0
+2020-02-12,12,2,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,,0,0.0
+2020-02-11,11,2,2020,0,0,Ireland,IE,IRL,4853506.0,6,,,,0,0.0
+2020-02-10,10,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,,0,0.0
+2020-02-09,9,2,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,,0,0.0
+2020-02-08,8,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,,0,0.0
+2020-02-07,7,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,,0,0.0
+2020-02-06,6,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,,0,0.0
+2020-02-05,5,2,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,,0,0.0
+2020-02-04,4,2,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,,0,0.0
+2020-02-03,3,2,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,,0,0.0
+2020-02-02,2,2,2020,0,0,Ireland,IE,IRL,4853506.0,10,,,,0,0.0
+2020-02-01,1,2,2020,0,0,Ireland,IE,IRL,4853506.0,9,,,,0,0.0
+2020-01-31,31,1,2020,0,0,Ireland,IE,IRL,4853506.0,14,,,,0,0.0
+2020-01-30,30,1,2020,0,0,Ireland,IE,IRL,4853506.0,15,,,,0,0.0
+2020-01-29,29,1,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,,0,0.0
+2020-01-28,28,1,2020,0,0,Ireland,IE,IRL,4853506.0,8,,,,0,0.0
+2020-01-27,27,1,2020,0,0,Ireland,IE,IRL,4853506.0,7,,,,0,0.0
+2020-01-26,26,1,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,,0,0.0
+2020-01-25,25,1,2020,0,0,Ireland,IE,IRL,4853506.0,6,,,,0,0.0
+2020-01-24,24,1,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,,0,0.0
+2020-01-23,23,1,2020,0,0,Ireland,IE,IRL,4853506.0,5,,,,0,0.0
+2020-01-22,22,1,2020,0,0,Ireland,IE,IRL,4853506.0,2,,,,0,0.0
+2020-01-21,21,1,2020,0,0,Ireland,IE,IRL,4853506.0,1,,,,0,0.0
+2020-01-20,20,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-19,19,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-18,18,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-17,17,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-16,16,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-15,15,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-14,14,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-13,13,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-12,12,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-11,11,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-10,10,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-09,9,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-08,8,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-07,7,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-06,6,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-05,5,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-04,4,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-03,3,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-02,2,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-01-01,1,1,2020,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2019-12-31,31,12,2019,0,0,Ireland,IE,IRL,4853506.0,0,,,,0,0.0
+2020-04-18,18,4,2020,178,2,South_Africa,ZA,ZAF,57779622.0,68,,"{0: 'Global Citizen Together At Home', 1: 'Sotho Man With Some Power', 2: 'SAA', 3: 'Sho Madjozi', 4: 'Ramaphosa', 5: 'Global Citizen Together At Home', 6: 'Emtee', 7: 'Too Hot to Handle, Netflix', 8: 'Jameela Jamil', 9: 'The Killers', 10: 'Charlie Puth'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+'}",2783,6.39597556593604
+2020-04-17,17,4,2020,99,14,South_Africa,ZA,ZAF,57779622.0,60,,"{0: 'Thank you coronavirus helpers', 1: 'School reopen South Africa', 2: 'DVSN A Muse In Her Feelings', 3: 'China coronavirus', 4: 'BizPortal', 5: 'Kenya Barris', 6: 'Jennifer Lopez', 7: 'Brian Dennehy', 8: 'DaBaby', 9: 'TNS', 10: 'Steve Jobs', 11: 'Remdesivir', 12: 'Roddy Ricch', 13: 'Playboi Carti'}","{0: '500K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '5K+', 12: '5K+', 13: '5K+'}",2605,3.800383877159309
+2020-04-16,16,4,2020,91,7,South_Africa,ZA,ZAF,57779622.0,47,,"{0: 'COVID-19 update South Africa', 1: 'Tiger Brands', 2: 'DispatchLIVE', 3: 'Nkosazana Dlamini-Zuma'}","{0: '50K+', 1: '20K+', 2: '10K+', 3: '5K+'}",2506,3.631284916201117
+2020-04-15,15,4,2020,143,0,South_Africa,ZA,ZAF,57779622.0,64,,"{0: 'Thank you coronavirus helpers', 1: 'iPhone SE', 2: 'Capitec Bank', 3: 'Kingsway Hospital', 4: 'SAA'}","{0: '500K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '10K+'}",2415,5.921325051759834
+2020-04-14,14,4,2020,99,2,South_Africa,ZA,ZAF,57779622.0,43,,"{0: 'Repo rate', 1: 'Sophie Ndaba', 2: 'Somizi Mhlongo', 3: 'UIF', 4: 'Alcohol ban South Africa', 5: 'Zoom app meeting', 6: 'Joe Biden', 7: 'UIF during lockdown', 8: 'Tamil New Year 2020', 9: 'Google Meet', 10: 'Interest rate', 11: 'Repo rate, meaning', 12: 'George Calombaris', 13: 'Dr Zweli Mkhize'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '10K+', 6: '10K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+', 13: '2K+'}",2272,4.357394366197183
+2020-04-13,13,4,2020,145,0,South_Africa,ZA,ZAF,57779622.0,48,,"{0: 'Prof Karim', 1: 'Covid-19 stats South Africa', 2: 'N95 mask', 3: 'Zweli Mkhize', 4: 'Julius Malema', 5: 'Jaden Smith', 6: 'Ntsiki Mazwai', 7: 'Easter Monday', 8: 'Neymar mother'}","{0: '20K+', 1: '10K+', 2: '10K+', 3: '5K+', 4: '5K+', 5: '5K+', 6: '5K+', 7: '5K+', 8: '2K+'}",2173,6.672802577082375
+2020-04-12,12,4,2020,25,1,South_Africa,ZA,ZAF,57779622.0,50,,"{0: 'Andrea Bocelli', 1: 'Easter Sunday', 2: 'Happy Easter', 3: 'Dwayne Johnson', 4: 'Bheki Cele', 5: 'Easter', 6: 'Happy Easter images', 7: 'Liquor stores to open', 8: 'Jacob Zuma', 9: 'Stirling Moss', 10: 'Easter Bunny', 11: 'Alcohol South Africa', 12: 'Resurrection Sunday'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+'}",2028,1.232741617357002
+2020-04-11,11,4,2020,69,6,South_Africa,ZA,ZAF,57779622.0,51,,"{0: 'Shimza', 1: 'Krakatoa', 2: 'DJ Shimza', 3: 'Code 8', 4: 'Department of Education', 5: 'Kenny Dalglish', 6: 'Ellis Park disaster', 7: 'Georgia Groome'}","{0: '10K+', 1: '5K+', 2: '5K+', 3: '2K+', 4: '2K+', 5: '2K+', 6: '2K+', 7: '2K+'}",2003,3.4448327508736893
+2020-04-10,10,4,2020,89,0,South_Africa,ZA,ZAF,57779622.0,46,,"{0: 'Somizi', 1: 'Angie Motshekga', 2: 'Good Friday quotes', 3: 'Good Friday message', 4: 'Chris Hani', 5: 'Easter 2020', 6: 'Minister of Education', 7: 'Love Wedding Repeat', 8: 'HAPPY GOOD FRIDAY', 9: 'Lockdown South Africa Twitter', 10: 'When is Easter', 11: 'Passion of Christ', 12: 'Homemade alcohol', 13: 'Botswana', 14: 'Food parcels south africa'}","{0: '20K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '2K+', 13: '2K+', 14: '2K+'}",1934,4.601861427094105
+2020-04-09,9,4,2020,96,5,South_Africa,ZA,ZAF,57779622.0,52,,"{0: 'Cyril Ramaphosa', 1: 'Charles Maja', 2: 'Good Friday 2020', 3: 'Good Friday', 4: 'William Booth', 5: 'Happy Easter', 6: 'News24 South Africa', 7: 'Hot cross buns recipe', 8: 'Enca Live', 9: 'Force majeure', 10: 'President', 11: 'Chynna', 12: 'Maundy Thursday', 13: 'Breaking news', 14: 'Avonwood', 15: 'Thando Thabethe', 16: 'Dr. Tedros Adhanom Ghebreyesus', 17: 'Holy Thursday'}","{0: '200K+', 1: '100K+', 2: '50K+', 3: '50K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '2K+', 14: '2K+', 15: '2K+', 16: '2K+', 17: '2K+'}",1845,5.203252032520325
+2020-04-08,8,4,2020,63,1,South_Africa,ZA,ZAF,57779622.0,73,,"{0: 'Thank you coronavirus helpers', 1: 'St Augustine hospital', 2: 'PS5', 3: 'Bernie Sanders', 4: 'BCG vaccine', 5: 'Passover 2020', 6: 'PS5 controller', 7: 'Ronaldinho', 8: 'Gretel and Hansel', 9: 'Zoom app meeting', 10: 'Shab-e-Barat', 11: 'Tory Lanez', 12: 'John Prine', 13: 'Madam and Mercy'}","{0: '500K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '5K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+', 13: '2K+'}",1749,3.6020583190394513
+2020-04-07,7,4,2020,31,1,South_Africa,ZA,ZAF,57779622.0,48,,"{0: 'Stella Ndabeni-Abrahams', 1: 'Full moon April 2020', 2: 'Bheki Cele', 3: 'Hanuman Jayanti', 4: 'News24 today', 5: 'Sasol', 6: 'News24 South Africa', 7: 'Transparent', 8: 'David Icke', 9: 'Valorant', 10: 'Honor Blackman', 11: 'Ezra Miller', 12: 'Stephen Birch'}","{0: '100K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+'}",1686,1.8386714116251484
+2020-04-06,6,4,2020,70,2,South_Africa,ZA,ZAF,57779622.0,52,,"{0: 'Vinolia Mashego', 1: 'Boris Johnson', 2: 'Pep Guardiola', 3: 'Bushiri', 4: 'SARS virus', 5: 'Adele', 6: 'Uber Eats', 7: 'Elaine', 8: 'What is 5G and how does it work', 9: 'Zoom meetings', 10: 'Tops', 11: 'Business Partners'}","{0: '200K+', 1: '100K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+'}",1655,4.229607250755287
+2020-04-05,5,4,2020,80,2,South_Africa,ZA,ZAF,57779622.0,62,,"{0: 'Contagion', 1: 'Ramaphosa', 2: 'Lockdown South Africa', 3: 'Bill Gates', 4: 'Brock Lesnar', 5: 'Venom', 6: 'Covid-19 news', 7: 'Jennifer Lopez', 8: 'The Undertaker', 9: 'Roman Reigns', 10: 'Angelina Jolie', 11: 'Hydroxychloroquine', 12: 'Letoya Makhene', 13: 'Contagious', 14: 'Matt Damon', 15: 'Furlough', 16: 'Dr #CharlesLieber', 17: 'Vavi Zwelinzima', 18: 'Palm Sunday pictures', 19: 'Lockdown extension'}","{0: '200K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '10K+', 13: '10K+', 14: '10K+', 15: '10K+', 16: '5K+', 17: '5K+', 18: '5K+', 19: '5K+'}",1585,5.047318611987381
+2020-04-04,4,4,2020,43,2,South_Africa,ZA,ZAF,57779622.0,62,,"{0: 'Palm Sunday', 1: 'WrestleMania 2020', 2: 'Lockdown house party', 3: 'What is 5G', 4: 'BCG) vaccine', 5: 'Logan Williams', 6: 'News24 today latest', 7: 'DJ Fresh', 8: 'Coffee and Kareem', 9: 'Pink', 10: 'Valorant', 11: 'Money Heist Season 5', 12: 'Transparent'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '5K+', 11: '5K+', 12: '5K+'}",1505,2.857142857142857
+2020-04-03,3,4,2020,82,0,South_Africa,ZA,ZAF,57779622.0,55,,"{0: 'Bill Withers', 1: 'Money Heist season 4', 2: 'Constand Viljoen', 3: 'St Augustine hospital', 4: 'Ronald Lamola', 5: 'Autism', 6: 'Adam Housley', 7: 'Coronavirus South Africa cigarette', 8: 'Glenwood'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '5K+', 6: '5K+', 7: '2K+', 8: '2K+'}",1462,5.60875512995896
+2020-04-02,2,4,2020,27,0,South_Africa,ZA,ZAF,57779622.0,92,"{0: 'coronavirus tips', 1: 'coronavirus live update', 2: 'coronavirus cure'}","{0: 'Coronavirus tips', 1: 'Zwelinzima Vavi', 2: 'Barack Obama', 3: 'Covid-19 news', 4: 'Cassper Nyovest Amademoni', 5: 'Premier League', 6: 'Coronavirus treatments', 7: 'Ram Navami', 8: 'Zoom meetings', 9: 'Adam Schlesinger'}","{0: '1M+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '10K+', 9: '5K+'}",1380,1.9565217391304348
+2020-04-01,1,4,2020,27,2,South_Africa,ZA,ZAF,57779622.0,61,,"{0: 'Doctor Khumalo', 1: 'Mary Oppenheimer', 2: 'Fikile Mbalula', 3: 'UCT', 4: 'Ignatius Jacobs', 5: 'Nipsey Hussle', 6: 'Chris Cuomo', 7: 'Andrew Jack', 8: 'April'}","{0: '20K+', 1: '20K+', 2: '10K+', 3: '10K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '2K+'}",1353,1.9955654101995566
+2020-03-31,31,3,2020,46,1,South_Africa,ZA,ZAF,57779622.0,59,,"{0: ""April Fool's pranks"", 1: 'Gita Ramjee', 2: 'Coronavirus deaths in South Africa', 3: 'Petrol price April 2020', 4: 'Bill Gates', 5: 'FNB bank', 6: 'Prince Charles', 7: 'Naledi Pandor', 8: 'Harry Potter', 9: 'Jack Ma', 10: 'Sa lockdown extended', 11: 'Louis Wilsenach'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '10K+', 8: '10K+', 9: '5K+', 10: '5K+', 11: '5K+'}",1326,3.469079939668175
+2020-03-30,30,3,2020,93,0,South_Africa,ZA,ZAF,57779622.0,70,,"{0: 'Drake', 1: 'Coronavirus tips', 2: 'Cyril Ramaphosa news', 3: 'Naspers', 4: 'Zoom download', 5: 'Alibaba', 6: 'Little Fires Everywhere', 7: 'Durag', 8: 'Ramaphosa news Today'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '10K+', 5: '10K+', 6: '5K+', 7: '5K+', 8: '5K+'}",1280,7.265625
+2020-03-29,29,3,2020,17,0,South_Africa,ZA,ZAF,57779622.0,83,,"{0: 'Ntsiki Mazwai', 1: 'Covid-19 news', 2: 'Khayelitsha', 3: 'Queen Elizabeth', 4: 'Lion King', 5: 'Covid-19 news', 6: 'John Callahan', 7: 'Pablo Escobar', 8: 'Hola Bon Renaissance', 9: 'What is 5G', 10: 'Spider', 11: 'Donald Glover', 12: 'Bird'}","{0: '20K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '10K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '5K+', 11: '5K+', 12: '5K+'}",1187,1.4321819713563606
+2020-03-28,28,3,2020,243,0,South_Africa,ZA,ZAF,57779622.0,93,"{0: 'live coronavirus updates', 1: 'latest on coronavirus in south africa', 2: 'how many cases of coronavirus in south africa', 3: 'confirmed cases of coronavirus in south africa', 4: 'coronavirus tracker'}","{0: 'Lion', 1: 'Tiger', 2: 'Patrice Motsepe', 3: 'Shark', 4: 'Tiger View in 3D', 5: 'Dog', 6: 'Elephant', 7: 'Snake', 8: 'Horse', 9: 'Cat', 10: 'Wolf', 11: 'Bear', 12: ""Moody's South Africa"", 13: 'Panda', 14: 'Woolworths online shopping', 15: '5G', 16: 'Duck', 17: 'Hedgehog', 18: 'Giraffe', 19: 'Monkey'}","{0: '100K+', 1: '100K+', 2: '50K+', 3: '50K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '20K+', 8: '20K+', 9: '20K+', 10: '20K+', 11: '20K+', 12: '20K+', 13: '10K+', 14: '10K+', 15: '10K+', 16: '10K+', 17: '10K+', 18: '10K+', 19: '10K+'}",1170,20.76923076923077
+2020-03-27,27,3,2020,218,2,South_Africa,ZA,ZAF,57779622.0,96,"{0: 'update on coronavirus in south africa', 1: 'is coronavirus airborne', 2: 'coronavirus airborne', 3: 'world meter coronavirus', 4: 'latest coronavirus stats'}","{0: 'Boris Johnson', 1: 'Italy lockdown', 2: 'Kenneth Meshoe', 3: 'TB Joshua', 4: 'Contagion', 5: 'Is coronavirus airborne', 6: 'Madeleine van Wyk', 7: 'Huawei P40', 8: 'Joyner Lucas ADHD', 9: 'PartyNextDoor', 10: ""Moody's South Africa"", 11: 'Mark Blum', 12: 'Usa coronavirus', 13: 'Ozark', 14: 'Abdelhak Nouri', 15: 'Coronavirus airborne', 16: 'Is COVID-19, airborne'}","{0: '50K+', 1: '20K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '20K+', 7: '10K+', 8: '10K+', 9: '10K+', 10: '10K+', 11: '10K+', 12: '5K+', 13: '5K+', 14: '5K+', 15: '5K+', 16: '5K+'}",927,23.516720604099245
+2020-03-26,26,3,2020,152,0,South_Africa,ZA,ZAF,57779622.0,100,"{0: 'latest news on coronavirus in south africa', 1: 'coronavirus tips', 2: 'latest coronavirus stats', 3: 'coronavirus tracker', 4: 'coronavirus vaccine'}","{0: 'South Africa coronavirus Update', 1: 'Nasty C', 2: 'Angus Buchan', 3: 'Bizportal', 4: ""McDonald's"", 5: 'Edcon', 6: 'My Secret Terrius', 7: 'Burger King', 8: 'Www.bizportal.gov.za', 9: 'Coronavirus stats South Africa', 10: 'Prince Harry'}","{0: '50K+', 1: '50K+', 2: '20K+', 3: '20K+', 4: '20K+', 5: '20K+', 6: '10K+', 7: '10K+', 8: '5K+', 9: '5K+', 10: '2K+'}",709,21.438645980253877
+2020-03-25,25,3,2020,155,0,South_Africa,ZA,ZAF,57779622.0,86,,,,557,27.82764811490126
+2020-03-24,24,3,2020,128,0,South_Africa,ZA,ZAF,57779622.0,70,,,,402,31.8407960199005
+2020-03-23,23,3,2020,34,0,South_Africa,ZA,ZAF,57779622.0,84,,,,274,12.408759124087592
+2020-03-22,22,3,2020,35,0,South_Africa,ZA,ZAF,57779622.0,79,,,,240,14.583333333333334
+2020-03-21,21,3,2020,55,0,South_Africa,ZA,ZAF,57779622.0,71,,,,205,26.829268292682926
+2020-03-20,20,3,2020,34,0,South_Africa,ZA,ZAF,57779622.0,64,,,,150,22.666666666666668
+2020-03-19,19,3,2020,31,0,South_Africa,ZA,ZAF,57779622.0,73,,,,116,26.724137931034484
+2020-03-18,18,3,2020,23,0,South_Africa,ZA,ZAF,57779622.0,72,,,,85,27.058823529411764
+2020-03-17,17,3,2020,11,0,South_Africa,ZA,ZAF,57779622.0,75,,,,62,17.741935483870968
+2020-03-16,16,3,2020,27,0,South_Africa,ZA,ZAF,57779622.0,86,,,,51,52.94117647058823
+2020-03-15,15,3,2020,0,0,South_Africa,ZA,ZAF,57779622.0,73,,,,24,0.0
+2020-03-14,14,3,2020,7,0,South_Africa,ZA,ZAF,57779622.0,42,,,,24,29.166666666666668
+2020-03-13,13,3,2020,4,0,South_Africa,ZA,ZAF,57779622.0,39,,,,17,23.529411764705884
+2020-03-12,12,3,2020,6,0,South_Africa,ZA,ZAF,57779622.0,40,,,,13,46.15384615384615
+2020-03-10,10,3,2020,4,0,South_Africa,ZA,ZAF,57779622.0,25,,,,7,57.142857142857146
+2020-03-09,9,3,2020,1,0,South_Africa,ZA,ZAF,57779622.0,30,,,,3,33.333333333333336
+2020-03-08,8,3,2020,1,0,South_Africa,ZA,ZAF,57779622.0,23,,,,2,50.0
+2020-03-06,6,3,2020,1,0,South_Africa,ZA,ZAF,57779622.0,32,,,,1,100.0
+2020-04-18,18,4,2020,5599,847,United_Kingdom,UK,GBR,66488991.0,30,,,,108692,5.151253082103558
+2020-04-17,17,4,2020,4617,861,United_Kingdom,UK,GBR,66488991.0,41,,,,103093,4.47848059519075
+2020-04-16,16,4,2020,4603,761,United_Kingdom,UK,GBR,66488991.0,45,,,,98476,4.674235346683456
+2020-04-15,15,4,2020,5252,778,United_Kingdom,UK,GBR,66488991.0,45,,,,93873,5.594792964963301
+2020-04-14,14,4,2020,4342,717,United_Kingdom,UK,GBR,66488991.0,49,,,,88621,4.899515916092122
+2020-04-13,13,4,2020,5288,737,United_Kingdom,UK,GBR,66488991.0,51,,,,84279,6.274398130020527
+2020-04-12,12,4,2020,8719,917,United_Kingdom,UK,GBR,66488991.0,38,,,,78991,11.037966350596903
+2020-04-11,11,4,2020,5195,980,United_Kingdom,UK,GBR,66488991.0,38,,,,70272,7.392702641165756
+2020-04-10,10,4,2020,4344,881,United_Kingdom,UK,GBR,66488991.0,52,,,,65077,6.675169414693364
+2020-04-09,9,4,2020,5491,938,United_Kingdom,UK,GBR,66488991.0,41,,,,60733,9.04121317899659
+2020-04-08,8,4,2020,3634,786,United_Kingdom,UK,GBR,66488991.0,57,,,,55242,6.578328083704428
+2020-04-07,7,4,2020,3802,439,United_Kingdom,UK,GBR,66488991.0,44,,,,51608,7.367074872112851
+2020-04-06,6,4,2020,5903,621,United_Kingdom,UK,GBR,66488991.0,47,,,,47806,12.34782244906497
+2020-04-05,5,4,2020,3735,708,United_Kingdom,UK,GBR,66488991.0,60,,,,41903,8.913442951578645
+2020-04-04,4,4,2020,4450,684,United_Kingdom,UK,GBR,66488991.0,59,,,,38168,11.658981345629847
+2020-04-03,3,4,2020,4244,389,United_Kingdom,UK,GBR,66488991.0,43,,,,33718,12.586748917492141
+2020-04-02,2,4,2020,4324,743,United_Kingdom,UK,GBR,66488991.0,47,,,,29474,14.670557101173916
+2020-04-01,1,4,2020,3009,381,United_Kingdom,UK,GBR,66488991.0,46,,,,25150,11.964214711729623
+2020-03-31,31,3,2020,2619,180,United_Kingdom,UK,GBR,66488991.0,48,,,,22141,11.82873402285353
+2020-03-30,30,3,2020,2433,209,United_Kingdom,UK,GBR,66488991.0,51,,,,19522,12.462862411638152
+2020-03-29,29,3,2020,2546,260,United_Kingdom,UK,GBR,66488991.0,61,,,,17089,14.89847270173796
+2020-03-28,28,3,2020,2885,181,United_Kingdom,UK,GBR,66488991.0,62,,,,14543,19.837722615691398
+2020-03-27,27,3,2020,2129,115,United_Kingdom,UK,GBR,66488991.0,62,,,,11658,18.262137587922457
+2020-03-26,26,3,2020,1452,41,United_Kingdom,UK,GBR,66488991.0,66,,,,9529,15.237695455976493
+2020-03-25,25,3,2020,1427,87,United_Kingdom,UK,GBR,66488991.0,72,,,,8077,17.66745078618299
+2020-03-24,24,3,2020,967,54,United_Kingdom,UK,GBR,66488991.0,70,,,,6650,14.541353383458647
+2020-03-23,23,3,2020,665,48,United_Kingdom,UK,GBR,66488991.0,81,,,,5683,11.701566074256554
+2020-03-22,22,3,2020,1035,56,United_Kingdom,UK,GBR,66488991.0,82,,,,5018,20.625747309685135
+2020-03-21,21,3,2020,706,33,United_Kingdom,UK,GBR,66488991.0,73,,,,3983,17.72533266382124
+2020-03-20,20,3,2020,647,41,United_Kingdom,UK,GBR,66488991.0,71,,,,3277,19.74366798901434
+2020-03-19,19,3,2020,680,43,United_Kingdom,UK,GBR,66488991.0,77,,,,2630,25.85551330798479
+2020-03-18,18,3,2020,407,5,United_Kingdom,UK,GBR,66488991.0,89,,,,1950,20.871794871794872
+2020-03-17,17,3,2020,152,20,United_Kingdom,UK,GBR,66488991.0,96,"{0: 'does coronavirus start with a sore throat', 1: 'hmrc coronavirus helpline', 2: 'self employed coronavirus relief', 3: 'small business grant coronavirus', 4: 'coronavirus ibuprofen nhs'}",,,1543,9.85093972780298
+2020-03-16,16,3,2020,251,14,United_Kingdom,UK,GBR,66488991.0,100,"{0: 'idris elba coronavirus', 1: 'pregnancy and coronavirus uk', 2: 'how to test for coronavirus uk', 3: 'pregnant women coronavirus', 4: 'pregnant coronavirus'}",,,1391,18.044572250179726
+2020-03-15,15,3,2020,433,11,United_Kingdom,UK,GBR,66488991.0,89,,,,1140,37.98245614035088
+2020-03-14,14,3,2020,117,0,United_Kingdom,UK,GBR,66488991.0,85,,,,707,16.548797736916548
+2020-03-13,13,3,2020,134,4,United_Kingdom,UK,GBR,66488991.0,82,,,,590,22.71186440677966
+2020-03-12,12,3,2020,83,0,United_Kingdom,UK,GBR,66488991.0,91,"{0: 'tom hanks coronavirus', 1: 'coronavirus cobra', 2: 'ireland coronavirus cases', 3: 'coronavirus cobra meeting', 4: 'celebrities with coronavirus'}",,,456,18.20175438596491
+2020-03-11,11,3,2020,52,1,United_Kingdom,UK,GBR,66488991.0,60,,,,373,13.941018766756033
+2020-03-10,10,3,2020,48,2,United_Kingdom,UK,GBR,66488991.0,51,,,,321,14.953271028037383
+2020-03-09,9,3,2020,67,1,United_Kingdom,UK,GBR,66488991.0,43,,,,273,24.542124542124544
+2020-03-08,8,3,2020,43,1,United_Kingdom,UK,GBR,66488991.0,35,,,,206,20.87378640776699
+2020-03-07,7,3,2020,48,0,United_Kingdom,UK,GBR,66488991.0,27,,,,163,29.447852760736197
+2020-03-06,6,3,2020,30,1,United_Kingdom,UK,GBR,66488991.0,31,,,,115,26.08695652173913
+2020-03-05,5,3,2020,34,0,United_Kingdom,UK,GBR,66488991.0,36,,,,85,40.0
+2020-03-04,4,3,2020,11,0,United_Kingdom,UK,GBR,66488991.0,32,,,,51,21.568627450980394
+2020-03-03,3,3,2020,4,0,United_Kingdom,UK,GBR,66488991.0,27,,,,40,10.0
+2020-03-02,2,3,2020,13,0,United_Kingdom,UK,GBR,66488991.0,26,,,,36,36.111111111111114
+2020-03-01,1,3,2020,5,0,United_Kingdom,UK,GBR,66488991.0,19,,,,23,21.73913043478261
+2020-02-29,29,2,2020,2,0,United_Kingdom,UK,GBR,66488991.0,15,,,,18,11.11111111111111
+2020-02-28,28,2,2020,3,0,United_Kingdom,UK,GBR,66488991.0,21,,,,16,18.75
+2020-02-27,27,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,19,,,,13,0.0
+2020-02-26,26,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,21,,,,13,0.0
+2020-02-25,25,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,16,,,,13,0.0
+2020-02-24,24,2,2020,4,0,United_Kingdom,UK,GBR,66488991.0,9,,,,13,30.76923076923077
+2020-02-23,23,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,6,,,,9,0.0
+2020-02-22,22,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,4,,,,9,0.0
+2020-02-21,21,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,3,,,,9,0.0
+2020-02-20,20,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,3,,,,9,0.0
+2020-02-19,19,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,3,,,,9,0.0
+2020-02-18,18,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,3,,,,9,0.0
+2020-02-17,17,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,4,,,,9,0.0
+2020-02-16,16,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,4,,,,9,0.0
+2020-02-15,15,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,4,,,,9,0.0
+2020-02-14,14,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,6,,,,9,0.0
+2020-02-13,13,2,2020,1,0,United_Kingdom,UK,GBR,66488991.0,8,,,,9,11.11111111111111
+2020-02-12,12,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,8,,,,8,0.0
+2020-02-11,11,2,2020,4,0,United_Kingdom,UK,GBR,66488991.0,8,,,,8,50.0
+2020-02-10,10,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,9,,,,4,0.0
+2020-02-09,9,2,2020,1,0,United_Kingdom,UK,GBR,66488991.0,6,,,,4,25.0
+2020-02-08,8,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,7,,,,3,0.0
+2020-02-07,7,2,2020,1,0,United_Kingdom,UK,GBR,66488991.0,6,,,,3,33.333333333333336
+2020-02-06,6,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,7,,,,2,0.0
+2020-02-05,5,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,5,,,,2,0.0
+2020-02-04,4,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,5,,,,2,0.0
+2020-02-03,3,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,6,,,,2,0.0
+2020-02-02,2,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,7,,,,2,0.0
+2020-02-01,1,2,2020,0,0,United_Kingdom,UK,GBR,66488991.0,8,,,,2,0.0
+2020-01-31,31,1,2020,2,0,United_Kingdom,UK,GBR,66488991.0,17,,,,2,100.0
+2020-01-30,30,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,11,,,,0,0.0
+2020-01-29,29,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,7,,,,0,0.0
+2020-01-28,28,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,7,,,,0,0.0
+2020-01-27,27,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,6,,,,0,0.0
+2020-01-26,26,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,6,,,,0,0.0
+2020-01-25,25,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,5,,,,0,0.0
+2020-01-24,24,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,5,,,,0,0.0
+2020-01-23,23,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,4,,,,0,0.0
+2020-01-22,22,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,2,,,,0,0.0
+2020-01-21,21,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,1,,,,0,0.0
+2020-01-20,20,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-19,19,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-18,18,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-17,17,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-16,16,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-15,15,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-14,14,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-13,13,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-12,12,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-11,11,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-10,10,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-09,9,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-08,8,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-07,7,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-06,6,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-05,5,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-04,4,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-03,3,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-02,2,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-01-01,1,1,2020,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2019-12-31,31,12,2019,0,0,United_Kingdom,UK,GBR,66488991.0,0,,,,0,0.0
+2020-04-18,18,4,2020,30833,3770,United_States_of_America,US,USA,327167434.0,41,,"{0: 'Eddie Vedder', 1: 'Nick Cordero', 2: 'Teddy Riley', 3: 'Stevie Wonder', 4: 'Shawn Mendes', 5: 'Keith Urban', 6: 'Maluma', 7: 'Sam Smith', 8: 'Waco', 9: 'David Koresh', 10: 'Billie Joe Armstrong', 11: 'Ranjit Chowdhry', 12: 'Kacey Musgraves', 13: 'Charlie Watts', 14: 'The Clark Sisters', 15: 'Thunderbirds flyover', 16: 'John Legend', 17: 'Jennifer Lopez', 18: 'Donald Trump Twitter', 19: 'Priyanka Chopra'}","{0: '2M+', 1: '200K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '100K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",702164,4.391139391936926
+2020-04-17,17,4,2020,31667,2299,United_States_of_America,US,USA,327167434.0,39,,"{0: 'Kenya Barris', 1: 'One World: Together At Home', 2: 'IRS stimulus check 2020', 3: 'DoorDash', 4: 'Florida beaches reopen', 5: 'Fiona Apple', 6: 'Too Hot to Handle, Netflix cast', 7: 'WNBA Draft', 8: 'Trump Twitter', 9: 'Siegfried and Roy', 10: ""Salute Deadpool's pants"", 11: 'Phantom of the Opera', 12: 'iPhone SE 2020', 13: 'Demi Lovato', 14: 'DaBaby', 15: 'Sam Heughan', 16: 'Wonderlic test', 17: 'Carrollton High School', 18: 'Michael Cohen', 19: 'Steve Cash'}","{0: '500K+', 1: '500K+', 2: '500K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",671331,4.717047179409263
+2020-04-16,16,4,2020,30148,4928,United_States_of_America,US,USA,327167434.0,40,,"{0: 'Brian Dennehy', 1: 'Remdesivir', 2: 'Disney Singalong', 3: 'Howard Finkel', 4: 'Coronavirus stats', 5: 'Dr. Phil', 6: 'Von Miller', 7: 'Trump briefing today', 8: 'Jalen Green', 9: 'Wisconsin stay-at-home order', 10: 'PPP', 11: 'Us map', 12: 'Luke Evans', 13: 'Keiji Fujiwara', 14: 'Chadwick Boseman', 15: 'Thomas Rhett', 16: 'Selena Quintanilla', 17: 'Utah earthquake', 18: 'Selena', 19: 'Al Capone'}","{0: '1M+', 1: '1M+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",639664,4.713099377173016
+2020-04-15,15,4,2020,26922,2408,United_States_of_America,US,USA,327167434.0,42,,"{0: 'IRS stimulus check portal', 1: 'iPhone SE', 2: 'Michigan protest', 3: 'U.S. Bank', 4: 'Brandi Glanville', 5: 'Odell Beckham Jr', 6: 'Mrs. America', 7: 'Michael Jordan', 8: 'Outer Banks Netflix', 9: 'PNC', 10: 'WWE', 11: 'Vince McMahon', 12: 'Chris Cuomo wife', 13: 'Fifth Third Bank', 14: 'All In Challenge', 15: 'Roy Halladay', 16: '2,000 a month stimulus', 17: 'Amy Schumer', 18: 'Jackie Robinson', 19: 'Nikki Glaser'}","{0: '10M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '500K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '100K+', 16: '100K+', 17: '100K+', 18: '50K+', 19: '50K+'}",609516,4.41694721713622
+2020-04-14,14,4,2020,25023,1541,United_States_of_America,US,USA,327167434.0,44,,"{0: 'Stimulus Check Calculator', 1: 'WHO', 2: 'Hank Steinbrenner', 3: 'Christopher Lloyd', 4: 'Gavin Newsom', 5: 'Earthquake Utah', 6: 'iPhone', 7: 'Gwen Stefani', 8: 'Gretchen Whitmer', 9: 'Jimmy Webb', 10: 'Playboi Carti', 11: 'Mutiny on the Bounty', 12: 'Brad Pitt', 13: 'How to make a face mask', 14: 'Kyle Larson video', 15: 'Kara Keough', 16: ""Chris D'Elia"", 17: 'New Amsterdam', 18: 'Stacey Abrams', 19: 'John Conway'}","{0: '500K+', 1: '500K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",582594,4.295100876425092
+2020-04-13,13,4,2020,27620,1500,United_States_of_America,US,USA,327167434.0,42,,"{0: 'Stimulus checks', 1: 'IRS stimulus check portal', 2: 'IRS', 3: 'Stimulus check status', 4: 'Fauci', 5: 'Tarvaris Jackson', 6: 'IRS stimulus check 2020 portal', 7: 'Wisconsin Election results', 8: 'Karl-Anthony Towns', 9: 'Wheres My stimulus check 2020', 10: 'Irs.gov stimulus check', 11: 'Dune', 12: 'George Stephanopoulos', 13: 'DSW', 14: 'Rick May', 15: 'Bernie Sanders', 16: 'Kenny Rogers', 17: 'Chattanooga tornado', 18: ""Where's my stimulus check 2020"", 19: 'Michigan unemployment'}","{0: '2M+', 1: '2M+', 2: '2M+', 3: '1M+', 4: '1M+', 5: '500K+', 6: '500K+', 7: '500K+', 8: '500K+', 9: '500K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '200K+', 14: '200K+', 15: '200K+', 16: '100K+', 17: '100K+', 18: '100K+', 19: '100K+'}",557571,4.95362922390153
+2020-04-12,12,4,2020,28391,1831,United_States_of_America,US,USA,327167434.0,30,,"{0: 'Happy Easter', 1: 'Andrea Bocelli', 2: 'Tornado warning', 3: 'Kyle Larson', 4: 'Easter Sunday', 5: 'JESUS CHRIST SUPERSTAR LIVE!', 6: 'Killing Eve', 7: 'Timothee Chalamet', 8: 'Insecure', 9: 'Dolly Parton', 10: 'Chris Martin', 11: 'Allie Quigley', 12: 'Easter images', 13: 'Tiger Woods', 14: 'Ryan Cameron', 15: 'Willie Nelson', 16: 'Joel Osteen', 17: 'Stanley Chera', 18: 'Mark Cuban', 19: 'Alice Cooper'}","{0: '1M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '200K+', 5: '200K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",529951,5.357287749244741
+2020-04-11,11,4,2020,35527,2087,United_States_of_America,US,USA,327167434.0,37,,"{0: 'Easter', 1: 'Happy Easter 2020', 2: 'IRS stimulus check portal', 3: 'The Clark Sisters', 4: 'Colby Cave', 5: 'Deviled eggs', 6: 'Billie Eilish', 7: 'SNL', 8: 'Jesus Christ Superstar', 9: 'Joel McHale', 10: 'Easter Bunny', 11: 'Stimulus check portal', 12: 'Hal Willner', 13: 'Fishing Tourney New Horizons', 14: 'Krakatoa eruption 2020', 15: 'Tara Reade', 16: 'Nick Cordero', 17: 'Shailene Woodley', 18: 'Ronda Rousey', 19: 'Sandra Lee'}","{0: '2M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '500K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '100K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",501560,7.083300103676529
+2020-04-10,10,4,2020,33901,1873,United_States_of_America,US,USA,327167434.0,46,,"{0: 'Trolls World Tour', 1: 'National Siblings Day', 2: 'Stimulus check 2020 direct deposit', 3: 'Georgia Groome', 4: 'Elizabeth Holmes', 5: 'Good Friday 2020', 6: 'Hard-boiled eggs', 7: 'XFL', 8: 'Krakatoa', 9: 'Timothy Brown', 10: 'Happy Easter', 11: 'Jesus Christ Superstar', 12: 'Passion of Christ', 13: 'Yaya Mayweather', 14: 'Kristen Bell', 15: 'Dwayne Johnson', 16: 'UFC 249', 17: 'Love Wedding Repeat', 18: 'Kellyclarkson', 19: 'Jerome Adams'}","{0: '1M+', 1: '1M+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '100K+', 16: '100K+', 17: '100K+', 18: '50K+', 19: '50K+'}",466033,7.274377565537204
+2020-04-09,9,4,2020,33323,1922,United_States_of_America,US,USA,327167434.0,48,,"{0: 'Good Friday', 1: 'IRS stimulus portal', 2: 'Colin Kaepernick', 3: 'Final Fantasy 7 Remake', 4: 'Hart Island', 5: 'Florence Pugh', 6: 'Maundy Thursday', 7: 'What is Good Friday', 8: 'Chris Johnson', 9: 'Brandin Cooks', 10: 'OPEC meeting', 11: 'Leslie Jordan', 12: 'Holy Thursday', 13: 'Blac Chyna', 14: 'Todd Chrisley', 15: 'Mort Drucker', 16: 'IRS stimulus check refund', 17: 'N95 respirators mask', 18: 'Draconian', 19: 'Elton John'}","{0: '1M+', 1: '500K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '20K+', 18: '20K+', 19: '20K+'}",432132,7.711301176492368
+2020-04-08,8,4,2020,30613,1906,United_States_of_America,US,USA,327167434.0,50,,"{0: 'Bernie Sanders', 1: 'Passover 2020', 2: 'Chynna', 3: 'Linda Tripp', 4: 'Modern Family', 5: 'Snapchat', 6: 'Jordyn Woods', 7: ""Dick's Sporting Goods"", 8: 'Amber Heard', 9: 'Parasite', 10: 'IRS economic stimulus checks', 11: 'Josh Hamilton', 12: 'Stadia', 13: 'Julie Bowen', 14: 'Falcons new uniforms', 15: 'Charlotte Figi', 16: 'Sarah Hyland', 17: 'Tyler Perry', 18: 'Angel From Montgomery', 19: 'TORNADO WARNING'}","{0: '2M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '500K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '100K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",398809,7.676105604437212
+2020-04-07,7,4,2020,30561,1342,United_States_of_America,US,USA,327167434.0,55,,"{0: 'John Prine', 1: 'PS5 controller', 2: 'Wisconsin primary results', 3: 'Valorant', 4: 'Kayleigh McEnany', 5: 'Tom Brady', 6: 'Mac P Dawg', 7: 'Riot Games', 8: ""Schitt's Creek"", 9: 'Jack Dorsey', 10: 'Bruce Willis', 11: 'Hal Willner', 12: 'Bucs new uniforms', 13: 'Vic Henley', 14: 'National Beer Day', 15: 'Maeve Kennedy McKean', 16: 'Uk prime ministers', 17: 'Furloughed vs layoff', 18: 'Hypertension', 19: 'Lele Pons'}","{0: '2M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '500K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",368196,8.300198807157058
+2020-04-06,6,4,2020,25398,1146,United_States_of_America,US,USA,327167434.0,59,,"{0: 'Pink moon', 1: 'Wisconsin primary', 2: 'Ezra Miller', 3: 'Hydroxychloroquine', 4: 'When will stimulus checks be deposited', 5: 'Al Kaline', 6: 'Honor Blackman', 7: 'Adele', 8: 'Thomas Modly', 9: 'SBA Disaster Loan assistance', 10: 'Quibi', 11: 'Jay Benedict', 12: 'James Taylor', 13: 'How to make a mask', 14: 'COVID symptoms', 15: 'Boris Johnson wife', 16: 'UFC 249', 17: 'Kenny Rogers', 18: 'Jeannie Mai', 19: 'Bhad Bhabie'}","{0: '1M+', 1: '500K+', 2: '500K+', 3: '500K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '200K+', 14: '200K+', 15: '200K+', 16: '100K+', 17: '100K+', 18: '100K+', 19: '100K+'}",337635,7.522324403571904
+2020-04-05,5,4,2020,34272,1344,United_States_of_America,US,USA,327167434.0,58,,"{0: 'Boris Johnson', 1: 'Bronx Zoo', 2: 'Queen Elizabeth', 3: 'Miranda Lambert', 4: 'When will the stimulus checks be deposited', 5: 'Peter Navarro', 6: 'Tom Dempsey', 7: 'Full moon April 2020', 8: 'John Cena', 9: 'Gwen Stefani', 10: 'Jerome Adams', 11: 'Charlotte Flair', 12: 'WrestleMania 36 results', 13: 'Kurt Cobain', 14: 'World on Fire', 15: 'Sheryl Crow', 16: 'Passover', 17: 'Kodak Black', 18: 'Patricia Bosworth', 19: 'Domingo de Ramos'}","{0: '2M+', 1: '200K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",312237,10.976277635257834
+2020-04-04,4,4,2020,32425,1104,United_States_of_America,US,USA,327167434.0,60,,"{0: 'WrestleMania 36', 1: 'Palm Sunday', 2: 'Yaya Mayweather', 3: 'Charles Lieber', 4: 'Shark', 5: 'Orlando Bloom', 6: 'Pink', 7: 'Lds General Conference 2020', 8: '5G tower radiation', 9: 'Kevin Garnett', 10: 'Louis C.K', 11: 'Joe Rogan', 12: 'Ric Flair', 13: 'Robert Downey Jr', 14: 'Missouri stay-at-home order'}","{0: '1M+', 1: '1M+', 2: '1M+', 3: '200K+', 4: '200K+', 5: '100K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '50K+', 12: '50K+', 13: '50K+', 14: '20K+'}",277965,11.665137697192092
+2020-04-03,3,4,2020,28819,915,United_States_of_America,US,USA,327167434.0,57,,"{0: 'Coronavirus tips', 1: 'Bill Withers', 2: 'Face mask', 3: 'Earthquake', 4: 'Logan Williams', 5: 'Paycheck Protection Program', 6: 'Kathleen Kennedy Townsend', 7: 'Onward', 8: 'HBO', 9: 'VALORANT', 10: 'Captain Crozier', 11: 'Brooke Baldwin', 12: 'Playboi Carti', 13: 'Money Heist', 14: 'Cloth masks for sale', 15: 'Jessica Alba', 16: 'Coffee and Kareem', 17: 'Val Kilmer', 18: 'Tom Holland', 19: 'Ivermectin'}","{0: '10M+', 1: '2M+', 2: '1M+', 3: '1M+', 4: '1M+', 5: '500K+', 6: '500K+', 7: '500K+', 8: '500K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '200K+', 14: '100K+', 15: '100K+', 16: '100K+', 17: '100K+', 18: '100K+', 19: '100K+'}",245540,11.736987863484565
+2020-04-02,2,4,2020,27103,1059,United_States_of_America,US,USA,327167434.0,46,,"{0: 'Stimulus checks', 1: '3M', 2: 'Draper James', 3: 'Jared Kushner', 4: 'Luckin Coffee', 5: 'Autism Awareness Day', 6: 'Ali Wentworth', 7: 'Resident Evil 3', 8: 'Ryan Reynolds', 9: 'Jo-Ann fabric masks', 10: 'Joe Exotic coronavirus', 11: 'Last of Us 2', 12: 'Chanel Rion', 13: 'LaMelo Ball', 14: 'Ed Farmer', 15: 'Dolly Parton', 16: 'Keeping Up With The Kardashians', 17: 'Zac Efron', 18: 'Gretchen Whitmer', 19: 'Candace Owens'}","{0: '1M+', 1: '200K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '100K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",216721,12.505940817917969
+2020-04-01,1,4,2020,24998,909,United_States_of_America,US,USA,327167434.0,48,,"{0: 'Adam Schlesinger', 1: 'Census 2020', 2: 'Florida stay-at-home order', 3: 'Georgia shelter-in-place', 4: 'Garth Brooks', 5: 'Zantac', 6: 'Selena', 7: 'Aldon Smith', 8: 'Ellis Marsalis', 9: '6ix9ine', 10: 'Florida', 11: 'N95 mask for sale', 12: 'Rob Gronkowski', 13: 'How to make a face mask with fabric', 14: 'Tekashi69', 15: 'Zoom meetings', 16: 'Robert Redford', 17: 'David Blaine', 18: 'UFC 249', 19: 'Fabletics'}","{0: '1M+', 1: '1M+', 2: '500K+', 3: '500K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '100K+', 14: '100K+', 15: '100K+', 16: '100K+', 17: '100K+', 18: '100K+', 19: '100K+'}",189618,13.183347572487843
+2020-03-31,31,3,2020,21595,661,United_States_of_America,US,USA,327167434.0,48,,"{0: 'Dame Jean Macnamara', 1: 'Idaho earthquake', 2: 'Chris Cuomo', 3: 'April Fools pranks', 4: 'Andrew Jack', 5: 'Stimulus checks Social Security', 6: 'Jeff Grosso', 7: 'April Fools', 8: 'Selena Quintanilla', 9: 'Yellowstone', 10: 'Yellowstone Volcano', 11: 'Leslie Jordan', 12: 'Face mask for sale', 13: 'DaBaby', 14: 'Taco Bell free taco', 15: 'National Guard', 16: 'David Geffen', 17: 'Masks for sale', 18: 'Toilet paper online in stock', 19: 'Mitigation'}","{0: '10M+', 1: '1M+', 2: '1M+', 3: '1M+', 4: '500K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",164620,13.118090147005224
+2020-03-30,30,3,2020,18360,318,United_States_of_America,US,USA,327167434.0,50,,"{0: 'Drake', 1: 'Furlough', 2: 'Virginia stay-at-home order', 3: 'Nipsey Hussle', 4: 'MyPillow', 5: 'Modern Warfare 2 Remastered', 6: 'The Good Doctor', 7: 'SBA disaster loans', 8: 'Michigan unemployment', 9: 'Arizona news', 10: 'Schoology', 11: 'Selena', 12: 'CARES Act', 13: 'Tomie dePaola', 14: 'Furlough vs laid off', 15: 'John Krasinski', 16: 'Virginia', 17: 'Instacart strike', 18: 'When are the stimulus checks coming', 19: 'USNS Comfort'}","{0: '1M+', 1: '500K+', 2: '500K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '200K+', 10: '200K+', 11: '200K+', 12: '200K+', 13: '200K+', 14: '200K+', 15: '200K+', 16: '200K+', 17: '100K+', 18: '100K+', 19: '100K+'}",143025,12.836916622968012
+2020-03-29,29,3,2020,19979,484,United_States_of_America,US,USA,327167434.0,54,,"{0: 'Joe Diffie', 1: 'John Prine', 2: 'Elton John', 3: 'Tiger', 4: 'Garth Brooks', 5: 'Social distancing', 6: 'Liberty University', 7: 'Brene Brown', 8: 'Camila Cabello', 9: 'Sarah Jessica Parker', 10: 'John Prine songs', 11: 'Jeanine Pirro', 12: 'Shia LaBeouf', 13: 'Cards Against Humanity online', 14: 'Yamiche Alcindor', 15: 'Nier Replicant', 16: 'Sam Smith', 17: 'Jan Howard', 18: 'Bob Garff', 19: 'Daisy Keech'}","{0: '5M+', 1: '1M+', 2: '500K+', 3: '200K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '50K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",124665,16.02615008222035
+2020-03-28,28,3,2020,18695,411,United_States_of_America,US,USA,327167434.0,57,,"{0: 'John Callahan Actor', 1: 'Stimulus checks', 2: 'Jonesboro, AR', 3: 'Lion', 4: 'Dog', 5: 'Weather radar', 6: 'CARES Act', 7: 'Tom Coburn', 8: 'Cat', 9: 'James Dolan', 10: 'Horse', 11: 'Elephant', 12: 'Bear', 13: 'Wolf', 14: 'Penguin', 15: 'David Geffen', 16: 'Instacart strike', 17: 'Lizzie Borden', 18: 'Krispy Kreme donuts', 19: 'USNS Comfort'}","{0: '500K+', 1: '500K+', 2: '200K+', 3: '200K+', 4: '100K+', 5: '100K+', 6: '100K+', 7: '100K+', 8: '100K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",104686,17.858166325965268
+2020-03-27,27,3,2020,16797,246,United_States_of_America,US,USA,327167434.0,59,,"{0: 'COVID-19', 1: 'Ozark', 2: 'Boris Johnson', 3: 'Thomas Massie', 4: 'Tiger', 5: 'Trish Regan', 6: 'Drew Brees', 7: 'Steven Universe Future', 8: 'Doris Burke', 9: 'Julia Garner', 10: 'Shark', 11: 'Bad Bunny', 12: 'Queen Elizabeth', 13: 'Once Upon a Time in Hollywood', 14: 'Bill Gates', 15: 'Kourtney Kardashian', 16: 'Krispy Kreme', 17: 'Jason Bateman', 18: 'Laura Linney', 19: 'Pope Francis'}","{0: '500K+', 1: '500K+', 2: '500K+', 3: '500K+', 4: '200K+', 5: '200K+', 6: '200K+', 7: '200K+', 8: '200K+', 9: '100K+', 10: '100K+', 11: '100K+', 12: '100K+', 13: '100K+', 14: '100K+', 15: '100K+', 16: '100K+', 17: '100K+', 18: '100K+', 19: '100K+'}",85991,19.533439545999
+2020-03-26,26,3,2020,13963,249,United_States_of_America,US,USA,327167434.0,59,,"{0: 'Mark Blum', 1: 'Carole Baskin', 2: 'Lion', 3: 'Jon Jones', 4: 'U.S. population', 5: 'Curly Neal', 6: 'Maduro', 7: 'Cheesecake Factory', 8: 'Unemployment rate', 9: 'Amber Heard', 10: 'Peter Navarro', 11: 'Kathy Griffin', 12: 'Bison', 13: ""Jersey Mike's"", 14: 'Dave Matthews', 15: 'Kennedy Center', 16: 'Goat', 17: 'Carole Baskin husband', 18: 'Nintendo Direct', 19: 'Tana Mongeau'}","{0: '1M+', 1: '200K+', 2: '200K+', 3: '200K+', 4: '200K+', 5: '100K+', 6: '100K+', 7: '100K+', 8: '50K+', 9: '50K+', 10: '50K+', 11: '50K+', 12: '50K+', 13: '50K+', 14: '50K+', 15: '50K+', 16: '50K+', 17: '50K+', 18: '50K+', 19: '50K+'}",69194,20.1794953319652
+2020-03-25,25,3,2020,8789,211,United_States_of_America,US,USA,327167434.0,60,,,,55231,15.913164708225453
+2020-03-24,24,3,2020,11236,119,United_States_of_America,US,USA,327167434.0,64,,,,46442,24.193617845915334
+2020-03-23,23,3,2020,8459,131,United_States_of_America,US,USA,327167434.0,70,,,,35206,24.02715446230756
+2020-03-22,22,3,2020,7123,80,United_States_of_America,US,USA,327167434.0,77,,,,26747,26.63102404007926
+2020-03-21,21,3,2020,5374,110,United_States_of_America,US,USA,327167434.0,75,,,,19624,27.384834896045657
+2020-03-20,20,3,2020,4835,0,United_States_of_America,US,USA,327167434.0,76,,,,14250,33.92982456140351
+2020-03-19,19,3,2020,2988,42,United_States_of_America,US,USA,327167434.0,78,,,,9415,31.73659054699947
+2020-03-18,18,3,2020,1766,23,United_States_of_America,US,USA,327167434.0,80,,,,6427,27.477827913489964
+2020-03-17,17,3,2020,887,16,United_States_of_America,US,USA,327167434.0,89,,,,4661,19.030251019094614
+2020-03-16,16,3,2020,823,12,United_States_of_America,US,USA,327167434.0,98,"{0: 'idris elba coronavirus', 1: 'are gyms closing because of coronavirus', 2: 'san francisco coronavirus', 3: 'new jersey coronavirus lockdown', 4: 'coronavirus ii'}",,,3774,21.807101218865924
+2020-03-15,15,3,2020,777,10,United_States_of_America,US,USA,327167434.0,100,"{0: 'coronavirus tips', 1: 'coronavirus patient zero', 2: 'coronavirus curfew', 3: 'coronavirus in arizona', 4: 'coronavirus in tennessee'}",,,2951,26.330057607590646
+2020-03-14,14,3,2020,511,7,United_States_of_America,US,USA,327167434.0,79,,,,2174,23.505059797608094
+2020-03-13,13,3,2020,351,10,United_States_of_America,US,USA,327167434.0,89,,,,1663,21.10643415514131
+2020-03-12,12,3,2020,287,2,United_States_of_America,US,USA,327167434.0,100,"{0: 'rudy gobert coronavirus', 1: 'tom hanks coronavirus', 2: 'utah jazz coronavirus', 3: 'celebrities with coronavirus', 4: 'does tom hanks have coronavirus'}",,,1312,21.875
+2020-03-11,11,3,2020,271,2,United_States_of_America,US,USA,327167434.0,56,,,,1025,26.4390243902439
+2020-03-10,10,3,2020,200,5,United_States_of_America,US,USA,327167434.0,44,,,,754,26.52519893899204
+2020-03-09,9,3,2020,121,4,United_States_of_America,US,USA,327167434.0,38,,,,554,21.84115523465704
+2020-03-08,8,3,2020,95,3,United_States_of_America,US,USA,327167434.0,30,,,,433,21.939953810623557
+2020-03-07,7,3,2020,105,2,United_States_of_America,US,USA,327167434.0,30,,,,338,31.06508875739645
+2020-03-06,6,3,2020,74,1,United_States_of_America,US,USA,327167434.0,30,,,,233,31.759656652360515
+2020-03-05,5,3,2020,34,2,United_States_of_America,US,USA,327167434.0,29,,,,159,21.38364779874214
+2020-03-04,4,3,2020,22,3,United_States_of_America,US,USA,327167434.0,24,,,,125,17.6
+2020-03-03,3,3,2020,14,4,United_States_of_America,US,USA,327167434.0,26,,,,103,13.592233009708737
+2020-03-02,2,3,2020,20,1,United_States_of_America,US,USA,327167434.0,26,,,,89,22.471910112359552
+2020-03-01,1,3,2020,3,1,United_States_of_America,US,USA,327167434.0,17,,,,69,4.3478260869565215
+2020-02-29,29,2,2020,6,0,United_States_of_America,US,USA,327167434.0,20,,,,66,9.090909090909092
+2020-02-28,28,2,2020,1,0,United_States_of_America,US,USA,327167434.0,18,,,,60,1.6666666666666667
+2020-02-27,27,2,2020,6,0,United_States_of_America,US,USA,327167434.0,19,,,,59,10.169491525423728
+2020-02-26,26,2,2020,0,0,United_States_of_America,US,USA,327167434.0,16,,,,53,0.0
+2020-02-25,25,2,2020,18,0,United_States_of_America,US,USA,327167434.0,11,,,,53,33.9622641509434
+2020-02-24,24,2,2020,0,0,United_States_of_America,US,USA,327167434.0,7,,,,35,0.0
+2020-02-23,23,2,2020,0,0,United_States_of_America,US,USA,327167434.0,5,,,,35,0.0
+2020-02-22,22,2,2020,19,0,United_States_of_America,US,USA,327167434.0,4,,,,35,54.285714285714285
+2020-02-21,21,2,2020,1,0,United_States_of_America,US,USA,327167434.0,3,,,,16,6.25
+2020-02-20,20,2,2020,0,0,United_States_of_America,US,USA,327167434.0,3,,,,15,0.0
+2020-02-19,19,2,2020,0,0,United_States_of_America,US,USA,327167434.0,3,,,,15,0.0
+2020-02-18,18,2,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,,15,0.0
+2020-02-17,17,2,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,,15,0.0
+2020-02-16,16,2,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,,15,0.0
+2020-02-15,15,2,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,,15,0.0
+2020-02-14,14,2,2020,1,0,United_States_of_America,US,USA,327167434.0,4,,,,15,6.666666666666667
+2020-02-13,13,2,2020,1,0,United_States_of_America,US,USA,327167434.0,5,,,,14,7.142857142857143
+2020-02-12,12,2,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,,13,0.0
+2020-02-11,11,2,2020,1,0,United_States_of_America,US,USA,327167434.0,5,,,,13,7.6923076923076925
+2020-02-10,10,2,2020,0,0,United_States_of_America,US,USA,327167434.0,5,,,,12,0.0
+2020-02-09,9,2,2020,0,0,United_States_of_America,US,USA,327167434.0,5,,,,12,0.0
+2020-02-08,8,2,2020,0,0,United_States_of_America,US,USA,327167434.0,6,,,,12,0.0
+2020-02-07,7,2,2020,0,0,United_States_of_America,US,USA,327167434.0,6,,,,12,0.0
+2020-02-06,6,2,2020,1,0,United_States_of_America,US,USA,327167434.0,6,,,,12,8.333333333333334
+2020-02-05,5,2,2020,0,0,United_States_of_America,US,USA,327167434.0,5,,,,11,0.0
+2020-02-04,4,2,2020,0,0,United_States_of_America,US,USA,327167434.0,6,,,,11,0.0
+2020-02-03,3,2,2020,3,0,United_States_of_America,US,USA,327167434.0,7,,,,11,27.272727272727273
+2020-02-02,2,2,2020,1,0,United_States_of_America,US,USA,327167434.0,8,,,,8,12.5
+2020-02-01,1,2,2020,1,0,United_States_of_America,US,USA,327167434.0,9,,,,7,14.285714285714286
+2020-01-31,31,1,2020,1,0,United_States_of_America,US,USA,327167434.0,11,,,,6,16.666666666666668
+2020-01-30,30,1,2020,0,0,United_States_of_America,US,USA,327167434.0,12,,,,5,0.0
+2020-01-29,29,1,2020,0,0,United_States_of_America,US,USA,327167434.0,11,,,,5,0.0
+2020-01-28,28,1,2020,0,0,United_States_of_America,US,USA,327167434.0,12,,,,5,0.0
+2020-01-27,27,1,2020,3,0,United_States_of_America,US,USA,327167434.0,11,,,,5,60.0
+2020-01-26,26,1,2020,0,0,United_States_of_America,US,USA,327167434.0,10,,,,2,0.0
+2020-01-25,25,1,2020,1,0,United_States_of_America,US,USA,327167434.0,9,,,,2,50.0
+2020-01-24,24,1,2020,0,0,United_States_of_America,US,USA,327167434.0,8,,,,1,0.0
+2020-01-23,23,1,2020,0,0,United_States_of_America,US,USA,327167434.0,4,,,,1,0.0
+2020-01-22,22,1,2020,0,0,United_States_of_America,US,USA,327167434.0,3,,,,1,0.0
+2020-01-21,21,1,2020,1,0,United_States_of_America,US,USA,327167434.0,3,,,,1,100.0
+2020-01-20,20,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-19,19,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-18,18,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-17,17,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-16,16,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-15,15,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-14,14,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-13,13,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-12,12,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-11,11,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-10,10,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-09,9,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-08,8,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-07,7,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-06,6,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-05,5,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-04,4,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-03,3,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-02,2,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2020-01-01,1,1,2020,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
+2019-12-31,31,12,2019,0,0,United_States_of_America,US,USA,327167434.0,0,,,,0,0.0
